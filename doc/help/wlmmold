@@ -1,0 +1,822 @@
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+[44;33m¡¼ÎäÁÖÃØÃÜ¡½                                            [2;37;0m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m
+´Ë·Ýhelp,È¡²ÄÓÚxkx,ÓÐ²¿·ÖÊÇÓÚ±¾MUD²»¸½½ö¸ø´ó¼Ò×öÎª²Î¿¼
+                ¡¾½­ºþÃØÃÜ¡¿
+
+@ÌØÊâÈËÎï
+1.·çÇåÑî:fly hs;#3 s;#3 su;break bi;(ÄÚÁ¦Òª¹»£¡£©enter hole
+°Ý·çÇåÑî¿ÉÒÔÏòËûÑ§61¼¶µÄ¶À¹Â¾Å½££¡(Ç°ÌáÊÇÓÐ150¼¶µÄ»ªÉ½Éí·¨£¬»ªÉ½½£·¨ºÍ×ÏÏ¼Éñ¹¦£©¡£°ÝËûÒªÒ»¶¨µÄÕýÉñ£¨É±ÀîÄª³ð×ã¹»ÁË£©
+
+
+2.ÍõÖØÑô:È¥µ½ÖÕÄÏÉ½ºóÉ½ÄÇÀï;ne;e;n;e;e;s;enter
+¿ÉÒÔÏòËûÑ§Ò»ÑôÖ¸£¡£¨ÒªÏÈÑ§Ëû350¼¶µÄÏÈÌìÆø¹¦²Å¿ÉÒÔÑ§Ò»ÑôÖ¸£©
+
+@½â¶¾ÃØ·½
+ÒÀ´ÎÐò·Ö±ðÊÇ£ºÖÐ¶¾ÀàÐÍ ¶¾ÐÔ ½âÒ©ÃØ·½ 
+Éß¶¾
+ Èõ£¬ÓÉ¶¾ÉßÒ§ÉË¶øÖÂ£¬ÈÝÒ×ÖÎÁÆ£¬²»Î£¼°ÉúÃü¡£  ³ÔÉßÒ©.ÎèÉßÈËÉíÉÏÓÐ£¨tam;s;buy yao) 
+ÃÉº¹Ò©
+ Èõ£¬ºÈÁË±ðÈËÏÂÁËÒ©µÄ¾Æ´ü¶øÖÂ£¬²»Î£¼°ÉúÃü Ò»»á¶ù×Ô¼º¾ÍºÃÁË.Ò²Ðí³ÔÇåÐÄÉ¢¿ÉÒÔºÃµÄ¿ìÒ»µã. 
+¶Ï³¦²Ý¶¾
+ Èõ£¬ÔÚÉñÁúµº×ß´íÂ·¶øÖÐ¶¾ 1£º³Ôôä´äÀ¼(ºÍ¶Ï³¦²ÝÔÚÒ»¸öµØ·½)
+2£º×Ô¼ºÁÆÉË.Ò»¶ÎÊ±¼äºó¾ÍºÃÁË¡£ 
+¾ÅÒõ°×¹Ç×¦Ö®¸¯Ê¬¶¾
+ ÖÐ£¬±»ÈËÓÃ¾ÅÒõ°×¹Ç×¦´òÉË£¬¾«µÍµÄ»°ÓÐÒ»¶¨µÄÎ£ÏÕ¡£ ³ÔÇ§Äê±ùó¸(fly gc;e;s;buy chan)50½ðÒ»¸ö 
+ÐÇËÞ¶¾ÕÆÖ®¸¯Ê¬¶¾
+ ÖÐ£¬±»ÈËÓÃÐÇËÞ¶¾ÕÆ´òÉË£¬¾«µÍµÄ»°ÓÐÒ»¶¨µÄÎ£ÏÕ¡£ 1:³ÔÇåÐÄÉ¢(fly xx;s;wu;kill azi;get all from corpse)(fly xx;s;wu;nu;#3 n;enter;get all)
+2:³ÔºóÅäºÏµÈ¼¶¸ßµÄÄÚ¹¦ÁÆÉË£¬»òÇëÄÚ¹¦¸ßµÄÍæ¼Ò°ïÖúÁÆÉË¡£ 
+»ðÑæµ¶Ö®»ð¶¾
+ Ç¿£¬±»»ðÑæµ¶´òÉË£¬Ïàµ±Î£ÏÕ£¡ 1£º³ÔÑ©²Î£¨Õû¸ömudÖÐ×îÄÑÕÒµÄ½âÒ©£¬Ã¿´Îµ±»úºóËæ»úÄ³¸öÊ±¶Î²Å³öÏÖ£¬¶øÇÒÖ»ÓÐÒ»¸ö£¬±ðÈËÄÃÁË£¬ÄÇ¾ÍÒªµÈÏÂÒ»´Îµ±»úÁË£¬ºÃ²Ò°¡£¡£©(ÕÒÑ©²ÎÇëµ½ÆæÕäÒì±¦£©
+2£º×Ô¼ºÁÆÉË£¨ÄÚ¹¦Ò»¶¨Òª¸ß),²»ÖªµÀÒªÁÆ¶à¾Ã£¬¿´ÄãµÄÃüÔËÁË£¡£¡ 
+
+                ¡¾ÎäÑ§ÃØ¼®¡¿
+Ò×½î¾­ÎÄÑ§Æª(ÂÛÓï): ÄÚÈÝ:¶ÁÊéÊ¶×Ö´Ó0-101¼¶.
+Â·¾¶:fly xy;w;ask gou du about ÂÛÓï
+
+Ì«¼«Ê®ÈýÊÆ: ÄÚÈÝ:»ù±¾ÄÚ¹¦´Ó0-61¼¶.
+Â·¾¶:ÐèÎäµ±µÜ×Ófly wd;ask song about ÃØ¼®
+
+µÀµÂ¾­: ÄÚÈÝ:µÀ¼ÒÐÄ·¨´Ó0-101¼¶.
+Â·¾¶:ÐèÎäµ±µÜ×Ófly wd;ask guxu about ÃØ¼®
+
+Ê¯°å:   ÄÚÈÝ£º»ù±¾È­½Å0-50¼¶
+Â·¾¶:ÉÙÁÖµØÏÂÊÒ£¨¼û¸÷µØÃØ¶´£© 
+
+È­Æ××Ü¾ö: ÄÚÈÝ:»ù±¾È­½Å0-100¼¶
+Â·¾¶:µ½ÉñÁúµºn;kan bush;#4 n(ÉñÁú½Ì¾üÊ¦ÔÚÕâÀï)
+
+¾ÉÖñÆ¬: ÄÚÈÝ:»ù±¾Çá¹¦´Ó0-31¼¶.
+Â·¾¶:fly sl,knock gate;n;n;nu;n;n;n;nu;n;n;n;n;nu;(Ç§·ðµî)open door;n;sw;se;n;s;w;e;w;e;e;s;w;n;nw;n.»áµ½´ïÄ¦¶´;get all
+
+¾ÅÒõÕæ¾­ÉÏ²á: ÄÚÈÝ:»ù±¾ÄÚ¹¦µ½201¼¶(ÐèÒª¾­Ñé10Íòexp²Å¿ÉÒÔ¶Á).
+Â·¾¶:fly qz;e;enter chuan;#13 s;e;e;s´ò»èÒ»Ìõ ¶¾Éß(Snake),ÄÃÔÚÉíÉÏ£¬e;enter,°Ñ¶¾Éß¸øÖÜ²®Í¨´ýÆä×ßºólook xia;pick book
+
+¾ÅÒõÕæ¾­ÏÂ²á: ÄÚÈÝ:¾ÅÒõ°×¹Ç×¦101¼¶.
+Â·¾¶:ÌÒ»¨É½×¯ÕýÃÅsµ½Í·,¼ûµ½»ÆÒ©Ê¦É±Ö®,get all from corpse
+
+»ªÉ½½£Æ×ÉÏ: ÄÚÈÝ:»ù±¾½£·¨.
+Â·¾¶:gc #5 n;nw;#4 n;w;nw;ask punk about ÍõÐ¡¶þ;se;e;#2 n;#2 nw;ne;enter hole;ask wang about ¼¦;biqua;
+
+»ªÉ½½£Æ×ÏÂ: ÄÚÈÝ:»ù±¾½£·¨.
+Â·¾¶:fly hs;s;w;ask ning about »ªÉ½½£Æ×;(Òª»ªÉ½µÜ×Ó)
+
+ÔÆÁú½£Æ×: ÄÚÈÝ:ÔÆÁú½£·¨µ½61¼¶.
+Â·¾¶:fly tam;w;s;w;knock floor 3;enter hole;#3 s;w;#4 n;ask chen about ÔÆÁú½£Æ×;
+
+ÔÆÁú¾­ÉÏ: ÄÚÈÝ:ÔÆÁúÐÄ·¨.
+Â·¾¶:gc #3 n;ask ma about ÔÆÁú¾­;
+
+ÔÆÁú¾­ÏÂ: ÄÚÈÝ:ÔÆÁúÐÄ·¨.
+Â·¾¶:fly tam;w;s;w;knock floor 3;enter hole;ask xuan about ÔÆÁú¾­;
+
+ÁùÂöÉñ½£½£Æ×: ÄÚÈÝ:ÁùÂöÉñ½£µ½302¼¶£¬Òªforce 500¼¶ÒÔÉÏ.
+Â·¾¶:´øÉÏ¼¸Ê®Á½gold,¶Ý »¤ËþÉ®(huta seng);give seng 10 gold;look zhuozi;d;s;ask yin about ÉáÀû×Ó;n;n;ask seng about ÉáÀû×Ó;ask seng about ¶ªÊ§;(É¨µØÉ®);s;w;s;s;e;s;s;w;s;ask sengren about ÉáÀû×Ó;buy xiang;se;dian xiang;pushin xiang;(Ö±µ½³öÏÖ)#4 n;w;n;n;w;s;give yin jin he;ask ku about ÁùÂöÉñ½£;fight ku.´òÓ®¿ÝÈÙ¿ÉµÃ.
+
+¾ÅÑôÉñ¹¦: ÄÚÈÝ:¾ÅÑôÉñ¹¦
+Â·¾¶:ÏÈÉÏÒ»¸öÐÂID£¬ÒªÇó±ÛÁ¦Ð¡ÓÚ»òµÈÓÚ15£¬¸£Ôµ>20;fly kl;Åª»è×ÔÒÑ£¬ÓÃÁíÒ»¸öID£¨Çá¹¦Òª¹»¸ß£©get xxx;nu;eu;s;jump down;£¨Èç¹ûÈ¥µ½µÄÊÇÓÐout³ö¿ÚµÄµØ·½Ôòout³öÀ´ÔÙÌø£¬Ö±µ½Ò»¸öÃ»ÓÐÈÎºÎ³öÂ·µÄµØ·½¡££©ÐÑÀ´ºó zuan cave;n;get ku zhi;snap zhi;s;w;bandage monkey;e;n;µÈÒ»»á£¬monkey¾Í»á¸øÄãÒ»±¾ÀãÙ¤¾­(Shu).(study shu ¿ÉÒÔÄÜÑ§ìø×ÚÐÄ·¨;study jiafeng ¿ÉÒÔÑ§¾ÅÑôÉñ¹¦ ¿ÉÑ§ÄãÄÚ¹¦µÄÒ»°ë)
+
+ÆåÆ×: ÄÚÈÝ:»ù±¾ÄÚ¹¦µ½20¼¶.
+Â·¾¶:fly xy;#2 s;ask kang about ÆåÆ×;
+
+ÓñÅ®ÐÄ¾­ÉÏ¡¢ÏÂ: ÄÚÈÝ:ÓñÅ®ÐÄ·¨
+µØµã:ÔÚ¹ÅÄ¹ÀïÕÒÐ¡ÁúÅ®ºÍÁÖ³¯Ó¢Òª.ask long about ÓñÅ®ÐÄ¾­
+
+ÓñÅ®½£Æ×: ÄÚÈÝ:ÓñÅ®½£·¨
+µØµã:ÔÚ¹ÅÄ¹µÄºóÌü£¬ÓÐ¸ö¹×²Ätang xxxx(¹×²ÄµÄÓ¢ÎÄÃû)ÓÐµÄ»°»áÌáÊ¾ÄãÒÑ¾­µÃµ½ÁË.
+
+ÁéðÕ¹¬ÃØ¼®: ÄÚÈÝ:ÌìÉ½ÁùÑôÕÆÕÆ·¨Í¼¡¢ÌìÉ½ÕÛÃ·ÊÖÊÖ·¨Í¼ºÍÌìÓðÆæ½£½£·¨
+Â·¾¶:fly lj;n;n;n;move jiashan;enter;nd;nd;ed;#5 n;e;n;w;w
+ 
+¿û»¨±¦µä(1):¿É¶Á±ÙÐ°½£·¨450¼¶ 
+×Ô¹¬:gc #5 w;se;ask hai about ×Ô¹¬ 
+ÕÒÂòÂôÌá(ÔÚ±±½®Ð¡Õò)Âò¼¸Ö§»ðÕÛ 
+È»ºóµ½¸£ÍþïÚ¾Ö(gc;#2;w;#2;s)ask lin about ¸£ÍþïÚ¾Ö;ask lin about Ô¶Í¼¹«;ask lin about ±ÙÐ°½£·¨;(ÓÐÊ±ÄãÒ»ÎÊËû¾ÍÒªÉ±Äã,ËùÒÔÒªÐ¡ÐÄ)ask lin about Í­°å;(´ËÊ±ÁÖÕðÄÏ¾Í»áËµ:ÏÈ×æÈ¥ÊÀÇ°,Ôø¸ø¼Ò¸¸ÁôÏÂXXXX¸öÍ­Ç®,°ÑÕâËÄ¸öÊý¼ÇÆðÀ´)Èç¹ûÒÔºóÍüÁË,Ö»ÐèÔÙµ½ÕâÀïask lin about Í­Ç® 
+fly qz;w;n;break men(ÄÚÁ¦>=200);n;downwell;use fire;zuan 
+µ½ÃÜµÀÀï£¬press xxxx£¨xxxxÎªÁÖÕðÄÏ¸æËßÄãµÄÍ­°åÊý£©£¬¾Í¿ÉÒÔ½øµ½ÃÜÊÒÁË.climb tie xiang;jump liang;£¨Çá¹¦>=20¼¶£©move jia sha;¾Í¿ÉÒÔµÃµ½±ÙÐ°½£Æ×ÁË¡£ 
+
+¿û»¨±¦µä(2):¿É¶Á¿û»¨Éñ¹¦100¼¶ 
+×¼±¸¹¤×÷:1.ÌìÏãÌÃÁîÅÆ,2.ÇàÁúÌÃÁîÅÆ,3.°×»¢ÌÃÁîÅÆ,4.·çÀ×ÌÃÁîÅÆ,5.ÈáË¿Ë÷
+1.·çÀ×ÌÃÁîÅÆ:fly gc;#8 s;se;w;n;su;#4 s;kill ÌÃÖ÷;get all from corpse
+2.ÇàÁúÌÃÁîÅÆ:fly gc;#8 s;se;#2 w;su;#3 s;kill shi nu;get all from corpse
+3.°×»¢ÌÃÁîÅÆ:fly hs;s;kill ling huchong;get all from corpse
+4.ÌìÏãÌÃÁîÅÆ:(Õâ¸ö×îÄÑ)µ½Å·ÖÊ×ÓÄÇÀïÍù»Ø×ßµ½ÄÏ½«Ð¡Õò£¨¶Ýouye zi;out;e;se;se;ne;ne£©nw;#3 ne;#2 nw;ed;ne;give ji(¼ÆÀÏÈË)flower(ÓÄê¼ÏÉ»¨);µÃµ½ÑÌ²Ý;give ÀÏÕß(gc;#8s;se)ÑÌ²Ý;µÃÌìÏãÌÃÁîÅÆ
+5.ÈáË¿Ë÷:(ÏÈÕÒµ½Ñ©²Ï,ÒªÁ½¸ö)give ËÕÆÕ ÀÇÆ¤;µÃµ½Ã«Ìº;give ji Ã«Ìº;µÃµ½½ðÕë; ÕÒµ½°¢Âü;give °¢Âü ½ðÕë;give °¢Âü Ñ©²Ï(Ö±µ½Ëû¸øÄãÈáË¿Ë÷,ÒòÎªËûÀÏËµÑ©²Ï²»¹») ×¢£º1.ÀÇÆ¤ÊÇÉ±´ó»ÒÀÇµÃµ½2.¼ÆÀÏÈË¡¢´ó»ÒÀÇ¡¢ËÕÆÕ¡¢°¢Âü¶¼ÔÚÄÏ½®Ð¡Õò¸½½ü£¬È«²¿¿ÉÕÒµ½¡£
+¼û¶«·½²»°Ý£¨Òª¼ûËûºÜÄÑ£¬³ýÁËÒª½âÃÔÍâ£¬»¹ÒªÃ»ÓÐÍæ¼ÒÕ¼¾ÝµÀÂ·£¬(Éý½µÌÝ£¿hehe!),µÈÎÒ³¹µ×¸ãÇå³þºó»áÐ´³öÀ´¡££©
+1.give ¶«·½²»°Ý baodian1(¿û»¨±¦µä(1))
+2.give ¶«·½²»°Ý ÈáË¿Ë÷
+3.Ëü»á½ô½Ó×ÅÎÊÄãËûµÄÊÖ¾îÉÏÓÐ¶àÉÙ¶à»¨!!!ÄãÐèÔÚÒ»ÃëÖÓÄÚ»Ø´ðËû.´ð°¸ÊÇ°ÑÄãµÄidÉúÈÕ»»Ëã³É¹«Ôª¼ÍÄê×¢ÒâÈç¹ûÄãÃ»ÓÐÔÚÒ»ÃëÖÓÄÚ»Ø´ð»ò»Ø´ð´íÎó.Äã»áËÀµÄºÜ²Ò (Èç¹ûÎ×Ê¦ÔÚÏßÊ±¿ÉÒÔÕÒËû°ïÄã»»Ëã£©»Ø´ðµÄÖ¸ÁîºÃÏñÊÇ:answer xx
+
+ÁíÍâ£¬ÓÐ¼¸´¦¹Ì¶¨µØ·½ÊÇ¿ÉÒÔÄÃµ½ÊéµÄ£º
+1.ÌìµØ»á²àÌü£¨fly tam;w;s;w;knock floor 3;enter hole;#3 s;w;#4 n;e;£©
+2.ÉñÁúµº£¨fly qz;e;ask chuanfu about ³öº£;give chuanfu 1 gold;n;kan bush;#3 n;£©
+3.Ñ©É½ËÂ²Ø¾­ÊÒ£¨fly xs;w;u;e;nw;£©
+ÒÔÉÏ¼¸´¦µØ·½ÄÜÄÃµ½µÄÊé´óÌåÊÇÒ×¾­½îÎÄÑ§Æª¡¢È­Æ××Ü¾÷¡¢±¡¾î¡¢ÌúÊÖÕÆ¡¢¾ÉÖñÆ¬¡¢ÐÇËÞ¶¾¾­µÈ£¬ÔÚÑ©É½»¹ÄÜÄÃµ½ÃÜ×ÚÐÄ·¨ºÍÑòÆ¤Êé¡£
+4.ÉÙÁÖËÂµÄ²Ø¾­¸ó
+Ã¿´ÎËæ»úÓÐ3±¾ÉÙÁÖÎä¼®£¨¼¸ºõÉÙÁÖµÄËùÓÐÎä¹¦¶¼ÓÐµÄ¶Á£©£¬ÒªÇó40-50Íò¾­Ñé²ÅÄÜ¶Á£¬ÉÙÁÖµÜ×Ó¿ÉÈ¥·½ÕÉÂ¥ÕÒÇåÀÖ±ÈÇðÒªÊÖÚÍºÍ´ïÄ¦Áî£¬±ã¿ÉÈ¥Ñ§Îä¼®¡£
+
+                ¡¾½­ºþ±¦Îï¡¿
+1.·üÄ§µ¶£º fly sl;w;w;w;e;s;e;n;n;e;w;s;enter;ask du e about ·üÄ§µ¶ 
+2.½ð¸ÕÕÖ£º fly sl;w;w;w;e;s;e;n;n;e;w;s;enter;ask du jie about ½ð¸ÕÕÖ 
+3.ÆÐÌá×Ó£º fly sl;w;w;w;e;s;e;n;n;e;w;s;enter;ask du nan about ÆÐÌá×Ó 
+4.±ÌË®½££º fly hs;s;kill yue;get all from corpse 
+5.»Æ½ð¸«£º fly tam;#7 w;wd;w;w;w;wu;wd;w;w;sw;se;n;ne;w;n;n;n;se;ne;se;se;wu;w;w;
+n;climb up;move sand;push men;enter;tiao down,tiao down,£ºget axe from Ê¯ÃÅ 
+6.Óñ½£(Óñµ¶)(Óñ¸«) Â·Ïß³Ð½ÓÉÏÃæµÄget axe from Ê¯ÃÅ;wield axe;break Ê¯ÃÅ;e 
+7.ÑªÀÇ Â·ÏßÒ²ÊÇ³Ð½ÓÉÏÃæµÄ ketou stone 4;pull blade;up (Ã¿´Îµ±»úÖ»ÓÐÒ»°Ñ£¬¶øÇÒµ¶µÄ¹¥»÷Á¦Ò²ÊÇËæ»ú¸Ä±äµÄ) 
+8.·ÉÍÕ½ð¼× Â·ÏßÔÙ´Î³Ð½ÓÉÏÃæ n;open door;w;climb Óñ´²;move Óñ×À;enter;d;remove all;out;get jia (ÔÚÕâÀï¿ÉÒÔÏ´Ôè£¬¼ÓÈÝÃ²£¬zuan hole¾Í³öÈ¥ÁË) 
+9.ÐþÌú½£ É±µôÑî¹ý(Ñî¹ýÕÒ·¨ÔÚÉñÃØÈËÎïÒ³)get all from corpse 
+10.ÊçÅ®½£ É±Ð¡ÁúÅ®(Ð¡ÁúÅ®ÔÚ¹ÅÄ¹,¼û¸÷µØÂ·¾¶Ò³)get all from corpse 
+11.¾ý×Ó½£ ÕÒµ½Ð¡ÁúÅ®(Í¬ÉÏ)ask long about Ñî¹ý 
+12.½ðÉß½£ fly cd;#7 w;nw;#2 nu;n;e;w;s;n;e;s;use fire;zuan;jump stone;climb string;e;ba jian(ÐèÒª±ÛÁ¦>29,ÄÚÁ¦>2000,¹¥»÷+400,±ÛÁ¦+10) (Ã»ÊÔ¹ý£©
+13.Ãæ¾ß É±ÕÅÈý,Â·¾¶²»¾ø¶Ôfly gc;#8 s;sw;w;su;s 
+14.½ðÂÖ£º fly xs;w;u;e;kill fawang;get all from corpse 
+15.²¼ÕóÏä£º ÌÒ»¨µºÕýÌüÏò¶«£¬´òÔÎÑÆÆÍºó£¬get all from yapu 
+16.Èíâ¬¼×£º ÌÒ»¨µºÕýÌüÏòÎ÷£¬kill huang rong£»get corpse 
+17.»¤·¨ôÂôÄ£º ÔÚÐþÄÑ£¬Ðþ¿à,ÉÙÁÖ·½ÕÉÉíÉÏ¡£¼Ó2µãÎòÐÔ¡£ 
+18.Ñ©²Ï: fly kl;nu;eu;e;jump down(Ìøµ½Ñ©¹È¾ÍÔÚÕâÀïµÈ°É£¬Ëæ»ú³öÏÖµÄ¡£) 
+19.Ñ©²Î: Í¬ÉÏ(µ«Õâ¸ö¸üÄÑÄÃ,ÒòÎªËüÃ¿´Îµ±»ú²Å³öÀ´Ò»¸ö) 
+20.°Ù»¨òóÉß¸à: (ÐèÒª´ø1gold)fly tam;#6 e;ask chuanfu about ³öº£;give chuanfu 1 gold;n;kan beep;#2 n;kill fu she;get dan;kan beep;n;w;get hua(°ÙÏã»¨);#2 e;give ***(ÈÈÑªÉñÁú) hua;give ***(ÈÈÑªÉñÁú) dan 
+21.ÒÐÌì½£: ÔÝÊ±Â·¾¶²»×¼È· 
+22.ºÎÊ×ÎÚ: fly ca;e...ÓÐÒ»¸öÐ¡··(seller)ask seller about Ò©²Ä;give seller 1 gold(³Ô100¸ö¿ÉÎÞÈÎºÎÌõ¼þ°Ñ¾«Á¦´Ó0¼Óµ½202) 
+23.ÓÄê¼ÏÉ»¨: fly kl;nu;eu;e;ed;ed;sd;ed;ed;nd;ed;sd;ed;e;e;e;n;e;e;s;s;s;w;n;
+get all (¼ñµ½µÄ¼¸ÂÊ·Ç³£Ð¡1/1000,½¨Òé¸÷Î»²»Òª³¢ÊÔ) 
+24.Ã÷Ê·¼­ÂÔ fly tam;e;n;w;w;w;w;w;w;kill ao;get anmenkey from corpse;e;kill guan jia;n;get book 
+15.ËÄÊ®¶þÕÂ¾­¡¢Ø°Ê×¡¢½ðË¿±¦¼× ´ÓÃ÷Ê·¼­ÂÔ´¦×ß #3 move picture right;move picture;unlock door;n;get all;s 
+
+
+ÓÐµÄÍæ¼ÒËµÐí¶àÃÔÌâÌ«ÄÑ½â£¬ÆäÊµ´ó¶àÃÔÌâ¶¼ÓÐÌáÊ¾µÄ£¬Ö»²»¹ýÓÐÐ©Ð¡µØ·½ÄãÃ»×¢Òâ¶øÒÑ£¬ÕâÀï¾ÍÍ¸Â¶Ò»Ð©ÓÐÓÃquestµÄÌáÊ¾¡£ 
+°Ù»¨òóÉß¸à 
+
+¹¦ÓÃ: Ëæ»ú¼Ó0~9ÄÚÁ¦ÉÏÏÞ
+
+°Ù»¨òóÉß¸àÊÇÓÃòóÉßµ¨ºÍ°ÙÏã»¨×ö³ÉµÄ£¬È¥ÉñÁúµº×ª×ª°É¡£
+
+À°°ËÖà
+
+¹¦ÓÃ: Ëæ»ú¼Ó0~50ÄÚÁ¦ (×¢Òâ:²»¿ÉÁ¬×Å¶àºÈ)
+
+ÒªÄÃµ½À°°ËÖà±ØÐèÒªÓÐ¸¯ÐÄ²ÝºÍÉÍÉÆ·£¶ñ²¾£¬Ç°ÕßÊÇÏÀ¿ÍµºµÄÌØ²ú£¬ÖÁÓÚºóÕß¿ÉÒÔÈ¥ÎÊÎÊ¶£µ±ºÍÊ¯ÖÐÓñ¡£
+
+Ðþ±ù±Ì»ð¾Æ
+
+¹¦ÓÃ: ½â°Ù¶¾
+
+¿ÉÒÔÈ¥ÏÀ¿ÍµºÎÊÎÊÊ¯ÆÆÌì£¬ËûÒ»Ö±ºÈµÄ(.....ÎÒÒ²Òª)¡£
+
+ÆÐÌá×Ó
+
+¹¦ÓÃ: ¼Ó100ÄÚÁ¦ÉÏÏÞ (×¢Òâ:²»¿ÉÁ¬×Å³Ô£¬×îÆðÂëÒ²Òª5~6Ð¡Ê±²ÅÄÜ³ÔµÚ¶þ¿Å!!!)
+
+ÆÐÌá×ÓÎÊÎÊ¶ÉÄÑÈ¥°É£¬²»¹ý¹¦·ò²»µ½²»ÒªÈ¥Ñ½£¬½ð¸Õ·üÄ§È¦¿É²»ÊÇÐ¡º¢×ÓÓÎÏ·µÄµØ·½¡£
+
+ÈË²Î¹û
+
+¹¦ÓÃ: ¼Ó10µãÄÚÁ¦ÉÏÏÞ (Õªµ½ÁË¾Í¿ì³Ô£¬»¯ÁË¾Í¿ÉÏ§ÁË)
+
+ÌýËµÎäµ±µÄºóÉ½¹ûÔ°ÓÐ¿ÃÈË²Î¹ûÊ÷£¬²»¹ýºÃÏóÓÐÌõ¾ÞòþÊØ×Å¡£
+
+ÐÂÏÊÐÜµ¨ 
+
+¹¦ÓÃ: ¼Ó2ÄÚÁ¦ÉÏÏÞ (¿ì³ÔÅ¶£¬¸ÉÁË¾ÍÖ»¼ÓÒ»µãÄÚÁ¦ÁË)
+
+
+È¥¹ØÍâ´òºÚÐÜÈ¥°É(ºÃÏóÊÇ¹ú¼Ò±£»¤¶¯Îï.....)¡£
+
+ôä´äÀ¼ 
+
+¹¦ÓÃ: ½â°Ù¶¾
+
+È¥ÉñÁúµºÅöÅöÔËÆø°É¡£
+
+½õºÐ
+
+¹¦ÓÃ: Ñ§Ç§ÖëÍò¶¾ÊÖ (Ñ§ÁË¼õÈÝÃ²Å¶)
+
+ÕâÊÇÒóÀëµÄ¾ø¼¼£¬ËýÄ¿Ç°ºÃÏóÔÚÈªÖÞµÄº£¸Û¡£
+
+ºú¼Òµ¶Æ×
+
+¹¦ÓÃ: Ñ§ºú¼Òµ¶·¨
+
+ºú¼Òµ¶Æ××ÔÈ»ÔÚºúì³µÄÉíÉÏ£¬ÔõÃ´ÎÊËûÄÃÄØ?ºÃÏóËûÓÐ¸ö³ðÈË°É¡£
+
+Á¬³Ç½£Æ×
+
+¹¦ÓÃ: Ñ§Á¬³Ç½£·¨
+
+µÒÔÆºÃÏóÓÐÁ¬³Ç½£Æ×,ÏëÏë°ì·¨°É¡£
+
+½ðÉßÃØ¼®
+
+¹¦ÓÃ: Ñ§½ðÉß½£·¨£¬ÕÆ·¨£¬×¶·¨
+
+½ðÉßÃØ¼®Á¬Í¬½ðÉß½£¸ø½ðÉßÀÉ¾ý²ØÔÚ»ªÉ½µÄÇÍ±ÚÁË,Ã»ÓÐºÜ¸ßµÄÉí·¨ÊÇÃ»°ì·¨ÄÃµÃµ½µÄ¡£
+
+Ç¬Â¡»ÊµÛ
+
+¹¦ÓÃ: ¼Ó15000¾­Ñé
+
+Ç¬Â¡»ÊµÛºÃÏó±»À§ÁùºÏËþÁË£¬¾È»ÊµÛ×ÔÈ»ÓÐºÃ´¦£¬È¥¾ÈËûÊÔÊÔ£¬ºÇºÇ£¬ºì»¨»á¿É²»ÊÇÊ¡ÓÍµÄµÆ¡£¼ûµ½ÁË»ÊµÛ¸ÃÔõÃ´×ö? ÕâÊÇ³£Ê¶°É£¬¼ûµ½»ÊµÛµ±È»Òª....
+
+¡¾ Á·¹¦ÃØ¼® ¡¿
+
+    »ù±¾ÄÚ¹¦(force)£º
+
+ÐÂÊÖ¿É¶ÁµÄÊéºÜ¶àÈç¡¶Ì«¼«Ê®ÈýÊÆ¡·£ºdu shu,Îäµ±µÜ×Ó¿ÉÒÔÏòËÎÔ¶ÇÅÒª£ºask song about ÃØ¼®¡£
+¡¶ÐþÃÅÄÚ¹¦ÐÄ·¨¡·:du xinfa,¡¶ÐþÃÅÄÚ¹¦ÐÄ·¨¡·ÓÐÌØÊâ¹¦Ð§£¬look xinfa¾ÍÖªµÀÀ²£¬
+È«ÕæµÜ×Ó¿ÉÒÔÏòÇð´¦»ùÒª£ºask qiu about miji¡£È«ÕæµÜ×ÓÄÃ×ÅËü´ò×ø£¬ËÙ¶ÈÔö¼ÓÒ»±¶¡£
+ÉÙÁÖµÜ×Ó¿ÉÒÔÈ¥´óÐÛ±¦µîketou,ÄÜÄÃµ½Ò×½î¾­ÄÚ¹¦Æª£¨Ë¿¾î£©ÄÃ×ÅËüÔÚµîÀïketou ÄÜµ½¶àÉÙ¼¶²»ÖªµÀ.¿ÉÄÜÊÇ300 ¼¶.¡£
+ÕâÐ©Êé¶¼¿ÉÒÔ¶Áµ½31¼¶¡£
+È»ºó¿ÉÒÔÈ¥¶ëáÒÉ½À×¶´ÆºÓÃ¡°say i;hp¡±Á·»ù±¾ÄÚ¹¦£¨ÏûºÄ¾«ºÍÆø£¬Ð¡ÐÄ±»ÅüÔÎ£©£¬¿ÉÒÔÁ·µ½101¼¶£¬²»¹ýÐèÒª100KµÄÊµÕ½¾­Ñé£¨exp£©¡£
+ÖÕÄÏÉ½µÄ±ù¶´ÀïÒõ·ç´Ì¹Ç£¬É½ÀÏ»¢ÕÅÑÀÎè×¦£¬ÐÂÊÖÃÇ»¹ÊÇ±ð½øÈ¥Á·»ù±¾ÄÚ¹¦µÄºÃ£¬ÒòÎª»áÊÜÉË£¬ÐÂÊÖyun healÒ»´ÎÐ§¹û²»´ó£¬¶øÇÒÆøÌ«¶Ì¡£ÔÚ±ù¶´ÖÐ¿ÉÒÔ×öÒ»¸ö´¥·¢£¬¾ßÌåÎª: #tr (Äã¾õµÃÒ»ÕóÀäÆø±ÆÀ´£¬È«ÉíµÄÑªÒº¶¼¿ì¶³½©ÁË£¡) (dig) ¿ÉÒÔ¼ÓËÙÎªÔ­À´µÄ2-2.5±¶¡£ µ«Òª×¢Òâ£¬ÕâºÜÎ£ÏÕ£¬Òª¶àÂòjinchuang yao,×îºÃfull skills¡£
+×îºóÈ¥´ïÄ§ÔºÁìÎò¡£
+»ªÉ½µÄÆÙ²¼£º×°±¸Ò»°Ñ½££¬ÔÙ¶à´ø¼¸°Ñ±¸ÓÃ£¬ÓÃ£ºjump stoneÌøÉÏÊ¯Í·£¬ÓÃ£ºda stone´òÊ¯Í·£¬¿ÉÒÔÍ¬Ê±Á·Ï°»ù±¾ÕÆ·¨ºÍ»ù±¾½£·¨£¬µ«ÐèÒªÒ»¶¨µÈ¼¶µÄÇá¹¦£¬Á·ÍêºóÓÃ£ºjump bank£¬Ìø»Ø°¶ÉÏ¡£
+ÔÚ»ªÉ½µÄË¼¹ýÑÂ#20 mianbi£¬Ò²ÄÜÔö¼ÓÒ»Ð©£¬²¢ÇÒ¿ÉÒÔÔö¼ÓÕýÉñÖµ¡£
+ÔÚ¶«±±µÄÄ³Ò»µØ£¬Ö»ÒªÀ´»ØµÄ×ß¾Í¿ÉÒÔ³¤forceÒª±ÈÀ×¶¯ÆººÃµÄ¶à£¬ºÜÈÝÒ××ötrigger£¬ÓÖ²»ÈÝÒ×»èµ¹£¬²»¹ýºÃÏó¶Ô¾­ÑéºÍforceµÈ¼¶ÓÐÒªÇó£¬¶«±±changbaishanµÄÑ©µØ´Ó¡°¶«³Ç¡±µ½¡°´¬³§¡±£¬À´»Ø×ß£¬Ö»ÏûºÄ¾«Á¦£¬²»¹ýÒ»¶¨ÒªÓÐÄÚÁ¦£¬²»È»»á´óÁ¿ÏûºÄÆø¡£
+
+
+
+    »ù±¾ÕÐ¼Ü(parry)£º
+
+ÐÂÊÖ¿ÉÒÔÕÒ£ºÌúÊÖÕÆ[Ò×½î¾­¹¥·ÀÆª]£¬Ö»ÓÐÉÙÁÖµÜ×Ó¿ÉÒÔÒªµ½£¬ÔÚÉÙÁÖµÄÓëºÍÉÐÔº¶þ²¿ÅÔ±ßµÄÖñÁÖÐ¡µÀÓÃ£º
+open door;e;ask seng about ÌúÊÖÕÆ£¬Ïò´òÌúÉ®Òª£¬²»¹ýÓÐÊ±ºòÊÇ¼ÙµÄ¡£ÄÃµ½ºódu hand£¬¿ÉÒÔ¶Áµ½31¼¶£¬ÒÔºóÐèÔÚÕ½¶·ÖÐÑ§Ï°£¬±ß´ò±ßstudy hand,Ð§¹û²»¿ì£¬¿ÉÒÔµ½101¼¶¡£
+ÖÕÄÏÉ½µÄ·ç¶´Àï´óÊ¯·ÉÎè£¬ÊÇÁ·»ù±¾ÕÐ¼ÜµÄµØ·½£¬¿ÉÒÔÁ·µ½101¼¶¡£½øÈ¥Ö®Ç°×îºÃ×°±¸armor and swordÒòÎªÃ¿20·ÖÖÓ×óÓÒ»áÓÐ×Ô¼ºµÄcopy--´ó¹·ÐÜÏ®»÷£¬ÓÐÊ±ºòÒ»À´Ò»´óÅú£¬ËùÒÔÓÐÇ®µÄ×îºÃËæÉí±¸½ð´´Ò©£¬Ã»ÓÐµÄ»°Ö»ºÃyun heal¡£É±ÁË¹·ÐÜÄÜÄÃµ½ÐÜµ¨£¬ÐÜµ¨Ã»±ª×Óµ¨ºÃ£¬Ö»ÕÇ200µãÄÚÁ¦£¬µ«ÂôÇ®»¹ÊÇ²»´íµÄ¡£ÏÈÕÒÒ»ÌõÆ¤Ñü´ø£¬È»ºó»»4-6ÍòµÄÍ­Ç®·ÅÔÚÀïÃæ£¬È»ºóÔÚÊ±¼ä´¥·¢ÀïÌîget 1 coin from yaodai;throw coin£¬Ê±¼ä¿´ÄãµÄÍøËÙ¸ßµÍ£¬ÎÒ½¨ÒéÌî2-3ÃëÒ»´Î¡£×ÜµÄÀ´Ëµ£¬ÍøËÙÔ½¿ì£¬expÔ½¸ß£¬Ê±¼äÔ½¶Ì£¡×îºóÈ¥´ïÄ§ÔºÁìÎò¡£
+
+
+    »ù±¾Çá¹¦(dodge)£º
+
+ÉÙÁÖµÜ×Ó¿ÉÒÔÈ¥´ïÄ¦¶´ÕÒ¾ÉÖñÆ¬[Ò×½î¾­Çá¹¦Æª]£¬ÔÚÇ§·ðµîopen Ä¾ÃÅ;n;sw;se;n;s;w;e;w;e;e;s;w;n;nw;n;mianbi£¬¿ÉÒÔÄÃµ½£¬ÄÃµ½ºó£ºdu bamboo£¬¿É¶Áµ½31¼¶¡£ÄÃ×ÅËüÔÚÖñÁÖÀïÓÃÉÏÃæµÄÂ·¾¶À´»Ø×ß¿ÉÒÔµ½300 ¼¶(ºÃÏóÊÇ)¡£
+¶ëáÒÅÀÉ½£ºËÙ¶ÈºÜÂý£¬½¨Òé²»ÓÃ¿ÌÒâÈ¥Á·¡£
+´óÀíÅÀÇ½¡£
+ÖÕÄÏÉ½ÅÀÐüÑÂ£ºÔÚÐüÑÂÄÇ¶ù°Ñ¾«Á¦ÍÂÄÉµÄ¸ßÒ»Ð©£¬ÉÏÉÏÏÂÏÂÂÒÅÀÒ»Í¨¾Í¿ÉÒÔÁ·Ï°»ù±¾Çá¹¦£¬ÏòÉÏÅÀ£ºclimb up£¬ÏòÏÂÅÀ£ºclimb down£¨Ö»ºÄ·Ñ¾«Á¦£©¡£ÐüÑÂÒ»¹²ÓÐÈý²ã£¬Ô½ÍùÉÏÇá¹¦¾Í³¤µÃÔ½¿ì¡£×îºóÈ¥´ïÄ§ÔºÁìÎò¡£
+
+    »ù±¾ÕÆ·¨£¨strike£©£º
+
+¶ëáÒÉ½Ê®¶þÅÌ£¬ÓÃclapÁ·»ù±¾ÕÆ·¨£¨ºÄ·Ñ¾«£©¡£
+È«Õæ½ÌµÄÁ·Îä³¡ÓÃ£ºstrike mutourenÁ·»ù±¾ÕÆ·¨£¬¿ÉÒÔµ½101¼¶¡£
+ÉÙÁÖµÄÃÜÊÒÖÐÓÐÊ¯¿é[Ò×½î¾­ÕÆ·¨Æª]£¬¿ÉÒÔdu stoneµ½31¼¶¡£È»ºó¿ÉÒÔÔÚÉÙÁÖÃÜÊÒÖÐ¶ÁÊ¯×À£ºdu tableµ½101¼¶£¬²¢ÇÒÍ¬Ê±Ñ§Ï°£º»ù±¾È­·¨cuff,»ù±¾ÊÖ·¨hand£¬»ù±¾×¦·¨claw£¬»ù±¾Ö¸·¨finger¡£
+»ªÉ½µÄÆÙ²¼£º×°±¸Ò»°Ñ½££¬ÔÙ¶à´ø¼¸°Ñ±¸ÓÃ£¬ÓÃ£ºjump stoneÌøÉÏÊ¯Í·£¬ÓÃ£ºda stone´òÊ¯Í·£¬¿ÉÒÔÍ¬Ê±Á·Ï°»ù±¾ÄÚ¹¦ºÍ»ù±¾½£·¨£¬µ«ÐèÒªÒ»¶¨µÈ¼¶µÄÇá¹¦£¬Á·ÍêºóÓÃ£ºjump bank£¬Ìø»Ø°¶ÉÏ¡£×îºóÖ»ÓÐÈ¥´ïÄ§ÔºÁìÎò¡£
+
+    »ù±¾È­·¨£¨cuff£©£º
+
+È«Õæ½ÌµÄÁ·Îä³¡ÓÃ£ºda shadaiÁ·»ù±¾È­·¨£¬¿ÉÒÔµ½101¼¶¡£
+ÉÙÁÖµÄÃÜÊÒÖÐÓÐÊ¯¿é[Ò×½î¾­È­·¨Æª]£¬¿ÉÒÔdu stoneµ½31¼¶¡£È»ºó¿ÉÒÔÔÚÉÙÁÖÃÜÊÒÖÐ¶ÁÊ¯×À£ºdu tableµ½101¼¶£¬²¢ÇÒÍ¬Ê±Ñ§Ï°£º»ù±¾ÕÆ·¨strike,»ù±¾ÊÖ·¨hand£¬»ù±¾×¦·¨claw£¬»ù±¾Ö¸·¨finger¡£×îºóÖ»ÓÐÈ¥´ïÄ§ÔºÁìÎò¡£
+
+
+
+    »ù±¾½£·¨£¨sword£©£º
+
+»ªÉ½µÜ×Ó¿ÉÒÔÒª»ªÉ½½£Æ×£¬ÔÚÁ½´¦¿ÉÄÃµ½½£Æ×£º1¡¢»ªÉ½Êé·¿£¬2¡¢»ªÉ½´åÏòÐ¡Á÷Ã¥ÎÊÍõÐ¡¶þ£ºask punk about ÍõÐ¡¶þ£¬ÕÒµ½ÍõÐ¡¶þ£ºask er about ¼¦,fight er ´òÓ®ºó£¬¾ÍÓÐ½£Æ×ÁË¡£Òªµ½ºó£ºdu sword bo ok¿É¶Áµ½31¼¶,È»ºó´øÉÏsword£¬sword book£¬fireµ½»ªÉ½Ë¼¹ýÑÂ#20 mianbi£¬Äã¾Í»áÓÐÒ»ÖÖÆÆ±ÚµÄ³å¶¯......£¬strike wall;enter;use fire;left,À´µ½ÃÜ¶´£¬du wall¿Éµ½101¼¶¡£×îºóÖ»ÓÐÈ¥´ïÄ§ÔºÁìÎò¡£
+
+    »ù±¾±Þ·¨£¨whip£©£º
+
+ask ma about ÃØ¼®,¿ÉµÃµ½¡¶µ¤Ñô±Þ·¨¡·,ÄÜµ½31¼¶¡£×îºóÖ»ÓÐÈ¥´ïÄ§ÔºÁìÎò¡£
+
+    »ù±¾ÕÈ·¨£¨£©£º
+
+¿ÉÒÔ¶ÁÕÈ·¨Í¼½âµ½101¼¶£¬×îºóÖ»ÓÐÈ¥´ïÄ§ÔºÁìÎò¡£
+
+    »ù±¾ÊÖ·¨£¨hand£©£º
+
+¿ÉÒÔÔÚÉÙÁÖÃÜÊÒÖÐ¶ÁÊ¯×À£ºdu tableµ½101¼¶£¬²¢ÇÒÍ¬Ê±Ñ§Ï°£º»ù±¾ÕÆ·¨strike,»ù±¾È­·¨cuff£¬»ù±¾×¦·¨claw£¬»ù±¾Ö¸·¨finger¡£×îºóÖ»ÓÐÈ¥´ïÄ§ÔºÁìÎò¡£
+
+    »ù±¾Ö¸·¨£¨finger£©£º
+
+¿ÉÒÔÔÚÉÙÁÖÃÜÊÒÖÐ¶ÁÊ¯×À£ºdu tableµ½101¼¶£¬²¢ÇÒÍ¬Ê±Ñ§Ï°£º»ù±¾ÕÆ·¨strike,»ù±¾ÊÖ·¨hand£¬»ù±¾×¦·¨claw£¬»ù±¾È­·¨cuff¡£×îºóÖ»ÓÐÈ¥´ïÄ§ÔºÁìÎò¡£
+
+    »ù±¾×¦·¨£¨claw£©£º
+
+¿ÉÒÔÔÚÉÙÁÖÃÜÊÒÖÐ¶ÁÊ¯×À£ºdu tableµ½101¼¶£¬²¢ÇÒÍ¬Ê±Ñ§Ï°£º»ù±¾ÕÆ·¨strike,»ù±¾ÊÖ·¨hand£¬»ù±¾È­·¨cuff£¬»ù±¾Ö¸·¨finger¡£×îºóÖ»ÓÐÈ¥´ïÄ§ÔºÁìÎò¡£
+
+    »ù±¾ÍÈ·¨£¨£©£º
+
+ÌÒ»¨µºµÜ×Ó¿ÉÒÔÒªµ½¡¶Ðý·çÉ¨Ò¶ÍÈÐÄ·¨¡·£¬Ñ§µ½31¼¶¡£×îºóÖ»ÓÐÈ¥´ïÄ§ÔºÁìÎò¡£
+
+    »ù±¾µ¶·¨£¨blade£©£º
+
+±¦Ê÷ÄÃ×Åºú¼Òµ¶·¨£¬¿ÉÒÔÑ§Ï°blade µ½ 31 ¼¶¡£¿ÉÒÔ¶ÁÔ§Ñìµ¶µ½101¼¶¡£ÔÙ¶à¼À¼ÀÑªµ¶¡£×îºóÖ»ÓÐÈ¥´ïÄ§ÔºÁìÎò¡£
+
+    »ù±¾°ô·¨£¨stick£©£º
+
+ÕÒµ½Â³ÓÐ½Å:ask lu about Í¼½â
+
+    »ù±¾¹÷·¨£¨£©£º
+
+È¥¶«±±É±ÁË½¹ÎÄÆÚ£¬ÔÙget tiepai from corpse,ÕÒµ½ëøÒ»À×£¬give tiepai to teng,ÓÐ80%»ú»á»á¸øÄãclub book,»¹ÓÐ20%»ú»áÊÇÈË²Î¡£31Ö®ºóÖ»ÄÜÔÚ´ïÄ¦ÔºÁìÎòÁË¡£
+
+    Ô¦ÊÞÊõ£¨training£©£º
+
+¿ÉÒÔÑ§µ½31¼¶ºóÈ¥¶Ø»ÍÁìÎò¡£
+
+    »ù±¾¶¾¼¼£¨poison£©£º
+
+¿ÉÒÔ¶ÁÐÇËÞ¶¾¾­µ½ÈýÊ®¼¶£¬»ò¸úÊ¦¸¸Ñ§£¬30¼¶ºó¿ÉÒÔÈ¥°×ÍÕÉ½×¯ÁìÎò¶¾¼¼¡£
+
+    µÀÌýÍ¾Ëµ -- Ö»ÓÐËÀÑ§¡£2´üÒÔÉÏµÜ×Ó10¼¶ºó¿ÉÏòÈË´òÌý±ðÈËÑ§¹ýµÄ¼¼ÄÜ±¾Áì¡£
+
+    ½Ð»¯¾ø»î -- Ö»ÓÐÍ¨¹ýÁ·Ï°»òËÀÑ§À´Ôö³¤¡£¿ÉÓÃÓÚÆòÌÖ±ðÈËÃ»ÓÐ´©´÷µÄ¶«Î÷¡£
+
+    ¾òµØÖ®Êõ -- Ö»ÓÐËÀÑ§µ½31¼¶ºóÒÔtrapÀ´Ôö³¤¡£
+
+    ÃîÊÖ¿Õ¿Õ -- ¿ÉÒÔÑ§µ½10¼¶ºóÍ¨¹ýstealÀ´Ôö³¤¡£
+
+    ¶ÁÊéÐ´×Ö£¨literate£©£º
+
+ÔÚÏÀ¿Íµº¿ÉÒÔÑ§µ½21¼¶£¬È»ºóÔÚ»ªÉ½´å£¬À¼ÖÝ£¬ÄÏÑô£¬ÈªÖÞµÄË½ÛÓ»òÑ§¹ÝÏòÀÏÐã²ÅÑ§£¬1Á½silver¿ÉÒÔÑ§Á½´Î£¬ÏÈgive xiucai 10 silver£¬È»ºóxue xiucai literate¡£Ñ§µ½31¼¶£¬¾ÍÒªÈ¥ÑïÖÝµÄÊéÔºÑ§ÁË£¬1Á½silverÑ§Ò»´Î£¬ÏÈgive zhu 20 silver£¬È»ºóxue zhu literate¡£
+
+
+¡¡
+
+¡¶º£ÑóII¡·ÃÔ¹¬×ß·¨´óÈ«
+
+
+      ÌÒ»¨µºÌÒÁÖ
+    ÌÒ»¨ÁÖµÄ×ß·¨ËæÊ±¼ä²»Í¬¶ø²»Í¬¡£ÄãÔÚÌÒÁÖÖÐ time£¬È»ºó¸ù¾ÝÏµÍ³¸ø³öµÄÊ±³½£¬°´ÏÂÁÐ·½·¨×ß£º 
+
+Ê±¼ä£º ×Ó ³ó Òú Ã® ³½ ËÈ Îç Î´ Éê ÓÏ Ðç º¥ 
+·½Ïò£º e se se sw ne ne w s s nw n n 
+
+
+    Ø¤°ï×Ü¶æ
+    ´ÓÑïÖÝ¶«ÃÅ£º n;e;n;w;n;e;w;n¾Íµ½ÁË¡£³öÀ´ÊÇ´ÓÇàÖñÁÖÍùÄÏ×ß¡£
+
+    Îäµ±ËÉÁÖ
+    ÃÔÂ·ÁË²»Òª½ô£¬Ö»ÒªÁ¬ÐøÁ½¸öe»òw,ÔÙlook north»òlook south£¬ÄÄ¸ö·½ÏòÓÐºìËÉÊ÷£¬¾ÍÏòÄÄ¸ö·½Ïò×ß¡£ 
+
+    ÉÙÁÖËÉÊ÷ÁÖ
+    ½øËÉÁÖºów;e;s;e;n;n;e;w;s£¬µ½ÁËÓÐenterµÄµØ·½¾ÍÊÇÇàÔÆÆºÁË¡£
+    ³öÇàÔÆÆº£ºsd;w;e;n;e;s;n;e;w;s;n(s)
+
+    ÉÙÁÖËÂÖñÁÖ
+    ½øÖñÁÖÒªÐ¡ÐÄÁË£¬×ßsw;se;n;s;w;e;w;e;e;s;w;n;nw;n;¾Í½øÁË´ïÄ¦¶´£¬ÔÚ´ïÄ¦¶´Àï"ketou"¾ÍÄÜ¸ãµ½¾ÉÖñÆ¬£¬¼ñÆð¾ÉÖñÆ¬´ø×Å£¬×ß"out", ¾Í»Øµ½ÁËÖñÁÖ¿ªÊ¼µÄµØ·½¡£ 
+
+    ÉÙÁÖÎåÐÐ¶´
+    ½øÉÙÁÖ¼àÓüºó¸øÓü×ä10 silver¿ÉÒÔ³öÀ´µ½ÎåÐÐ¶´£¬°´½ðÉúË®£¬Ë®ÉúÄ¾£¬Ä¾Éú»ð£¬»ðÉúÍÁ£¬ÍÁÉú½ðµÄÂ·Ïß¿ÉÒÔ³öÀ´¡£
+
+    ÆíÁ¬É½¸ê±Ú
+    #6 s ¾Í³öÀ´ÁË¡£ 
+
+    ´óÉ³Ä®
+    ÍùÎ÷ÊÇ #12 w £¬Íù¶«ÊÇ #12 e 
+
+    ÄÏ½®É³Ä®
+    ½øÈ¥ sw £¬³öÀ´ ne 
+
+    ÐÇËÞº£
+    ÄÇÀïµÄÂ·³£±ä£¬ÍùÎ÷×ßÊÇwu£¬Íù¶«×ßÊÇed£¬ÎÒµÄ×ß·¨ÊÇ²»¶ÏµØwu;ed£¬·´¸´¼¸´ÎÂ·¾Í³öÀ´ÁË¡£
+
+    Ñò³¦Ð¡Â·
+    Õâ¸öÃÔ¹¬µÄ×ß·¨²»¹Ì¶¨£¬Òª×ßÒ»²½¶ª¸öcoin£¬×ßµÚ¶þ²½¶ª2¸öcoin£¬ÒÔ´ËÀàÍÆÀ´ÈÎÂ·¡£
+Èç¹ûÔËÆø²»ºÃ£¬ÏÝÈëÁ÷É³£¬»á°ÑÉíÉÏµÄ¶«Î÷¶¼¶ªÁË£¬n;n;w¿ÉÒÔ³öÈ¥£¬µ«ÊÇ»áÔÎµ¹¡£ÁíÍâÎÒÓÐ´ÎÔÚÁ÷É³ÖÐÍùÒ»¸öÖ»ÓÐÒ»¸öwestµÄ³ö¿Ú×ß¹ýÈ¥ËÀ£¬±»Á÷É³ÍÌÃ»ÁË¡£
+
+    ÖÕÄÏÉ½Ê÷ÁÖ(¹ÅÄ¹¸½½ü)
+    ÄÇ²»ÊÇÃÔ¹¬£¬Ö»ÊÇ¸ö·½Õó¡£³ö¿ÚÔÚ¶«±±·½Ïò¡£ ÈçÏÂ£º
+    Ê÷ÁÖ Ê÷ÁÖ Ê÷ÁÖ ¿ÕµØ
+    »ÆÉ³Áë Ê÷ÁÖ ¹ÅÄ¹ Ê÷ÁÖ Ê÷ÁÖ
+    Ê÷ÁÖ Ê÷ÁÖ 
+
+
+    Çà³ÇÉ³Ä®
+    ´ÓÇà³Ç n ¾Í½øÉ³Ä®ÁË£¬#5 e ¾Íµ½ÁËÈ«ÕæµÄÐüÑÂ£»´Ó Ðü ÑÂ #5 w;s ¾Í ÓÖ »Ø Çà ³Ç ÁË ¡£ ´ÓÇà³Ç n;e;s;enter¾Íµ½ÁËºÚ·çË«É·µÄËùÔÚµØÁË¡£ 
+
+    »ªÉ½ºóÉ½ ( ÕÒ·â²»Æ½ )
+    Ò»Ö±Íùsw»òse×ß£¬µ½enter´¦¿ÉÒÔµ½ÓñÅ®·å¡£
+
+    »ªÉ½´åÊ÷ÁÖ
+    ÎÒÒ»Ö±ÊÇÓÃaliases×ßµÄ¡£ÄÇÀïÓÐÃÉÃæÈË£¬³ýÁËÑ²É½»ò×öÈÎÎñ£¬±ð½øÈ¥¡£
+
+    ¶ëÃ¼¾ÅÀÏ¶´
+    ÓÃleaveÃüÁî¿ÉÒÔ³öÀ´¡£
+
+    ¶ëÃ¼¹ÅµÂÁÖ
+    Íùs·½Ïò×ß
+
+    ´óÀíÃÔ¹¬É­ÁÖ
+    ³öÀ´µÄÃüÁîÊÇout£¬ÍùÀï×ßÊÇ¸öquest£¬ÎÒ²»»á£¬ÃüÁîºÃÏóÊÇfind way ( Ã»ÊÔ¹ý )
+
+¡¡
+
+¡¡¡¾ º£ÑóIIÖÐµÄ±¦Îï ¡¿
+
+    ±¦ÒÂ±¦¼× UNIQUE ARMOR
+          ½ð¸ÕÕÖ(Jingang zhao) ½ð¸Ö·üÄ§È¦
+          Èíâ¬¼×(Ruanwei jia) QUEST £ª(ÑïÖÝask guo jing about »ÆÈØ£¬µ½ÌÒ»¨µºÈ¥ask huang rong about ¹ù¾¸¡£×îºóbai huang£¬»ÆÈØ¾Í»á¸øÄãÒ»¼þÈíâ«¼×¡£)
+          ÎÚ²ÏÒÂ(Wucan yi) QUEST£ªÈç¹û¶Ô·½¿ÕÊÖ´òµ½ÄãµÄ»°»á±»´ÌÉË¡£
+
+    ±¦½£ UNIQUE SWORD
+          ÒÐÌì½£(Yitian jian) ¶ëáÒÃð¾øÊ¦Ì«
+          ÖØÑô½£(Chongyan jian) È«ÕæËï²»¶þ
+          ½ðÉß½£(Jinshe jian) 
+          ÓñÏô(Yu xiao) ÌÒ»¨»ÆÒ©Ê¦
+          ÕæÎä½£(Zhenwu sword) Îäµ±ÕÅÈý·á £ª
+          °×Áú½£(Bailong jian) ÑïÖÝÂ½·ÆÇà
+          ±ÌË®½£(Bishui jian) ³ø·¿ÍâÃæµÄÔÀÁéÉº
+         Æß¾øÕë ´óÀíçø¹Ã £ª£ªÆß¾øÕë¸½ÓÐÉß¶¾¡£
+
+    ±¦µ¶ UNIQUE BLADE
+          ÍÀÁúµ¶(Tulong dao) ±ù»ðµºÐ»Ñ·
+          ·üÄ§µ¶(Fumo dao) ½ð¸Ö·üÄ§È¦
+          Ñªµ¶(Xue dao) Ñ©É½Ñªµ¶ÀÏ×æ
+          ×Ï½ðµ¶(Zijin dao) ²»ÖªµÀ:( £ª
+          Ñìµ¶(Yang dao) Ïô¸®ÏôÖÐ»Û(kill xiaoyao get chai,ÔÚÌ«ÔÀËÄÏÀµÄeast,pa shang;pa zuo;pa shang;pa zuo;pa shang;pa zuo;pa shang;pa zuo;#4 pa xia;w;give zhang chai,then enter Ïô¼Ò´óÔº£¬e,n,e,ÓÐÏôÖÐ»ÛºÍÔ¬¹ÚÄÏlook them,if have yyd,they wield it,kill all,than, e;#4 pa shang;pa you;pa xia;pa you;pa xia;pa you;pa xia;pa you;pa xia)
+          Ô§µ¶(Yuan dao) Ïô¸®Ô¬¹ÚÄÏ(Í¬ÉÏ)
+          öù×ì¼ô(Ezui jian) Î÷ÏÄÄÏº£öùÉñ öù×ì¼ô¿ÉÓÃ cut <id> È¥¼ô¶Ï¶Ô·½µÄÎäÆ÷¡£
+
+    ¹ØÓÚ±¦½£µÄ¹¥»÷Á¦(damage)´ó¸ÅÊÇÕâÑùµÄ(·Ç¹Ù·½×ÊÁÏ,½ö¹©²Î¿¼):ÒÐÌì½£--140 ÐþÌú½£--135 ÕæÎä½£--120 ½ðÉß½£--105 ÖØÑô½£--100 Óã³¦½£--95 ±ÌË®½£--85 °×Áú½£--80 Çà¸Ö½£--75 ¸Ö½£--40 ³¤½£--20 ¶Ì½£--10 Èí½£--5 Ð¡Ê÷Ö¦--1.ÁíÍâÖµµÃ×¢ÒâµÄÊÇ,Èç¹ûÓÃÈí½£Ê¹¶Î¼Ò½£µÄ»°,¿ÉÒÔ¿³¶Ï¶ÔÊÖ±øÆ÷,²»±ÈÓÃÕÈµÄpfm²î¶àÉÙ,ÎÒÔø¾­ÓÃÈí½£¿³¶Ï¹ý±ÌË®½£.´ó¼ÒÔÚ×ödali jobµÄÊ±ºò,Èç¹ûÕÒ²»µ½±¦½£,¿ÉÒÔÊÔÊÔÓÃÈí½£ÏÈ¿³¶Ï¶ÔÊÖ±øÆ÷,ÔÙ»»³ÉÇà¸Ö½£.ÕâÑùÐ§¹û»áºÃÐ©.
+
+
+¡¡
+
+º£ÑóII³£¼ûÎÊÌâ
+
+    ÎÊ: ÔõÑù¹ýºÓ£¿ 
+    ´ð: ÓÃ "yell boat" ½Ð´¬£¬ÒªÊÇÄÇÀïµÄÈË²»¶®Ó¢ÎÄµÄ»°£¬ÇëÓÃ "yell ´¬¼Ò"¡£ 
+    ÎÊ: ÒªÔõÑùÂòÂí£¿ 
+    ´ð: ÏÈ ask fu about ÂòÂí£¬È»ºóËµÄãÒªÂòµÃÂíµÄÃû×Ö£¬ÔÙËµÖÐÒâ£¬½Ó×Å¸¶Ç®¡£(×Ô±¸ÁãÇ®Âí·ò²»ÕÒÇ®µÄ)Àý:ask fu about ÂòÂí£»say °×ÁúÂí£»say ÖÐÒâ£»give fu 2 goldÆïÂí£ºride ma£»ÏÂÂí£ºxia ma£»Î¹Âí£ºfeed sth to ma£»°Ñ¶«Î÷·ÅÔÚÂíÉÏ£ºput sth in ma 
+    ÎÊ: Ê²Ã´ÊÇ¡°Äã¸Ð¾õÐÄÉñ²»¶¨£¬ËÆºõÓÐÈËÔÚ°µÖÐ¿úÊÓ×ÅÄã...¡±£¿ 
+    ´ð: ÓÐÌÒ»¨µÜ×ÓÔÚÕ¼²·Äã¡£ 
+    ÎÊ: Ê²Ã´ÊÇ¡°Ò»µÀÉÁµçÅüÔÚÄ³Ä³ÈËÉíÉÏ¡±£¿ 
+    ´ð: Ò»´Î´òÌ«¶àÃüÁîÊÇ»áÔâÌìÇ´µÄ¡£ 
+    ÎÊ: ¶ÁÔ§Ñìµ¶ÐèÒªÊ²Ã´Ìõ¼þ£¿ 
+    ´ð: Òª·ûºÏÕâÈýÏî£¬ÖÁÓÚÔõÃ´µÃµ½ºÍÔõÃ´¶Á£¬ÔÚÏßÉÏÊ±¿ÉÒÔÎÊÎÊ¸ßÊÖ¡£ £¨PKÉÙ¹ý10ÈË¡¢ÓÐ×îÉÙ40¼¶µÄ»ù±¾µ¶·¨¡¢¾­Ñé50kÒÔÉÏ 
+
+    ÎÊ: Ôõ Ñù ÃÉ Ãæ £¿ 
+    ´ð: µ½×íÏÉÂ¥¶þÂ¥£¬ÕÒµ½ÅÖÍ·ÍÓ£¬ask toutuo about ÉñÁú½Ì£¬ÅÖÍ·ÍÓ»áÈÃÄãÈ¥É±Ò»¸öÍæ¼Ò£¬hehe£¬²¢¸øÄãÒ»¸öÃæÕÖ£¬Äãwear mianzhao¾Í¿ÉÒÔÁËÃÉÃæÓÐ¶þ¸öºÃ´¦£º1£¬É±ÈËÊ±¿ÉÒÔÒþ²ØÉí·Ý£¬ÈÃÈËËÀÁËÒ²²»ÖªÊÇË­É±µÄ£»2£¬¿ÉÒþ²Ø×Ô¼ºµÄÉí·Ý£¬Ê¹ÄãµÄ³ð¼ÒÎÞ·¨ÕÒµ½Äã¡£²»¹ýÓÐÊ±»á±©Â¶Éí·ÝµÄ£¬²»ÒªÌ«×ÔÐÅà¸¡£ 
+    ÎÊ: ïÚ ºÍ ¶¤ µÄ Ê¹ ÓÃ ·½ ·¨ 
+    ´ð: throw ding(biao) at XXX 
+    ÎÊ: Ø¤ °ï ×Ü ¶æ Ëù ÔÚ µØ 
+    ´ð: from ÑïÖÝ¶«ÃÅ£º n;e;n;w;n;e;w;n
+        ³öØ¤°ï £º s;s 
+    ÎÊ: °ÑÎäÆ÷¶ÆÉ« 
+    ´ð: cs;e;e;s; give 10 silver to jiang; setcolor?XXX  ?YYY(XXXÊÇÎäÆ÷Ãû YYYÊÇÒª¶ÆµÄÑÕÉ«help color) 
+    ÎÊ: Ëã Ãü 
+    ´ð:¡¶ÏÀ¿ÍÐÐ¡·ÖÐºÜ¶àquestµÄ½â·¨ÐèÒª¸£Ôµ£¨Èç½ðÉßÃØóÅµÄÈ¡µÃ£©£¬ÔõÃ´ÖªµÀ×Ô¼ºµÄ¸£ÔµÄØ£¿ÔÚ»ªÉ½½ÅÏÂµÄÓñÈªÔº£¬ask li about Ëã?Äã»á×Ô¶¯¸øËû10Á½Òø×Ó£¬ÎÊ¶þ´Î£¬¿ÉÒÔÖªµÀÄãµÄ¸£Ôµ¡£ 
+
+    ÎÊ: ÔõÑù´ÓÑïÖÝÖÐÑë¹ã³¡½øÈëØ¤°ï£¿ 
+    ´ð: ÔÚÑïÖÝÖÐÑë¹ã³¡enter dong½øÈëÊ÷¶´ÀïÃæ£¬È»ºósay ÌìÌÃÓÐÂ·Äã²»×ßÑ½£¬È»ºódown¾Íµ½Ê÷¶´ÏÂµÄØ¤°ïÃÜµÀÁË¡£ 
+    ÎÊ: Ê²Ã´ÊÇÓÐÐ§ËÀÍö£¿ 
+    ´ð: Èç¹ûÁ½´ÎËÀÍö¼äÄãµÄ¾­Ñé¶àÁË10k£¬ÄÇ¾ÍËãÊÇÕý³£ËÀÍö(Ò²¾ÍÊÇËµÃ¿10kËÀÒ»´Î)¡£¶Ô»ªÉ½µÜ×ÓÃ»ÓÃ¡£ 
+    ÎÊ: ÖÐ¶¾À²£¡£¡¾ÈÃüÑ½£¡£¡ 
+    ´ð: ÕÒÒ©Ê±¼äµ½À²£¬ÏÄÌìµÄ»°¿ÉÒÔÇëÈËÈ¥Îäµ±ËÉÁÖÕÒÈË²Î¹û(ÓÐÉß)»òÌìÉ½ÕÒÑ©Á«(ÐèÒªÇá¹¦)£¬°ÝÍÐ´óÀíµÜ×ÓÄÃÊ×ÎÚ¾«£¬ÌÒ»¨µÜ×ÓÄÃ¾Å»¨ÓñÂ¶Íè£¬»òÊÇÈç¹ûÓÎÏ·ÀïÓÐÀÏÍ·×ÓµÄ»°£¬È¥¸úËûÂòÁéÖ¥ºÍÐøÃü°Ëµ¤¡£Ò²¿ÉÒÔÇóÆäËûÍæ¼ÒÌæÄã°¾Ò©¡£ 
+    ÎÊ: ÔõÃ´¼Ó½­ºþ¾­Àú£¿ 
+    ´ð: Ä¿Ç°½­ºþ¾­ÀúºÃÏóÃ»ÓÐÓÃµ½Ëµ£¬¿ÉÒÔ²»¹ÜËü¡£ 
+
+    ÎÊ: ÎÒÒª½á»é£¡£¡ 
+    ´ð: ÏÈ´æ¹»Ê®¶þÁ½½ð×Ó£¬È»ºó1)È¥ÑïÖÝ¾Û½ð¸óÂòÁ½Ö»½äÖ¸£¬Ò»ÈËÒ»Ö» 2)ÄÐ·½ propose Å®·½ 3)Å®·½ marry ÄÐ·½ 4)È¥×íÏÉÂ¥ÕÒÀÏ°å£¬ÄÐ·½ask xiang about Ï²Ñç 5)exchange <id> ring 
+    ÎÊ: ÎÒÊÜ¹»ÁË£¬ÎÒÒªÀë»é£¡£¡ 
+    ´ð: ÔçÖªÈç´ËºÎ±Øµ±³õÄØ£¿Õâ¸öÂï£¬Î¨Ò»µÄ·½·¨¾ÍÊÇ¸úÄãÇ×°®µÄÁíÒ»°ëËµ£º¡°È¥ËÀ°É£¡£¡¡±
+È»ºóµÈ¡°ÄãÐÄÖÐÍ»È»ÂÓ¹ýÒ»Ë¿²»ÏéµÄ¸Ð¾õ......¡± 
+    ÎÊ: ×ß²»¶¯ÁËÀ²£¬TAXI, TAXI£¡£¡ 
+    ´ð: ÇëÏÈÖ§³Öµ½³µÕ¾£¬²¢¼ÇµÃ´øÊ®Á½°×Òø³µÇ®¡£È»ºóÏÈ¸¶Ç®(gu che)ÔÙËµÒªÈ¥ÄÇÀï(qu <Ä¿µÄµØ>£¬Èç qu huashan,qu yangzhou ....)£¬¿ÉÓÃ l che À´¿´¿´ÓÐÄÇÐ©µØ·½¿ÉÒÔÈ¥¡£ 
+    ÎÊ: ÎÒÒªÑ§ÌìÍâ·ÉÁú£¬¿ÉÊÇÕÒ²»µ½·â²»Æ½£¿ 
+    ´ð: Ã»ÊÂµÄ»°¶àÎ¹Î¹Ð¡¶¯Îï£¬ºÃÐÄÓÐºÃ±¨ÔÚÄ³Ð©Ê±ºò»¹ÊÇÕæµÄ¡£ 
+
+»ù±¾NPCÎ»ÖÃ
+
+ÑïÖÝ³Ç
+
+¶«ÄÏÎ÷±±ÃÅ Îä½«(Wu jiang) ¹Ù±ø(Guan bing)
+ÔÂÀÏÍ¤ - ÃñÅ® Ð¡æ©(Shan)
+¿´Ì¨ - ÄÂÒ×(Mu yi)
+Ç®×¯ - »ªÉ½ÅÉµÚ¶þÊ®Ò»´úµÜ×Ó¡¸Í­±ÊÌúËãÅÌ¡¹»ÆÕæ(Huang zhen)
+Ò©ÆÌ - Ò©ÆÌÀÏ°å¡¸É±ÈËÉñÒ½¡¹Æ½Ò»Ö¸(Ping yizhi) Ò©ÆÌ»ï¼Æ(Yaopu huoji)
+´òÌúÆÌ - ¹¤½³(Gong jiang) ÍõÌú½³(Wang tiejiang)
+ÔÓ»õÆÌ - ÔÓ»õÆÌÀÏ°å ÑîÓÀ¸£(Yang yongfu)
+ÊéÔº - Öììä(Zhu xi)
+Ìì±¦¸ó - ÍõÀÏ°å(Wang laobang) ÉñÁú½ÌµÚ¶þ´ú½ÌÖÚ ÅÖÍ·ÍÓ(Pang toutuo)
+¿Íµê - µêÐ¡¶þ(Xiao er)
+æäÕ¾ - æäØ©(Yi cheng)
+Âí¾Ç - Âí·ò(Ma fu)
+×íÏÉÂ¥ - µêÐ¡¶þ(Xiao er)
+×íÏÉÂ¥¶þÂ¥ - ×íÏÉÂ¥ÀÏ°å ÙþÀÏ°å(Xian laoban) ¾Æ¿Í ÍõÎå(Wang wu)
+µ±ÆÌ - µ±ÆÌÀÏ°å ÌÆéª(Tang nan)
+¶Ä³¡ - ÉñÁú½ÌµÚ¶þ´ú½ÌÖÚ ÊÝÍ·ÍÓ(Shou toutuo)
+¾Û½ð¸ó - ¾Û½ð¸óÕÆ¹ñ Å£ÕÆ¹ñ(Niu zhanggui) ¾Û½ð¸ó»ï¼Æ(Huoji)
+¶«ÄÏ½Ö - Å®º¢(Girl)
+¹ûÆ·Ì¯ - ÏàÊ¿(Xiang shi) Ð¡··(Xiao fan)
+Ã×ÆÌ - ³¤ÀÖ°ï»ï¼Æ(Huoji) ³¤ÀÖ°ï³¤ÐÅÌÃÏãÖ÷ Ã×ºáÒ°(Mi hengye)
+Ð¡ÍÁÂ· - ÄÐº¢(Boy)
+ÃñÎÝ - Å®º¢(Girl) ÉÙ¸¾(Young woman)
+´óÌÃ - ¸«Í·°ï°ïÖ÷ ³Ì½ð¸«(Cheng jinfu)
+½Ö±ß¾Æ¹Ý - ¾Æ¹ÝÀÏ°å ¶ÅÀÏ°å(Du laoban) ÕÅÊ®Îå(Zhang shiwu)
+ÄÏ´ó½Ö - ÉÙÁÖµÜ×Ó ÍÐ²§É®(Tuobo seng)
+Àö´ºÔº - Àö´ºÔºÀÏ°åÄï Î¤´º·¼(Wei chunfang) Àö´ºÔº×Ü¹Ü ¹êÅ«(Guinu) ÃîÊÖÉñØ¤ ¿Õ¿Õ¶ù(Kong kong)
+ÑÃÃÅ - ÑÃÒÛ(Ya yi)
+ÑÃÃÅÕýÌü - Ë®Â½Ìá¶½ Àî¿ËÐã(Li kexiu) Ê¦Ò¯¡¸ÃàÀïÕë¡¹Â½¸ßÖ¹(Lu gaozhi)
+±øÓª´óÃÅ - ¹Ù±ø(Guan bing)
+±øÓª - ÑïÖÝÊØ½« ÕÔÁ¼¶°(Zhao liangdong) Îä½«(Wu jiang) ¹Ù±ø(Guan bing)
+¸£ÍþïÚ¾Ö - ïÚÍ·(Biao tou) ÁÖÆ½Ö®(Lin pingzhi)
+ÕýÌü - ÁÖÕðÄÏ(Lin zhennan)
+º²ÁÖ¸®Ôº - ¹Ü¼Ò(Guan jia) ¼Ò¶¡(Jia ding)
+ºóÔº - º²ÁÖ ÁèÍËË¼(Ling tuisi)
+Ñ¾÷ßÎÔ·¿ - Ñ¾÷ß ¾ÕÓÑ(Juyou)
+
+
+ÑïÖÝÎ÷±±
+Ê÷ÁÖ - 
+Ì«ÔÀËÄÏÀ¡¸Á÷ÐÇ¸ÏÔÂ¡¹»¨½£Ó°(Hua jianying)
+Ì«ÔÀËÄÏÀ¡¸°Ë²½¸Ïó¸¡¢Èü×¨Öî¡¢Ì¤Ñ©ÎÞºÛ¡¢¶À½ÅË®ÉÏ·É¡¢Ë«´Ì¸ÇÆßÊ¡¡¹¸ÇÒ»Ãù(Gai yiming)
+Ì«ÔÀËÄÏÀ¡¸ÑÌÏ¼ÉñÁú¡¹åÐÒ£×Ó(Xiaoyao zi)
+Ì«ÔÀËÄÏÀ¡¸Ë«ÕÆ¿ª±®¡¹³£³¤·ç(Chang changfeng)
+»ÆºÓ°¶±ß - ¡¸ÈýÍ·òÔ¡¹ºîÍ¨º£(Hou tonghai)
+»ÆºÓ°ïÕ¯ÃÅ - 
+»ÆºÓËÄ¹íÀÏ´ó¡¸¶Ï»êµ¶¡¹ÉòÇà¸Õ(Shen qinggang)
+»ÆºÓËÄ¹íÀÏÈý¡¸¶áÆÇ±Þ¡¹ÂíÇàÐÛ(Ma qingxiong)
+¹ã³¡ - 
+»ÆºÓËÄ¹íÀÏ¶þ¡¸×·ÃüÇ¹¡¹ÎâÇàÁÒ(Wu qinglie)
+»ÆºÓËÄ¹íÀÏËÄ¡¸É¥ÃÅ¸«¡¹Ç®Çà½¡(Qian qingjian)
+ÏÀÒåÌü - 
+»ÆºÓ°ï°ïÖ÷¡¸¹íÃÅÁúÍõ¡¹É³Í¨Ìì(Sha tongtian)
+¡¸Ç§ÊÖÈËÍÀ¡¹ÅíÁ¬»¢(Peng lianhu)
+¡¸²ÎÏÉÀÏ¹Ö¡¹Áº×ÓÎÌ(Liang ziweng)
+»ÆºÓ°¶±ß - ¡¸ÌúÃæÅÐ¹Ù¡¹µ¥Õý(Shan zheng)
+»ÆºÓ°¶±ß - ¡¸»¬²»ÁôÊÖ¡¹ÓÎÑ¸(You xun)
+»ÆºÓ°¶±ß - ×æÇ§Çï
+
+
+
+Ê¯¶´ - 
+ºÚ·çË«É·¡¸ÌúÊ¬¡¹Ã·³¬·ç(Mei chaofeng)
+ºÚ·çË«É·¡¸Í­Ê¬¡¹³ÂÐþ·ç(Chen xuanfeng)
+
+
+Ñ©É½
+É½Â· - ¡¸ÈáÔÆ½£¡¹Áõ³Ð·ç(Liu chengfeng)
+Ê¯Ï¿¹È - Ñªµ¶ÃÅµÚÎå´úµÜ×Ó ÉÆÓÂ(Shanyong)
+´óÑ©É½±±Â´ - ¡¸ÖÐÆ½ÎÞµÐ¡¹»¨Ìú¸É(Hua tiegan)
+´óÑ©É½É½Â· - 
+¡¸ÈÊÒåÂ½´óµ¶¡¹Â½ÌìÊã(Lu tianshu)
+¡¸ÀäÔÂ½£¡¹Ë®á·(Shui dai)
+É½ÃÅ - ¸ðÂ×²¼(Ge lunbu)
+´ó¹ã³¡ - Ñ©É½ÅÉµÚÊ®¶þ´úµÜ×Ó ²ýÆë´óÀ®Âï(Changqi lama)
+¶ÈÄ¸µî - ÖµÈÕÀ®Âï(Zhiri lama)
+³¤ÀÈ - ½äÂÉÉ®(Jielv seng)
+´óµî - ÖµÈÕÀ®Âï(Zhiri lama)
+³ø·¿ - Ð¡À®Âï(Xiao lama)
+½ð¸ÕÔº - Ñ©É½ÅÉµÚÊ®Ò»´úÀ®Âï ÈøÄ¾»î·ð(Samu huofo)
+Ê±Â×Ôº - Ñ©É½ÅÉµÚÊ®´úÀ®Âï ÁéÖÇÉÏÈË(Lingzhi shangren)
+À­ÕÂ±ðÔº - ´óÂÖËÂÀ®Âï À­ÕÂ»î·ð(Lazhang huofo)
+°ºÇ·Ò»Â¥ - ¼ÎÄ¾»î·ð(Jiamu huofo)
+°ºÇ·¶þÂ¥ - Ñ©É½ÅÉµÚÁù´úÕÆÃÅÈË¡¸´óÂÖÃ÷Íõ¡¹ð¯Ä¦ÖÇ(Jiumozhi)
+
+´óÑ©É½
+´óÑ©É½ - ²ÉÒ©ÈË(Caiyao ren)
+´óÑ©É½É½¹È - Ñªµ¶ÃÅµÚÎå´úµÜ×Ó Ê¤ÚÐ(Shengdi)
+¶´¿Ú - Ñªµ¶ÃÅµÚÎå´úµÜ×Ó ±¦Ïó(Bao xiang)
+¶´¿Ú - Ð¡À®Âï(Xiao lama) Ñªµ¶ÃÅµÚËÄ´úÕÆÃÅÈË Ñªµ¶ÀÏ×æ(Xuedao laozu)
+
+È«Õæ
+ÆÕ¹âËÂ - È«Õæ½ÌµÚËÄ´úµÜ×Ó Â¹ÇåóÆ(Lu qingjia) È«Õæ½ÌµÚÈý´úµÜ×Ó ÉêÖ¾·²(Shen zhifan)
+±§×ÓÑÒ - È«Õæ½ÌµÚÈý´úµÜ×Ó ³ÂÖ¾Òæ(Chen zhiyi)
+ÉñºÌÔ­ - Ð¡··(Seller)
+´óÐ£³¡ - 
+È«Õæ½ÌµÚÈý´úµÜ×Ó¡¸ÇåºÍÕæÈË¡¹ÒüÖ¾Æ½(Yin zhiping)
+È«Õæ½ÌµÚÈý´úµÜ×Ó ÀîÖ¾³£(Li zhichang)
+È«Õæ½ÌµÚÈý´úµÜ×Ó ³ÂÖ¾Òæ(Chen zhiyi)
+È«Õæ½ÌµÚÈý´úµÜ×Ó ´ÞÖ¾·½(Cui zhifang)
+È«Õæ½ÌµÚÈý´úµÜ×Ó ÉêÖ¾·²(Shen zhifan)
+È«Õæ½ÌµÚÈý´úµÜ×Ó ÕÔÖ¾¾´(Zhao zhijing)
+ÖØÑô¹¬´óÃÅ - È«Õæ½ÌµÚËÄ´úµÜ×Ó Æ¤ÇåÐþ(Pi qingxuan)
+½ÓÒýµî - È«Õæ½ÌµÚÈý´úµÜ×Ó¡¸ÇåºÍÕæÈË¡¹ÒüÖ¾Æ½(Yin zhiping)
+ÈýÇåµî - È«Õæ½ÌµÚ¶þ´úµÜ×Ó¡¸ÓñÑô×Ó¡¹Íõ´¦Ò»(Wang chuyi)
+ÖØÑô¹¬Î÷²àµî - È«Õæ½ÌµÚÎå´úµÜ×Ó µÀÍ¯(Daotong)
+ÖØÑô¹¬¶«²àµî - È«Õæ½ÌµÚÎå´úµÜ×Ó µÀÍ¯(Daotong)
+¹ãÄþµî - È«Õæ½ÌµÚ¶þ´úµÜ×Ó¡¸¹ãÄþ×Ó¡¹ºÂ´óÍ¨(Hao datong)
+¶«Ïá×ßÀÈ - È«Õæ½ÌµÚÈý´úµÜ×Ó ·¿Ö¾Æð(Fang zhiqi)
+Î÷Ïá×ßÀÈ - È«Õæ½ÌµÚÈý´úµÜ×Ó ÍõÖ¾½÷(Wang zhijin)
+ÖØÑô¹¬¹ã³¡ - È«Õæ½ÌµÚËÄ´úµÜ×Ó ¼§ÇåÐé(Ji qingxu)
+ÖØÑô¹¬³¤´ºµî - È«Õæ½ÌµÚ¶þ´úµÜ×Ó¡¢ÕÆ½ÌÕæÈË¡¸³¤´º×Ó¡¹Çð´¦»ú(Qiu chuji)
+³¤Éúµî - È«Õæ½ÌµÚ¶þ´úµÜ×Ó¡¸³¤Éú×Ó¡¹Áõ´¦Ðþ(Liu chuxuan)
+ÖØÑô¹¬ááµî - È«Õæ½ÌµÚ¶þ´úµÜ×Ó¡¸µ¤Ñô×Ó¡¹ÂíîÚ(Ma yu)
+Ì¨½× - È«Õæ½ÌµÚÈý´úµÜ×Ó ÕÅÖ¾¹â(Zhang zhiguang)
+ÑøÐÄµî - È«Õæ½ÌµÚ¶þ´úµÜ×Ó¡¸Çå¾²É¢ÈË¡¹Ëï²»¶þ(Sun buer)
+²Ø¾­¸ó - È«Õæ½ÌµÚÈý´úµÜ×Ó ÀîÖ¾³£(Li zhichang)
+²Ø¾­¸ó¶þÂ¥ - È«Õæ½ÌµÚ¶þ´úµÜ×Ó¡¸³¤Õæ×Ó¡¹Ì·´¦¶Ë(Tan chuduan)
+¾²ÊÒ - È«Õæ½ÌµÚÈý´úµÜ×Ó ³ÌÑþåÈ(Cheng yaojia)
+ÓñÐé¶´ - È«Õæ½ÌµÚÈý´úµÜ×Ó ÍõÖ¾Ì¹(Wang zhidan)
+
+
+´óÀí
+¹ÙµÀ - °ÚÒÄÅ®×Ó(Girl)
+ÏÂ¹Ø³Ç - ÎÚÒÄÉÌ··(Shang fan) Ì¨ÒÄÉÌ··(Shang fan)
+½£´¨Õò - ÁÔÈË(Lie ren) Æ¤»õÉÌ(Pihuo shang)
+´åÍâ²ÝÆÂ - ÄÁÑòÅ®(Muyang nu) ÄÁÑòÈË(Muyang ren)
+¼Àìë´óÎÝ - ÎÚÒÄÀÏ¼ÀË¾(Lao jisi)
+Íõ¸®´óÃÅ: - ´óÀí¹úÎä½« ñÒÍòÀï(Zhu wanli) ½õÒÂÎÀÊ¿(Wei shi) »ÆÒÂÎÀÊ¿(Wei shi)
+Ç°Ôº - Æ½ÄÏÍõ¸®¹Ü¼Ò¡¸½ðËãÅÌ¡¹´Þ°ÙÈª(Cui baiquan) Ð¡ØË×Ó(Xiao si)
+¸®ÑÃÇ°Ìü - ¸±½«(Fu jiang) »ÆÒÂÎÀÊ¿(Wei shi)
+Ë¾¿ÕÌÃ - ´óÀí¹úË¾¿Õ °ÍÌìÊ¯(Ba tianshi)
+Ë¾Í½ÌÃ - ´óÀí¹úË¾Í½ »ªºÕôÞ(Hua hegen)
+Ë¾ÂíÌÃ - ´óÀí¹úË¾Âí ·¶æè(Fan ye)
+´óµî - »¤ÔºÎäÊ¿Áì¶Ó(Weishi lingdui) »¤ÔºÎäÊ¿(Wei shi)
+ð®Â· - Ð¡Ñ¾÷ß(Ya huan)
+Ïá·¿ - ÎÀÊ¿³¤(Weishi zhang) ´óÀí¹úÎä½« Öìµ¤³¼(Zhu danchen)
+Êé·¿ - ´óÀíµÚÊ®Îå´úÎÄ°²»ÊµÛ ¶ÎÕý´¾(Duan zhengchun)
+²è»¨Ôº - »¨½³(Hua jiang)
+±±ÃÅ - ÄÏÃÅ - Îä½«(Wu jiang) Ê¿±ø(Shi bing)
+¶¨°²¸® - ´óÀí¹úÎä½« ¸µË¼¹é(Fu sigui) ¸±½«(Fu jiang)
+·¨ÌÃ - ´óÀí¹úÎä½« ×Ü¹Ü(Zong guan) °ÚÒÄÅÐ¹Ù(Pan guan) ¶ÎÚê(Duan jin)
+Ð¡Ôº - »¤ÔºÎäÊ¿(Wei shi) Ð¡ØË×Ó(Xiao si)
+Éß¹ÇËþ - Ð¡º¢(Kid)
+Ê¯ÆÌ - Ê¯½³(Shi jiang)
+Ñ¦¼Ç³ÉÒÂÆÌ - Ñ¦ÀÏ°å(Xue laoban)
+Ò©ÆÌ - Îå¶¾½ÌÌÃÖ÷ ºÎºìÒ©(He hongyao)
+ÖÐÐÄ¹ã³¡ - ½­ºþÒÕÈË(Jianghu yiren)
+Ì«ºÍ¾Ó - µêÐ¡¶þ(Xiao er)
+Ì«ºÍ¾Ó¶þÂ¥ - Ì«ºÍ¾ÓÀÏ°å ËÎÀÏ°å(Song laoban) ¸èÅ®(Ge nu)
+ÍÁË¾¸® - ÊÌ´Ó(Shi cong) ´óÍÁË¾(Da tusi)
+ÒéÊÂÌü - ×åÍ·ÈË(Zu touren) ´óÍÁË¾(Da tusi)
+±øÓª - »ÆÒÂÎÀÊ¿(Wei shi) Ê¿±ø(Shi bing)
+Âí¾Ç - Âí·ò(Ma fu)
+°ÚÒÄÃñ¾Ó - °ÚÒÄÀÏÛÅ(Oldman) ÄÏ¹ú¹ÃÄï(Girl)
+¹ÅµÀ - 
+´óÌü - ÊÌÕß(Shi zhe)
+Â¥ÌÝ - ÉÆ²ûºî ¸ßÉýÌ©(Gao shengtai) ËØÒÂÎÀÊ¿(Wei shi)
+¿Í·¿ - Åã´Ó(Pei cong)
+¹ó±ö·¿ - ºéÔ´¶´¶´Ö÷ ´ö×åÊ×Áì(Daizu shouling)
+É½Â· - ÎÞÁ¿½£µÜ×Ó(Wuliang dizi)
+É½Â· - ÉñÅ©°ïµÜ×Ó(Shennong dizi)
+Ï²ÖÝ³Ç - Ê¢Æ¤ÂÞ¿ÍÉÌ(Ke shang)
+¿Íµê - µêÐ¡¶þ(Xiao er)
+Îä¶¨Õò - Ì¨ÒÄ¹ÃÄï(Gu niang)
+ÇàÖñÁÖ - ²ÉËñÈË(Caisun ren)
+Å©Ìï - Ì¨ÒÄÅ©¸¾(Nong fu)
+Â³ÍûÕò - Ì¨ÒÄÉÌ··(Shang fan)
+éÅÊ÷ÓêÁÖ - Ì¨ÒÄÁÔÈË(Lie ren)
+ÒéÊÂÌÃ - ×å³¤(Zu zhang)
+¼ÀìëÎÝ - ¼ÀË¾(Ji si)
+
+
+ÑïÖÝÏô¸®
+Ïô¸®´óÃÅ - Ó¶¸¾ ÕÅÂè(Zhang ma)
+´óÌü - ¡¸½úÑô´óÏÀ¡¹Ïô°ëºÍ(Xiao banhe)
+»¨Ô° - ÈÎ·ÉÑà(Ren feiyan) ÁÖÓñÁú(Lin yulong)
+¹ë·¿ - ÊéÉú Ô¬¹ÚÄÐ(Yuan guannan) ÏôÖÐ»Û(Xiao zhonghui)
+
+
+¶ðÃÄ
+ÇàÊ¯½× - ÆÍÈË(Pu ren) ÄêÇáÉÙ¸¾(Young woman)
+²ÝÅï - Ð¡··(Xiao fan)
+Âí¾Ç - Âí·ò(Ma fu)
+±¨¹úËÂÉ½ÃÅ - ½øÏã¿Í(Jingxiang ke)
+²Ø¾­Â¥ - ¶ëáÒÅÉµÚÎå´úµÜ×Ó µÀÃ÷Ð¡Ê¦¸¸(Daoming)
+·ü»¢ËÂ - ¶ëáÒÅÉµÚÎå´úµÜ×Ó Å®µÜ×Ó(Dizi) ¶ëáÒÅÉµÚÎå´úµÜ×Ó ÄÐµÜ×Ó(Dizi)
+ÓñÅ®·å - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ·½±ÌÁÕ(Fang bilin)
+¸£ÊÙâÖ - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ¾²ÕæÊ¦Ì«(Jingzhen shitai)
+ÁéÎÄ¸ó - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ¾²ÕÕÊ¦Ì«(Jingzhao shitai)
+ÇåÒô¸ó - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ¾²ÏÐÊ¦Ì«(Jingxian shitai)
+»ªÑÏ¶¥ - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ÀîÃ÷Ï¼(Li mingxia)
+Á«»¨Ê¯ - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ËÕÃÎÇå(Su mengqing) ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ÕÔÁéÖé(Zhao lingzhu)
+Ç§·ðâÖ´óµî - ¶ëáÒÅÉµÚÎå´úµÜ×Ó ÎÄÒôÐ¡Ê¦Ì«(Wenyin) ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ¾²»ÛÊ¦Ì«(Jinghui shitai)
+ÍòÐÐâÖ - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ¾²åÈÊ¦Ì«(Jingjia shitai)
+¶Ã¹âÌ¨ - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ±´½õÒÇ(Bei jinyi)
+ÎÔÔÆâÖ - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ¾²ÐþÊ¦Ì«(Jingxuan shitai)
+»ª²ØâÖÕýµî - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ¾²ÐÄÊ¦Ì«(Jingxin shitai)
+»ª²ØâÖ²àµî - ¶ëáÒÅÉµÚÎå´úµÜ×Ó ÎÄÇåÐ¡Ê¦Ì«(Wenqing)
+»ª²ØâÖ²àµî - ¶ëáÒÅÉµÚÎå´úµÜ×Ó ÎÄêÍÐ¡Ê¦Ì«(Wenhui) ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ¾²ºÍÊ¦Ì«(Jinghe shitai)
+»ª²ØâÖ¹ã³¡ - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ¾²ÐéÊ¦Ì«(Jingxu shitai)
+´¢Îï¼ä - ¶ëáÒÅÉµÚËÄ´úµÜ×Ó ¾²·çÊ¦Ì«(Jingfeng shitai)
+»ª²ØâÖºóµî - ¶ëáÒÅÉµÚÈý´úÕÆÃÅÈË Ãð¾øÊ¦Ì«(Miejue shitai)
+
+
+³¤ÀÖ°ï
+Ð¡Ìü - ¡¸°Ë×¦½ðÁú¡¹Ë¾Í½ºá(Situ heng)
+ÎÔÊÒ - ÊÌ½£(Shijian)
+ð®µÀ - ³¤ÀÖ°ï»¢ÃÍÌÃ °ïÖÚ(Changle bangzhong)
+Ê¯ÊÒ - ³¤ÀÖ°ï±ª½ÝÌÃÏãÖ÷ Õ¹·É(Zhan fei)
+Ð¡ÎÝ - ³¤ÀÖ°ï±ª½ÝÌÃ °ïÖÚ(Changle bangzhong)
+´óÌü - ¡¸×ÅÊÖ³É´º¡¹±´º£Ê¯(Bei haishi)
+´óÃÅ - ³¤ÀÖ°ï»¢ÃÍÌÃÏãÖ÷ ÇñÉ½·ç(Qiu shanfeng)
+
+
+ÈªÖÞ
+
+ÈªÖÞ ÈÕ±¾ÀËÈË(Lang ren)
+¸Û¿ÚÂ· - ïÚÍ·(Biao tou)
+Íò¹úÑÌÓêÂ¥ - µêÐ¡¶þ(Xiao er) Íò¹úÑÌÓêÂ¥ÀÏ°å ÎâÀÏ°å(Wu laoban)
+ºèÏè³ñ¶Ð×¯ - ºèÏè³ñ¶Ð×¯ÀÏ°å ÐíÀÏ°å(Xu laoban) ºèÏè³ñ¶Ð×¯»ï¼Æ(Huoji)
+ÍÁµØÃí - µØÆ¦(Dipi) Ð¡Á÷Ã¥(Punk) ÀÏÊó(Lao shu)
+ºóä¾¸Û - Ë®Ê¦Ê¿±ø(Shuishi bing)
+ÌÔÈ»²è¾Ó - ÌÔÈ»²è¾ÓÀÏ°å ÌÕÀÏÈË(Tao lao)
+´òÌúÆÌ - Ìú½³(Tie jiang)
+ÂÒÊ¯¸Ú - ÍÁ·Ë(Tufei) ÍÁ·ËÍ·(Tufei tou)
+Çå¾»ËÂ - »Ø»Ø(Huihui)
+°¢À­²®Õ¬Çø - °¢À­²®ÉÌÈË(Alabo shangren)
+Îä¹Ý´óÃÅ - Îä¹ÝÃÅ¶¡(Men ding)
+¿¼½Ì³¡ - Îä¹ÝÑ§Í½(Xue tu)
+Ç°Ìü - ÂíÎåµÂ(Ma wude)
+µ¶ÈÐ²¿ - ¡¸Ò»µ¶Æ½ÄÏ¡¹Áúîý(Long quan)
+°ôÕÈ²¿ - ¡¸¿ñ»¢¡¹³Âä°(Chen hu)
+½£²¿ - ¡¸¾øÇé½£¡¹Áõºççø(Liu hongying)
+°µÆ÷²¿ - ¡¸ÂþÌì»¨Óê¡¹Ïô·É(Xiao fei)
+³ÐÌìËÂ - É®ÈË(Seng ren)
+Ñ§ÌÃ - Å·ÑôÕ²(Ouyang zhan)
+¶¼¶½¸® - Á¸²Ö - Ê©ÀÅ½«¾ü¸® - Îä½«(Wu jiang) ¹Ù±ø(Guan bing)
+½«¾ü¸® - ¾¸º£ºî Ê©ÀÅ(Shi lang)
+ºè¸£Â¥ - µêÐ¡¶þ(Xiao er)
+³ÇÚòÃí - Ãí×£(Miao zhu)
+ÔÓ»õÆÌ - ÔÓ»õÆÌÀÏ°åÄï ³Â°¢ÆÅ(Chen apo)
+ÌìÍõµî - É®ÈË(Seng ren)
+¸ÊÂ¶½äÌ³ - ÉÙÁÖÅÉµÚÈýÊ®°Ë´úµÜ×Ó¡¸À±ÊÖÃðÙÁ¡¹»Û½ð×ðÕß(Hui jin)
+¼ÃÊÀÌÃÀÏµê - Ò©ÆÌÕÆ¹ñ ÍõÍ¨ÖÎ(Wang tongzhi)
+Ò©·¿ - Ò©ÆÌÐ¡ØË(Yaopu xiaosi)
+ÖÐÐÄ¹ã³¡ - ºúÈË(Hu ren) ²¶Í·(Bu tou) Ð¡··(Xiao fan)
+ÍûÖÝÍ¤ - Çà³ÇÅÉµÚÎå´úµÜ×Ó ¼ÖÈË´ï(Jia renda)
+Ç§ÊÖÑÒ - Ø¤°ïÒ»´üµÜ×Ó ÕÔ¹·¶ù(Zhao gouer)
+É½Â· - ²É²èÅ®(Girl)
+
+
+
+·ðÉ½
+ÁÖ¼äµÀ - ÕÅ¿µ(Zhang kang) ÕÅ³¯ÌÆ(Zhang chaotang)
+Ó¢ÐÛµäµ± - ÀÏ³¯·î(Lao chaofeng)
+·ðÉ½Õò½Ö - ¼Ò¶¡(Jia ding)
+·ðÉ½Õò½Ö - ïñÐ¡¶þ(Zhong xiaoer)
+ÉÕ±ýÓÍÌõÆÌ - ÍõÀÏºº(Wang laohan)
+Ó¢ÐÛÂ¥ - ¾ÆÂ¥ÀÏ°å ·ïÆß(Feng qi)
+Ó¢ÐÛÂ¥ - ÊÝÉÌÈË(Shou shangren) ÅÖÉÌÈË(Pang shangren)
+Ó¢ÐÛ»á¹Ý - ·ïÒ»Ãù(Feng yiming)
+ÂéÏªÆÌ - äìÏæ×Ó(Xiaoxiang zi) ´ó»ÆÅ£(Cow)
+ÆÝ¼Ò´óÔº - ÆÝ·¼(Qi fang) Á¬³ÇÅÉµÚÎå´úµÜ×Ó¡¸ÌúËøºá½­¡¹ÆÝ³¤·¢(Qi changfa)
+ÆÝ¼ÒºóÔº - ÃÛ·ä(Bee) ¿ÕÐÄ²Ë(Kongxin cai)
+²èÍ¤ - ¾Å¸ö°ëÃÅÅÉ×ÜÕÆÃÅ Ô¬×ÏÒÂ(Yuan ziyi)
+
+
+
+º¼ÖÝ
+ÄÏä±Õò - ×¯ÔÊ³Ç(Zhuang yuncheng)
+·ÉÀ´·å - ²³º£°ï°ïÖ÷ ºéÊ¤º£(Bangzhu) ²³º£°ï °ïÖÚ(Bangzhong)
+ÁéÒþËÂ - Öª¿ÍÉ®(Zhike seng)
+´óÐÛ±¦µî - ¿ÝÄ¾ìøÊ¦(Kumu chanshi)
+·¨¾»ËÂ - ·¨¾µËÂ - Ð¡É³ÃÖ(Xiao shami)
+·¨Ï²ËÂ - ÀÏºÍÉÐ(Seng ren)
+ÓñÈªÊéÔº - ¹ËÑ×Îä(Gu yanwu)
+±£ÊçËþ - ÌìºÓ°ï°ïÖ÷ »Æ²®Á÷(Bangzhu) ÌìºÓ°ï °ïÖÚ(Bangzhong)
+ÁúÃÅïÚ¾Ö - ¶¼´ó½õ(Du dajin)
+Ð¡Ôº - ÄþïÚÍ·(Ning biaotou)
+Ð¡Ôº - ÖÜïÚÍ·(Zhou biaotou)
+Ð¡Ôº - ¼ÖïÚÍ·(Jia biaotou)
+Ð¡Ôº - ÁÖïÚÍ·(Lin biaotou)
+Ð¡Ôº - ÎÌïÚÍ·(Weng biaotou)
+Ð¡Ôº - ËÎïÚÍ·(Song biaotou)
+Â¥ÍâÂ¥ - µêÐ¡¶þ(Xiao er)
+Ìú½³ÆÌ - Ìú½³(Tie jiang) Å·ÖÎ×Ó(Ou zhizi)
+ÌìÍâÌì¿Íµê - µêÐ¡¶þ(Xiao er)
+Å£¼Ò´å - ÑîÌúÐÄ(Yang tiexin) ¹ùÐ¥Ìì(Guo xiaotian)
+¾Æµê - ¾ÆµêÀÏ°å¡¸õË×Ó¡¹ÇúÈý(Qu san)
+º£µÌ - ÌÁ¹¤(Tanggong)
+ÑÎÌï - º£É³ÅÉÑÎèÉ(Yanxiao)
+º£ÉñÃí - ÌìÓ¥½ÌÖÚ(Tianying jiaozhong)
+
+
+
+¼ÎÐË
+Ì«ºþ - ¹éÔÆ×¯ÉÙ×¯Ö÷ Â½¹ÚÓ¢(Lu guanying)
+¼ÎÐËÄÏºþ - ¡¸³àÁ·ÏÉ×Ó¡¹ÀîÄª³î(Li mochou)
+ÑÌÓêÂ¥ - µêÐ¡¶þ(Xiao er) ÓùÉÅ·¿×Ü¹Ü º£ÀÏ¹«(Hai laogong) ÓùÉÅ·¿Ð¡Ì«¼à Ð¡¹ð×Ó(Xiao guizi)
+´óÃÅ - ¼Ò¶¡(Jia ding)
+Êé·¿ - ¹éÔÆ×¯Ö÷ Â½³Ë·ç(Lu chengfeng)ÊéÍ¯(Shu tong)
+»¨Ìü - Ð¡À¼(Xiao lan)
+»¨Ô° - Ð¡¾Õ(Xiao ju)
+
+
+»ªÉ½
+´óµÀ - °×ÍÕÉ½µÚËÄ´úµÜ×Ó ¼Ò¶¡(Jiading)
+Ð¡Â· - °×ÍÕÉ½µÚËÄ´úµÜ×Ó æ¾Å®(Binu) °×ÍÕÉ½×¯ÎäÊ¦ Âí¹â×ô(Ma guangzuo)
+Ð¡É½Çð - °×ÍÕÉ½ÉÙ×¯Ö÷ Å·Ñô¿Ë(Ouyang ke)
+Ë½ÛÓ - ÀÏÐã²Å(Lao xiucai)
+Ð¡Ïï¾¡Í· - Ð¡Á÷Ã¥(Punk) µØÆ¦(Dipi)
+Ãñ·¿ - ´ä»¨(Cui hua)
+Ð¡Åï×Ó - ÍõÐ¡¶þ(Wang xiaoer)
+ÔÓ»õµê - Ð¡µêÀÏ°å ÀîËÄ(Li si)
+Ìú½³ÆÌ - ·ëÌú½³(Feng)
+ÃñÕ¬ - µØ±£(Dibao)
+²ÝÅï - Ð¡··(Seller)
+Çà¿ÂÆº - ÓÎ¿Í(Youke) ½­ºþºÀ¿Í(Jianghu haoke)
+ÓñÅ®·åÉ½Â· - »ªÉ½ÅÉµÚÊ®ËÄ´úµÜ×Ó ¸ß¸ùÃ÷(Gao genming)
+Ð¡É½Â· - »ªÉ½ÅÉµÚÊ®ËÄ´úµÜ×Ó Ê©´÷×Ó(Shi daizi)
+»ªÉ½Ð¡Öþ - »ªÉ½ÅÉµÚÊ®¶þ´ú³¤ÀÏ ¸ßÀÏÕß(Gao lao) »ªÉ½ÅÉµÚÊ®¶þ´ú³¤ÀÏ °«ÀÏÕß(Ai lao)
+Á·Îä³¡ - »ªÉ½ÅÉµÚÊ®ËÄ´úµÜ×Ó ÀÍµÂÅµ(Lao denuo)
+¿ÍÌü - »ªÉ½ÅÉµÚÊ®Èý´úÕÆÃÅ¡¸¾ý×Ó½£¡¹ÔÀ²»Èº(Yue buqun)
+¶«ÀÈ - »ªÉ½ÅÉµÚÊ®ËÄ´úµÜ×Ó Áº·¢(Liang fa)
+Î÷ÀÈ - »ªÉ½ÅÉµÚÊ®ËÄ´úµÜ×Ó ÔÀÁéæ©(Yue lingshan)
+ºóÔº - »ªÉ½ÅÉµÚÊ®ËÄ´úµÜ×Ó¡¸Áùºï¶ù¡¹Â½´óÓÐ(Lu dayou)
+Æ«Ìü - »ªÉ½ÅÉµÚÊ®Èý´úÕÆÃÅ·òÈË ÄþÖÐÔò(Ning zhongze)
+
+
+Îäµ±
+ÐþÔÀÃÅ - Îäµ±ÅÉµÚÈý´úµÜ×Ó Öª¿ÍµÀ³¤(Zhike daozhang)
+ÓöÕæ¹¬ - Îäµ±ÅÉµÚÈý´úµÜ×Ó ÖÆÏãµÀ³¤(Zhixiang daozhang)
+ÀÆÃ·Ô° - Îäµ±ÅÉµÚËÄ´úµÜ×Ó¡¸ÊØÔ°µÀ³¤¡¹³É¸ßµÀ³¤(Chenggao daozhang)
+ÄÏÑÒ·å - Îäµ±ÅÉµÚ¶þ´úµÜ×Ó¡¸Îäµ±ÆßÏÀ¡¹ÄªÉù¹È(Mo shenggu)
+³¯Ìì¹¬ - Îäµ±ÅÉµÚÈý´úµÜ×Ó ÇåÐéµÀ³¤(Qingxu daozhang)
+ÈýÇåµî - Îäµ±ÅÉµÚÈý´úµÜ×Ó ¹ÈÐéµÀ³¤(Guxu daozhang) Îäµ±ÅÉµÚ¶þ´úµÜ×Ó¡¸Îäµ±Ê×ÏÀ¡¹ËÎÔ¶ÇÅ(Song yuanqiao)
+²Ø¾­¸ó - Îäµ±ÅÉµÚÎå´úµÜ×Ó µÀÍ¯(Daotong)
+¶«Ïá×ßÀÈ - Îäµ±ÅÉµÚ¶þ´úµÜ×Ó¡¸Îäµ±ËÄÏÀ¡¹ÕÅËÉÏª(Zhang songxi)
+²èÊÒ - Îäµ±ÅÉµÚÎå´úµÜ×Ó¡¸ËÅ²èµÀÍ¯¡¹Ð¡´ä(Cui)
+ºóÔº - Îäµ±ÅÉµÚ¶þ´úµÜ×Ó¡¸Îäµ±¶þÏÀ¡¹ÓáÁ«ÖÛ(Yu lianzhou)
+ÁÖ¼äÐ¡¾¶ - Îäµ±ÅÉµÚÎå´úµÜ×Ó Çå·ç(Qingfeng) Îäµ±ÅÉµÚÎå´úµÜ×Ó Ã÷ÔÂ(Mingyue)
+ºóÉ½Ð¡Ôº - Îäµ±ÅÉ¿ªÉ½×æÊ¦¡¸åååÝÕæÈË¡¹ÕÅÈý·á(Zhang sanfeng)
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m
+

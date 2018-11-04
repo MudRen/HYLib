@@ -1,0 +1,735 @@
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+[44;33m¡¾º£ÑóIIÎä¹¦½éÉÜ¡¿                                            [2;37;0m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m
+****ÐÇËÞ¼ò½é
+
+»¯¹¦´ó·¨ (huagong-dafa)  force >10 ²»ÄÜÓÐtaoism£¬ÇÒÐèÒª¸ºÉñ
+exert heal ÁÆÉË           ÏûºÄÄÚÁ¦50£¬busy me 2
+exert powerup ÌáÉý¹¥»÷Á¦    ÏûºÄÄÚÁ¦200
+exert jinglisuck Îü¾«Á¦   skill>100  ÃüÖÐme busy 7,target busy 7,²»ÃüÖÐ me busy 7
+exert jingsuck Îü¾«    skill>45 ÃüÖÐme busy 3,target busy 1-3 ÏûºÄÄÚÁ¦5,²»ÃüÖÐ mu busy 3 
+exert qisuck ÎüÆø      skill>30 ÃüÖÐme busy 2,target busy 2,ÏûºÄÄÚÁ¦5£¬²»ÃüÖÐ me busy 2
+exert neilisuck ÎüÄÚÁ¦  skill>60  ÃüÖÐme busy 4, target busy 1-4,²»ÃüÖÐ me busy 4
+exert maxsuck ÎüÄÚÁ¦ÉÏÏÞ skill>90  ÃüÖÐme busy7,target busy 7 ²¢Ôö³¤exp,pot  ²»ÃüÖÐbusy 7
+
+ÕªÐÇ¹¦ (zhaixinggong)
+
+ÌìÉ½ÕÈ·¨ (tianshan-zhang)
+ÌìÉ½Ææ·å perform tianshan »ù±¾ÕÈ·¨>100 ÏûºÄÄÚÁ¦100,me busy 2
+»¤Éí    perform hushen  skill>40 ÃüÖÐ target busy skill/50+1,²»ÃüÖÐme busy 1-3
+
+·ÉÐÇÊõ (feixing-shu) force >20,dodge >20 dex>25
+ÂúÌì»¨Óê perform huayu ·ÉÐÇÊõ>150 »¯¹¦´ó·¨>150  throwing>150 me busy 3,ÏûºÄÄÚÁ¦300 
+
+ÈýÒõòÚò¼×¦ (sanyin-wugongzhao) max_neili>200
+
+³éËèÕÆ (chousui-zhang) huagong-dafa >10 maxneli>60
+»ð¶Ñ perform zhaohuo ÏûºÄÄÚÁ¦150
+É¢¶¾ perform sandu »¯¹¦>40 skill>40 me busy 1 ,target busy 2
+¸¯Ê¬¶¾ perform throw »¯¹¦´ó·¨>40 skill>40 ÃüÖÐtarget busy 2-3 £¬²»ÃüÖÐme busy 4
+Òø»ð perform yinhuo ³éËèÕÆ>140 huagong-dafa >140 ÏûºÄÄÚÁ¦300 ¾«10   busy 2
+±ÌÑæ peform biyan ³éËèÕÆ>80 »¯¹¦´ó·¨>80 max_neili<500  
+»ðÇò perform huoqiu ³éËèÕÆ>180 »¯¹¦´ó·¨>180 max_neil>1500  ÏûºÄÄÚÁ¦600£¬¾«10
+»ðÇ½ perform huoqiang ³éËèÕÆ>250 »¯¹¦´ó·¨>250 max_neili>2000£¬ÏûºÄÄÚÁ¦800£¬¾«20
+
+****Ä½ÈÝ
+
+ÉñÔª¹¦ (shenyuan-gong)
+exert lifeheal ÖúÈËÁÆÉË  medicine>120 ÏûºÄÄÚÁ¦100
+exert heal     ÏûºÄÄÚÁ¦50£¬busy me 2
+
+ÑàÁéÉí·¨ (yanling-shenfa) 
+ÑàÁé perform yanlin  skill>120 dex>20
+
+Ä½ÈÝ½£·¨ (murong-jianfa) maxneili >100 , shenyuan-gong>20 parry>10
+¿ì½£ perform kuangjian Ä½ÈÝ½£·¨>200 ²ÎºÏÖ¸>200 ÃüÖÐme busy 6,target busy 1,²»ÃüÖÐ me busy 3 ÏûºÄÄÚÁ¦150
+Æß½£Á¬»·Ö¸ perform lianhuan Ä½ÈÝ½£·¨>100 ²ÎºÏÖ¸>100  ÉñÔª¹¦>70 sword>100 finger>100,ÏûºÄÄÚÁ¦50,¾«50
+ÆßÐÇ perform qixing skill>100 sword >100 ÏûºÄÄÚÁ¦100 me busy 2
+
+
+Ä½ÈÝµ¶·¨ (murong-daofa) ÉñÔª¹¦>10 max_neili >50
+µ¶Ó°ÕÆ perform yingzhang Ä½ÈÝµ¶·¨>100 ¶·×ªÐÇÒÆÕÆ>100 blade>100 strike>100 ÏûºÄÄÚÁ¦250 ¾«Á¦100 me busy 2
+
+¶·×ªÐÇÒÆÕÆ (xingyi-zhang)  ÉñÔª¹¦>15 maxneili >50
+
+²ÎºÏÖ¸ (canhe-zhi) ÉñÔª¹¦> 15   maxneili >100
+Äé»¨µãÑ¨ perform dianxue ²ÎºÏÖ¸>150 finger >100 ÉñÔª¹¦>70 ÏûºÄÄÚÁ¦100£¬²»ÃüÖÐme busy 4
+
+¶·×ªÐÇÒÆ (douzhuan-xingyi)
+ÐÇÒÆ¶·×ª perform xingyi ¶·×ªÐÇÒÆ>120   maxneili >1200  ÓÃ×÷parry ²»·ÖÊ¤¸º ÏûºÄÄÚÁ¦150 ¾«20 ²»ÃüÖÐme busy 2 ÏûºÄÄÚÁ¦60 ¾«25
+        perform tanyunshou(Ì½ÔÆÊÖ)  skill>80 ÑàÁéÉí·¨>80 ÉñÔª¹¦>80 me busy 1 ÏûºÄÄÚÁ¦ 1-100 Æø 20-50
+        perform yihuajiemu (ÒÆ»¨½ÓÄ¾) skill>80 ÑàÁéÉí·¨>80 ÉñÔª¹¦>100 me busy 2 ÏûºÄÄÚÁ¦100
+ 
+****Ã÷½Ì¼ò½é
+
+¾ÅÑôÉñ¹¦ (jiuyang-shengong) force >10 
+exert jingheal ÁÆ¾«  maxneili>300  ÏûºÄÄÚÁ¦10 busy 2
+exert powerup ÌáÉý¹¥»÷Á¦  ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+exert roar Ê¨×Óºð   neili>600 skill>20
+
+Ê¥»ðÉñ¹¦ (shenghuo-shengong)  force >9 
+exert heal ÁÆÉË  skill>30  ÏûºÄÄÚÁ¦50
+exert lifeheal ÖúÈËÁÆÉË   maxneili >300   ÏûºÄÄÚÁ¦100
+ÇàòðÉí·¨ (qingfu-shenfa) 
+pfm ÈçÓ°Èç»Ã perform ruyingruhuan  skill>50 ÃüÖÐtarget busy 5, ÏûºÄÄÚÁ¦100£¬²»ÃüÖÐ me busy 3,ÏûºÄÄÚÁ¦100
+
+ÁèÐé²½ (lingxu-bu)
+
+
+Ê¥»ðÁî·¨ (shenghuo-ling)  Ê¥»ðÉñ¹¦> 30 
+´«¹¦ (chuangong) force>150 Ê¥»ðÉñ¹¦>100 maxneili>1000  busy 10
+ÎüÑæ perform duo Ê¥»ðÁî·¨>50  ÏûºÄÄÚÁ¦60 ÃüÖÐtarget busy 2
+Í¸¹ÇÕë perform  tougu Ê¥»ðÉñ¹¦>100 maxneili>1000 ¾«>300 ÃüÖÐme busy 2 target busy 3 ÏûºÄÄÚÁ¦150 ¾«5£¬²»ÃüÖÐ me busy 2 ÏûºÄÄÚÁ¦50 ¾«5
+Òõ·çµ¶ perform yinfeng Ê¥»ðÉñ¹¦>120  skill>130 Ê¥»ðÉñ¹¦>130 force >130 max_neili>1200  target busy 2, me busy 2 ÏûºÄÄÚÁ¦400£¬¾«70
+Ê¥»ðÁî·¨¡¸ÎüÑæ¡¹Áî xiyanling skill>40 ÏûºÄÄÚÁ¦40
+
+ 
+½ðÎÚµ¶·¨ (jinwu-daofa) maxneili >100 
+
+ÆßÉËÈ­ (qishang-quan)  maxneili>50
+»êÆÇ·ÉÑï perform hunpofeiyang ÆßÉËÈ­>60   cuff>150 Ê¥»ðÉñ¹¦>50 me busy 2
+ÓÄÓÄ¶Ï³¦ perform youyouhunduan ÆßÉËÈ­>200 Ê¥»ðÉñ¹¦>150  ÏûºÄÄÚÁ¦700  busy 4
+
+ËÑ¹ÇÓ¥×¦¹¦ (sougu) maxneili>100 str>24
+ÄÁÒ°Ó¥Ñï perform muyeyingyang ËÑ¹ÇÓ¥×¦¹¦>150 ±ÛÁ¦´óÓÚ30 skill>150 ÃüÖÐme busy 2 target busy skill/5+3£¬ÏûºÄÄÚÁ¦150 ²»ÃüÖÐ£¬me busy 4
+
+º®±ùÃàÕÆ(hanbing-mianzhang)  maxneili>100
+ÎüÑªÇàòð perform xixueqingfu º®±ùÃàÕÆ>60  dodge>150  ÏûºÄÄÚÁ¦100 me busy 2
+
+Ç¬À¤´óÅ²ÒÆ (qiankun-danuoyi) ÎÞÐÔonly 99lv force>100 maxneili>1500 force&jiuyang-shengong&maxnei/15 > skill
+Å²ÒÆ nuoyi ¶Ô·½id Ç¬À¤´óÅ²ÒÆ>50
+   nuoyi ×Ô¼ºid Ç¬À¤´óÅ²ÒÆ>50
+
+
+
+****È«Õæ¼ò½é
+
+ÏÈÌìÆø¹¦(xiantian-qigong) ²»ÄÜÎÞÐÔ£¬²»ÄÜÓÐbonze, force>10   Ð¡ÓÚ100lvÐèÒªÕýÉñ
+exert heal ÁÆÉË  ÏûºÄÄÚÁ¦50 
+exert powerup ÌáÉý¹¥»÷Á¦ ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+exert xiantiandafa  ÏÈÌì´ó·¨ skill>200 ÏûºÄÄÚÁ¦500 Õ½¶·ÖÐ busy 3
+½ðÑã¹¦ (jinyan-gong) 
+È«Õæ½£·¨ (quanzhen-jian) ÐþÌìÆø¹¦>15 
+¶¨ÑôÕë perform ding È«Õæ½£·¨>50 ÃüÖÐme busy 2 target busy 4 ÏûºÄÄÚÁ¦100
+½£Æø perform jianqi È«Õæ½£·¨>150 ÏÈÌìÆø¹¦>150 sword >150 maxneili>2000 bei sword&parry ¾«>200 
+ÆßÐÇ¾øÃü½£ perform qixing È«Õæ½£·¨>150
+Ò»½£»¯ÈýÇå perform sanqing È«Õæ½£·¨>135 ÏÈÌìÆø¹¦>60 ÏûºÄÄÚÁ¦100 busy 2
+Í¬¹éÓÚ¾¡ perform tonggui È«Õæ½£·¨>135 ÏÈÌìÆø¹¦>100 ÏûºÄÄÚÁ¦600 busy 2
+ÆßÐÇÁ¬Õó perform qixinglianzhen  busy 2
+½£Õó  perform jianzhen ±ØÐëÊÇÈ«ÕæµÜ×Ó ²»ÄÜ¶Ô±¾ÃÅµÜ×ÓÓÃ  qixing-array>150 skill>150 ÏûºÄÄÚÁ¦200 me busy 2-4
+
+ê»ÌìÕÆ (haotian-zhang) ÏÈÌìÆø¹¦ >10
+Èý»¨¾Û¶¥ perform ju ê»ÌìÕÆ>50 ÏÈÌìÆø¹¦>50 ÃüÖÐme busy 1 target busy 4 ÏûºÄÄÚÁ¦100  ²»ÃüÖÐme busy 3
+Á¬»·    perform lianhuan skill>120  ÏÈÌìÆø¹¦>100   ÏûºÄÄÚÁ¦150+ busy 1-3
+
+
+****¹ÅÄ¹¼ò½é
+
+ÓñÅ®ÐÄ·¨ (yunv-xinfa) ²»ÄÜÎÞÐÔ force >10
+exert heal ÁÆÉË  skill>200 ÏûºÄÄÚÁ¦500 Õ½¶·ÖÐ busy 3
+exert powerup ÌáÉý¹¥»÷Á¦ skill>20 ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+exert roar Ê¨×Óºð  ÏûºÄÄÚÁ¦150  me busy 3
+
+ÏÈÌìÆø¹¦(xiantian-qigong) ²»ÄÜÎÞÐÔ£¬²»ÄÜÓÐbonze, force>10   Ð¡ÓÚ100lvÐèÒªÕýÉñ
+exert heal ÁÆÉË  ÏûºÄÄÚÁ¦50 
+exert powerup ÌáÉý¹¥»÷Á¦  ÌáÉý¹¥»÷Á¦ ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+exert xiantiandafa  ÏÈÌì´ó·¨   skill>200 ÏûºÄÄÚÁ¦500 Õ½¶·ÖÐ busy 3
+
+ÓñÅ®Éí·¨ (yunv-shenfa)
+
+ÐþÌú½£·¨ (xuantie-sword)  maxnieli>150
+·ÉºçÈçµç perform feihongrudian ÐþÌú½£·¨>200 ±ØÐë×°±¸ÐþÌú½£ sword>205 ÏûºÄÄÚÁ¦500   me busy 5
+
+ÓñÅ®½£·¨ (yunv-jian)
+Ë«½£ºÏèµ perform he  skill>80 È«Õæ½£·¨>80  me busy 2
+Ë«½£ºÏèµ perform hebi   jifa parry sword  skill>120
+ÓñÅ®ËØÐÄ perform suxing  ÓñÅ®ÐÄ·¨>60  skill>135 ÏûºÄÄÚÁ¦150 ¾«50
+Ë«½£»¥²« perform hubo  È«Õæ½£·¨>120 ÏûºÄÄÚÁ¦400 ¾« 50 busy 2-4
+
+ÎåÕ¹Ã·?(wuzhan-mei) 
+ÎåÃ·ÍÂÈï perform wumei    sword >100 ÏûºÄÄÚÁ¦250  me busy 5
+Óê¼¤Ã·»¨°ë°êÏã perform yumei ÎåÕ¹Ã·>100  ²»ÃüÖÐ busy 2
+
+
+ÃÀÅ®È­ (meinv-quan)  ÓñÅ®ÐÄ·¨>10  maxleili>30
+¹ÅÄ¹ÓÄ¾Ó perform you ÃÀÅ®È­>50 ÓñÅ®ÐÄ·¨>40  me busy 2 
+
+÷öÈ»Ïû»êÕÆ (anranxiaohun-zhang)   ±ØÐëÊÇÄÐÐÔ ÒÑ»é ±ÛÁ¦´óÓÚ40  100lvºóÖ»ÄÜÑ§
+÷öÈ»Ïû»ê perform xiaohun ±ØÐëÔÚÕ½¶·ÖÐÊ¹ÓÃ ±ØÐë¿ÕÊÖÊ¹ÓÃ ÄÚÁ¦>1000£® Skills>350lv Force>310lv  Ê¹ÓÃºóÏûºÄÄÚÁ¦500   me busy 4
+
+
+****ÁéðÕ¼ò½é
+°Ë»ÄÁùºÏÎ¨ÎÒ¶À×ð¹¦ (bahuang-gong)   force>10 
+exert heal ÁÆÉË    Skill>20 Max_neili>50  ÏûºÄÄÚÁ¦50£¬busy 2
+exert powerup ÌáÉý¹¥»÷Á¦  ÏûºÄÄÚÁ¦100
+
+ÔÂÓ°Îè²½ (yueying-wubu)    only Å®ÐÔ
+ÔÂ¹âÈçÓ° perform yueguangruying  skill>40  ÏûºÄÄÚÁ¦100£¬ÃüÖÐtarget busy 3,²»ÃüÖÐ me busy 2
+
+ÌìÓðÆæ½£ (tianyu-qijian)
+ÌìÅ®É¢»¨ perform san ÌìÓðÆæ½£>50 bahuang-gong&beiming-shengong>50  me busy 3
+ÌìÓð¿ñÎè perform kuangwu ÌìÓðÆæ½£>200 bahuang-gong&beiming-shengong>160 ÏûºÄÄÚÁ¦350 me busy 2
+
+ÓñÊ¯¾ã·Ù perform yushijufen   ÌìÓðÆæ½£>180 qi<100 or maxqi/qi>=2.5 bahuang-gong&beiming-shengong>100  maxneili>1500 ²»ÃüÖÐ me busy 3
+
+ÌìÉ½ÕÛÃ·ÊÖ (zhemei-shou) 
+¿ÕÊÖÈë°×ÈÐ perform duo ÌìÉ½ÕÛÃ·ÊÖ>50 ±±Ú¤Éñ¹¦ or °Ë»Ä¹¦>50 ÏûºÄÄÚÁ¦50 ÃüÖÐtarget busy 2 ²»ÃüÖÐ me busy 4
+ÕÛÃ· pfm zhemei  skill>80 bahuang-gong&beiming-shengong>120 ÃüÖÐÏûºÄÄÚÁ¦200 me busy 3 target busy 6  ²»ÃüÖÐme busy 4  target busy 1 
+
+ÌìÉ½ÁùÑôÕÆ (liuyang-zhang)  maxneili > 50
+ÖÖÉúËÀ·û  perform zhong ÌìÉ½ÁùÑôÕÆ>40 ±±Ú¤Éñ¹¦ or °Ë»Ä¹¦>40  me busy 4 target busy 1-3 ÏûºÄÄÚÁ¦60
+Á¬ÖÖÉúËÀ·û perform lianzhong ÌìÉ½ÁùÑôÕÆ>200 ±±Ú¤Éñ¹¦ or °Ë»Ä¹¦>200  mu busy 1 ÏûºÄÄÚÁ¦200 target busy 1-2 ²»ÖÐme busy 4
+½âÉúËÀ·û perform jie bahuang-gong&beiming-shengong>20  skill>20 ÉíÉÏ´øjiudai 
+
+
+
+****åÐÒ£
+
+
+±±Ú¤Éñ¹¦ (beiming-shengong) ÎÞÐÔonly49lv
+exert heal ÁÆÉË  ÏûºÄ50ÄÚÁ¦£¬busy 2
+exert maxsuck ÎüÈ¡ÄÚÁ¦ÉÏÏÞ  skill>90  force>maxneili/10  ÃüÖÐmu busy 7 target busy 1-7  ²»ÃüÖÐme busy 7
+exert neilisuck ÎüÈ¡ÄÚÁ¦  skill>50  ÃüÖÐme busy 1-5 target busy 1-4  ²»ÃüÖÐ me busy 4
+exert shield »¤ÌåÕæÆø skill>40 ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 2
+
+Áè²¨Î¢²½ (lingboweibu) 
+ÂäÉñÁè²¨ perform lingbo  ²»ÄÜÎÞÐÔ beiming-shengong>100 skill>100 ÃüÖÐtarget busy 6,ÏûºÄÄÚÁ¦100 ²»ÃüÖÐme busy 2 ÏûºÄÄÚÁ¦100
+
+ÈçÒâµ¶ (ruyi-dao) ±±Ú¤Éñ¹¦>10 maxneili>50
+ÈçÒâÁ¬»·µ¶ perform ruyi ÈçÒâµ¶>60 ±±Ú¤Éñ¹¦ >60 ÏûºÄÄÚÁ¦200 me busy 3 
+ÊÂÊÂÈçÒâ perform shishiruyi ÈçÒâµ¶>200  maxneili>800 ÏûºÄÄÚÁ¦300
+
+ÌìÉ½ÕÛÃ·ÊÖ (zhemei-shou) 
+¿ÕÊÖÈë°×ÈÐ perform duo ÌìÉ½ÕÛÃ·ÊÖ>50 ±±Ú¤Éñ¹¦ or °Ë»Ä¹¦>50 ÏûºÄÄÚÁ¦50 ÃüÖÐtarget busy 2 ²»ÃüÖÐ me busy 4
+ÕÛÃ· pfm zhemei  skill>80 bahuang-gong&beiming-shengong>120 ÃüÖÐÏûºÄÄÚÁ¦200 me busy 3 target busy 6  ²»ÃüÖÐme busy 4  target busy 1 
+
+ÌìÉ½ÁùÑôÕÆ (liuyang-zhang)  maxneili > 50
+ÖÖÉúËÀ·û  perform zhong ÌìÉ½ÁùÑôÕÆ>40 ±±Ú¤Éñ¹¦ or °Ë»Ä¹¦>40  me busy 4 target busy 1-3 ÏûºÄÄÚÁ¦60
+Á¬ÖÖÉúËÀ·û perform lianzhong ÌìÉ½ÁùÑôÕÆ>200 ±±Ú¤Éñ¹¦ or °Ë»Ä¹¦>200  mu busy 1 ÏûºÄÄÚÁ¦200 target busy 1-2 ²»ÖÐme busy 4
+½âÉúËÀ·û perform jie bahuang-gong&beiming-shengong>20  skill>20 ÉíÉÏ´øjiudai 
+
+
+
+****»ªÉ½
+
+
+»ªÉ½ÄÚ¹¦ (huashan-neigong)  zixia-shengong>10 
+exert powerup ÏûºÄÄÚÁ¦100
+
+×ÏÏ¼Éñ¹¦ (zixia-shengong)  ÎÞÐÔonly49  force>10 ÒªÇóÕýÉñ
+exert powerup ÌáÉý¹¥»÷Á¦   ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+exert heal ÁÆÉË  skill>20 ÏûºÄÄÚÁ¦50
+
+»ªÉ½Éí·¨ (huashan-shenfa)
+
+·ÉÑà»ØÏè (feiyan-huixiang)
+»ØÑà·ÉÎè perform huiyanfeiwu skill>60 ÏûºÄÄÚÁ¦100 ÃüÖÐtarget busy 4,²»ÃüÖÐ me busy 2
+
+»ªÉ½½£·¨ (huashan-sword) maxneili>50 
+ÌìÍâ·ÉÁú perform feilong  skill>150 »ªÉ½ÄÚ¹¦>150 zixia-shengong>100  maxneili>600 ÃüÖÐme busy 2 target busy 1-3ÄÚÁ¦Ê£Óà100 ²»ÃüÖÐme busy 2 ÏûºÄÄÚÁ¦200
+
+½£ÕÆÎåÁ¬»· perform jianzhang  zixia-shengong>50 »ªÉ½½£·¨>50 ÏûºÄÄÚÁ¦50 busy 4
+½£Ã¢     perform jm  »ªÉ½½£·¨>50 sword>90 str,dex>25 zixia-shengong>80  maxneili>500  ÃüÖÐtarget busy 2 ÏûºÄÄÚÁ¦200 ²»ÃüÖÐme busy 4 target busy 1   meÏûºÄÄÚÁ¦100  targetÏûºÄÄÚÁ¦50
+                     µÚ¶þhit ÃüÖÐme busy 1 target busy 1 ÏûºÄÄÚÁ¦300 ²»ÃüÖÐme busy 4 target busy 1 ÏûºÄÄÚÁ¦150   µÚ3hit ÃüÖÐÏûºÄÄÚÁ¦300 me busy 4 target busy 1 targetÏûºÄÄÚÁ¦300 
+                      ²»ÃüÖÐme busy 3 ÏûºÄÄÚÁ¦250 target busy 2
+
+¿ñ·ç¿ì½£ (kuangfeng-jian)  maxneili>300 dodge >60 froce>60 dex>25  
+
+ÌìÍâ·ÉÁú perform feilong skill>150 »ªÉ½ÄÚ¹¦>120 zixia-shengong>100  maxneili>600 ÃüÖÐme busy 2 target busy 1-3ÄÚÁ¦Ê£Óà100 ²»ÃüÖÐme busy 2 ÏûºÄÄÚÁ¦200  
+  ´Ëpfm ÍþÁ¦¹ý´ó£¬ÃüÖÐ¹ý¸ß£¬
+
+
+ÌìÍâ¿ñÁú perform kuanglong »ªÉ½ÄÚ¹¦>120 ¿ñ·ç¿ì½£>150 maxneli>600  me busy 2
+
+·´Á½ÒÇµ¶·¨ (fanliangyi-dao) maxneil>50 zixia-shengong>10 
+»ªÔÀÈýÉñ·å perform sanshen  ×ÏÏ¼Éñ¹¦>80 blade>50  ÏûºÄÄÚÁ¦50 me busy 2
+Ë«µ¶ºÏ±Ú perform makearray skill>30 2¸öÈË ÐèÒªzixia-shengong 
+
+»ìÔªÕÆ (hunyuan-zhang)   zixia-shengong>20 maxneili>100
+»ìÔªÎÞ¼« perform wuji »ìÔªÕÆ>60 ÆÆÓñÈ­>60 me busy 3
+
+»ªÉ½ÕÆ·¨ (huashan-zhangfa)   zixia-shengong>20  maxneili>100 
+
+ÅüÊ¯ÆÆÓñÈ­ (poyu-quan)  zixia-shengong>10 maxneili>50 
+À×¶¯¾ÅÌì perform leidong ÅüÊ¯ÆÆÓñÈ­>135  ÏûºÄÄÚÁ¦400 me busy 4 
+
+¶À¹Â¾Å½£ (lonely-sword)  maxneili>600 only »ªÉ½µÜ×ÓÏò·ïÇåÑïÑ§Ï° zixia-shengong>100 120LvÒª×Ô¼ºÁ·Ï°
+×Ü¾öÊ½ perform po ¶À¹Â¾Å½£>100        skill>20 ·çÇåÑïµÜ×Ó ÏûºÄÄÚÁ¦50 ²»ÃüÖÐme busy 4 ÏûºÄÄÚÁ¦30
+ÆÆ½£Ê½ perform pojian ¶À¹Â¾Å½£>50    ·çÇåÑïµÜ×Ó ÏûºÄÄÚÁ¦30  ²»ÃüÖÐme busy 4 
+ÆÆµ¶Ê½ perform podao ¶À¹Â¾Å½£>50       ·çÇåÑïµÜ×Ó ÏûºÄÄÚÁ¦30  ²»ÃüÖÐme busy 4 
+ÆÆ±ÞÊ½ perform pobian ¶À¹Â¾Å½£>50     ·çÇåÑïµÜ×Ó ÏûºÄÄÚÁ¦30  ²»ÃüÖÐme busy 4 
+ÆÆË÷Ê½ perform posuo ¶À¹Â¾Å½£>50      ·çÇåÑïµÜ×Ó ÏûºÄÄÚÁ¦30  ²»ÃüÖÐme busy 4    
+ÆÆÇ¹Ê½ perform poqiang ¶À¹Â¾Å½£>50    ·çÇåÑïµÜ×Ó ÏûºÄÄÚÁ¦30  ²»ÃüÖÐme busy 4    
+ÆÆÕÆÊ½ perform pozhang ¶À¹Â¾Å½£>70     ·çÇåÑïµÜ×Ó ÃüÖÐme busy 1-2 target 2  ²»ÃüÖÐÏûºÄÄÚÁ¦100  me busy 1-3    
+ÆÆÆøÊ½ perform poqi ¶À¹Â¾Å½£>170         ·çÇåÑïµÜ×Ó busy 2
+ÆÆÕÐÊ½ perform pozhao ¶À¹Â¾Å½£>200       ·çÇåÑïµÜ×Ó ÏûºÄÄÚÁ¦200  ÃüÖÐme busy 3 target busy ¾Å½£µÈ¼¶/40+2+1 ²»ÃüÖÐme busy 4 target busy 1          
+×Ü¾öÊ½£¨½ø¹¥) perform zongjue       ·çÇåÑïµÜ×Ó ÏûºÄÄÚÁ¦25 ¾«10  ÃüÖÐ target busy sowrd/28   me busy 1 ²»ÃüÖÐ     me buay 3-5
+¾ÅÊ½ºÏÒ»£¨½ø¹¥) perform jiushi¶À¹Â¾Å½£>300 ·çÇåÑïµÜ×Ó maxneili>2000  me busy 3 ,ÏûºÄÄÚÁ¦ÓëskillµÈ¼¶Ïà¹Ø
+ 
+****ÃÜ×Ú¼ò½é
+
+ÁúÏó°ãÈô¹¦ (longxiang) ·ÇÉ®ÈËonly 29lv force >10 ÎÞÐÔonly49lv ÒªÇóÉñ
+exert cure ÁÆ´óÊÖÓ¡ÄÚÉË  maxneili>1000 ÏûºÄÄÚÁ¦300
+exert heal ÁÆÉË     skill>20  ÏûºÄÄÚÁ¦50
+exert lifeheal ÖúÈËÁÆÉË   maxneili>300  ÏûºÄÄÚÁ¦150 me busy 3  target busy 3
+exert fanchang èó³ª  skill>50 ÃüÖÐme busy 2  target busy 1-3 ÏûºÄÄÚÁ¦30  ²»ÃüÖÐ me busy 4
+exert powerup ÌáÉý¹¥»÷Á¦  ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+exert fumozhou ½µÑý·üÄ§Öä  skill>120  maxneili>1200 ÏûºÄÄÚÁ¦500   me busy 1 
+exert shield »¤ÌåÉñ¹¦  skill>30 ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+
+Ð¡ÎÞÏà¹¦ (xiaowuxiang)   ·ÇÉ®ÈËonly 29lv force >10 ÎÞÐÔonly49lv ÒªÇóÉñ
+exert lifeheal ÖúÈËÁÆÉË  maxneili>300  ÏûºÄÄÚÁ¦150 me busy 3  target busy 3
+exert shield »¤ÌåÕæÆø   skill> 40 ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+
+Éí¿ÕÐÐ (shenkong-xing)
+ÌìÂíÐÐ¿Õ perform tianmaxingkong   skill>40  ÏûºÄÄÚÁ¦100  ÃüÖÐtarget busy 4  ²»ÃüÖÐ me busy 2
+
+²»¶¯Ã÷Íõ½£(mingwang-jian)  maxneili>100 Ð¡ÎÞÏà¹¦ÁúÏó°ãÈô¹¦>20
+
+Ñªµ¶µ¶·¨ (xue-dao)  Ð¡ÎÞÏà¹¦ÁúÏó°ãÈô¹¦>20
+Ñª¼À perform kuangdao Ñªµ¶µ¶·¨>120  ÏûºÄÄÚÁ¦100  me busy 4
+Ñª¼ÀÉñµ¶ perform shendao Ñªµ¶µ¶·¨>100  ÁúÏó°ãÈô¹¦>60  maxneili>600   me busy 2
+
+ÈÕÔÂÂÖ·¨ (riyue-lun)  Ð¡ÎÞÏà¹¦ÁúÏó°ãÈô¹¦>20 maxneili>100
+ÎåÂÖ´ó·¨ perform wulundafa ÈÕÔÂÂÖ·¨>100  skill>150  ÏûºÄÄÚÁ¦50 me busy 3
+
+½ð¸Õ½µÄ§èÆ (xiangmo-chu)  Ð¡ÎÞÏà¹¦ÁúÏó°ãÈô¹¦>20
+½ð¸Õè¤åÈÄ¸È­ (yujiamu-quan)  Ð¡ÎÞÏà¹¦ÁúÏó°ãÈô¹¦>20
+
+ÃÜ×Ú´óÊÖÓ¡ (dashou-yin)   Ð¡ÎÞÏà¹¦ÁúÏó°ãÈô¹¦>20  maxneli>50 
+
+»ðÑæµ¶ £¨huoyan-dao)  maxneili>300 Ð¡ÎÞÏà¹¦ÁúÏó°ãÈô¹¦>60
+·ÙÐÄÒÔ»ð perform fen »ðÑæµ¶ >120 Ð¡ÎÞÏà¹¦ >60  ÏûºÄÄÚÁ¦600  me busy 2
+ºìÁ«»ð perform honglian »ðÑæµ¶ >180 Ð¡ÎÞÏà¹¦ >100  maxneili>1500  me busy 1 ÏûºÄÄÚÁ¦300 ¾«100
+ÐÞÂÞÑæ perform xiuluo »ðÑæµ¶ >130 Ð¡ÎÞÏà¹¦ >100 maxneili>150  strike>130 con>34  me busy 1-4
+
+½µ·ü·¨ (necromancy)  ÁúÏó°ãÈô¹¦>½µ·þ·¨
+ shexin £¼Ä³ÈË£¾ to go¡¡£¼·½Ïò£¾£¬Çý¸Ï±»½µ·üµÄÈËÎï³¯ÈÎºÎ·½ÏòÐÐ×ß¡££¨µÈ¼¶ÈýÊ®£©
+shexin £¼Ä³ÈË£¾ to follow (your id)£¬ÈÃ±»½µ·üµÄÈËÎï±»ÆÈ¸úÄãÐÐ×ß¡££¨µÈ¼¶ËÄÊ®Îå£©
+shexin £¼Ä³ÈË£¾ to give (your id) £¼½ðÇ®£¾£¬ Ç¿ÆÈ±»½µ·üµÄÈËÎïÈ¡Ç®¸øÄã¡££¨µÈ¼¶ÁùÊ®£©
+
+
+****Ø¤°ï
+
+»ìÌìÆø¹¦ (huntian-qigong)   
+exert lifeheal ÖúÈËÁÆÉË   skill>20  maxneili>300  ÏûºÄÄÚÁ¦100
+exert poweup ÌáÉý¹¥»÷Á¦   ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+exert shengang »ìÌìÉñî¸    skill>150 ÏûºÄÄÚÁ¦150 busy 1-4
+exert heal ÁÆÉË  ÏûºÄÄÚÁ¦50 busy 2
+
+åÐÒ£ÓÎ (xiaoyaoyou)
+²×º£Ò»Ð¦ perform canghaiyixiao skill>70 ÏûºÄÄÚÁ¦100 ÃüÖÐtarget busy 4 ²»ÃüÖÐme busy 2
+
+´ò¹·°ô·¨ (dagou-bang)  staff >30  huntian-qigong>120  maxneili>1000
+²ø perform chan ´ò¹·°ô·¨>100   huntian-qigong>70 ÏûºÄÄÚÁ¦60  ÃüÖÐtraget busy skill/50+2  ²»ÃüÖÐ me busy 2
+ÂÒ´ò perform luanda ´ò¹·°ô·¨>80    ÏûºÄÄÚÁ¦200  busy 2
+ÌìÏÂÎÞ¹· perform wugou ´ò¹·°ô·¨>200 ÄÚÁ¦>2000  skill>200 huntian-qigong>70 ÏûºÄÄÚÁ¦200 busy 2   
+°è      perform ban  huntian-qigong>70 force >199 skill>199 ÏûºÄÄÚÁ¦150 Æø55 busy 2
+
+½µÁúÊ®°ËÕÆ (xianglong-zhang)
+½µÁú´ó·¨ perform xianglong  ½µÁúÊ®°ËÕÆ>80  huntian-qigong>70 ÏûºÄÄÚÁ¦100
+À×öªÒ»»÷ perform leiting ½µÁúÊ®°ËÕÆ>120   huntian-qigong>100  ÏûºÄÄÚÁ¦500  busy 1
+¿ºÁúÎÞ»Ú perform kanglongwuhui ½µÁúÊ®°ËÕÆ>200  neili>1500 ÏûºÄÄÚÁ¦1000 busy 6 huntian-qigong>70
+
+Ô¦ÊÞÊõ (training)
+
+µÀÌýÍ¾Ëµ (checking)
+
+½Ð»¯¾ø»î (begging)
+
+
+
+****Îäµ±¼ò½é
+
+
+Ì«¼«Éñ¹¦ (taiji-shengong)  ÎÞÐÔonly 49  no bonze  force>10   ÕýÉñ
+exert heal ÁÆÉË  skill>20 ÏûºÄÄÚÁ¦50  busy 2
+exery powerup ÌáÉýÕ½¶·Á¦  ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+exert taiji ÔËÌ«¼«  taiji-quan>100  skill>100
+ÌÝÔÆ×Ý (tiyunzong) 
+×Ý perform zong skill>120 taiji-shengong>120  dex>20  dodge>120
+
+Ì«¼«½£·¨ (taiji-jian)   maxneili>100   taiji-shengong>20 taiji-quan>20
+Á¬ perform lian Ì«¼¶Éñ¹¦>60 Ì«¼¶½£·¨>50  ÏûºÄÄÚÁ¦60*hitÊýÁ¿  busy 3
+Ëæ perform sui  Ì«¼¶½£·¨>40 taiji-shengong>40  ÏûºÄÄÚÁ¦100  
+²ø perform chan Ì«¼¶½£·¨>40 taiji-shengong>40 ÏûºÄÄÚÁ¦60 ÃüÖÐtarget busy skill/50+1  ²»ÃüÖÐ me busy 1-3
+Ç£ÖÆ¹¥»÷ perform chanup Ì«¼¶Éñ¹¦>100  skill>100 parry ÃüÖÐ target busy 3 ²»ÃüÖÐ me busy 1-3
+
+Á½ÒÇ½£·¨ (liangyi-jian)  maxneili>700 taji-shengong xuantianwuji>20
+ºÏ±Ú perform hebi  skill>100   xuantianwuji>100 maxneili>1000 
+ÇÙ½£Ë«¾ø perform jianqin ÇÙÆåÊé»­>200 Á½ÒÇ½£·¨>200   ÏûºÄÄÚÁ¦200 busy 2
+ÌìµØÍ¬ÈÊ perform ren Á½ÒÇ½£·¨>50 xuantianwuji>50 maxneili>400  ÏûºÄÄÚÁ¦100 busy 2
+ÂþÌì·ÉÑ© perform feixue  skill>60 xuantianwuji>70  throwing>60 ÏûºÄÄÚÁ¦200 ÃüÖÐtarget busy 4-7 me busy 4 ²»ÃüÖÐ busy 4
+¾øµØ·êÉú perform juedi  skill>180 xuantianwuji>80   ÃüÖÐme busy 4  target busy 1-4  ²»ÃüÖÐ busy 3
+
+
+Ì«¼«È­ (taiji-quan) taiji-shengong>20  maxneili>100  
+¼·×Ö¾÷ perform ji    busy 3 ÏûºÄÄÚÁ¦150 ¾«10
+Õ³×Ö¾÷ perform zhan  ÏûºÄÄÚÁ¦×î´ó160 ¾«10 ÃüÖÐtarget ×î´óbusy 8  ²»ÃüÖÐ target busy 2 me busy 3  ÏûºÄÄÚÁ¦100 ¾«15
+Éñ¹¦ÕðµÐ perform zhen Ì«¼¶È­>30 taiji-shengong>30   ÃüÖÐme busy 3 ²»ÃüÖÐme busy 1   
+Éñ¹¦ÕðµÐ perform zhenup  ÏûºÄÄÚÁ¦300 ¾«25 busy 3
+½èÁ¦´òÁ¦ perform jielidali  Ì«¼¶È­>100  Îäµ±µÜ×Ó  taiji-shengong>100  int>20 ÏûºÄÄÚÁ¦100 busy 3
+ËÄÏóÁ½ÒÇÕó (wudang-array)
+perform yanyuqingxin
+
+
+******ÉñÁúµº
+
+
+
+ÉñÁúÐÄ·¨ (shenlong-xinfa)  ÎÞÐÔonly 49
+exert heal ÁÆÉË  ÏûºÄÄÚÁ¦50
+exert powerup  ÌáÉý¹¥»÷Á¦  ÏûºÄÄÚÁ¦100    Õ½¶·ÖÐbusy 3
+
+ÒâÐÎ²½·¨ (yixingbu)
+
+ÉñÁú°ËÊ½ (shenlong-bashi)  shenlong-xinfa>25  force>25  maxneili>150  2*shenlong-xinfa>skill
+ÁúÐÎ°Ë´ò  perform bada ÉñÁú°ËÊ½>60   ÉñÁúÐÄ·¨ >60  ÏûºÄÄÚÁ¦50  ²»ÃüÖÐbusy 4
+ÉñÁúÍÂÖé  perform shenlongtuwu   zhaosheshu>150 shenlong-bashi>150 shenlong-xinfa>60 ÏûºÄÄÚÁ¦200 busy 3
+Ó¢ÐÛÈýÊ½  perform yingxiong  only ÄÐÐÔ skill>70 force>60  ÏûºÄÄÚÁ¦150 busy 3
+ÃÀÈËÈýÕÐ  perform meinu  only Å®ÐÔ skill>70  force>60   ÏûºÄÄÚÁ¦150 busy 3
+²ÊµûÄî»¨  perform flower  zhaosheshu>150  skill>250 shenlong-xinfa>150  busy 2
+
+ÉßµºÆæ¹¦ (shedao-qigong)  shenlongxinfa>30  shenlongxinfa>skill shenlong-bashi>30    force>30
+³ªÏÉ·¨ perform chang   skill>100 ÏûºÄÄÚÁ¦200 
+       perform chang2   skill>150 Ôö¼ÓÄÚÁ¦1000
+       perform chang3   skill>100 
+
+»¯¹ÇÃàÕÆ (huagu-mianzhang)   2*shenlongxinfa>skill force>50 maxneili>300
+À±ÊÖ»¯¹Ç perform hua »¯¹ÇÃàÕÆ>40 ÉñÁúÐÄ·¨>50 me busy 1 
+Á¬»·     perform lianhuan   »¯¹ÇÃàÕÆ>140 ÉñÁúÐÄ·¨>150   ²»ÃüÖÐme busy 2-4
+
+
+
+****ÈÕÔÂÉñ½Ì
+
+
+¿û»¨ÐÄ·¨ (kuihua-xinfa)   force>10 no taoism no buddhism   ¸ºÉñ
+exert heal ÁÆÉË  ÏûºÄÄÚÁ¦50
+exert lifeheal ÖúÈËÁÆÉË  ÏûºÄÄÚÁ¦100 
+exert powerup ÌáÉý¹¥»÷Á¦  ÏûºÄÄÚÁ¦100
+exert roar Ê¨×Óºð   skill>20 neili>150   busy 2 ÏûºÄÄÚÁ¦150   
+exert kuihuawudi ¿û»¨ÎÞµÐ  skill>200  ÏûºÄÄÚÁ¦500
+
+¿û»¨´ó·¨ (kuihua-dafa)  180lvÇ°²»ÄÜÁ·
+Í¬¹é perform tonggui ¿û»¨´ó·¨>150  ÄÚÁ¦ºÄ¾¡
+
+¿û»¨·ÉÓ° (kuihua-feiying)
+¿û»¨ÉñÕÆ perform kuihuashenzhang  skill>50 kuihua-xinfa>60  ÏûºÄÄÚÁ¦60*hitÊýÁ¿  busy 2
+
+±ÙÐ°½£·¨ (pixie-jian)   only ÎÞÐÔ   maxneili>50 
+´ÌÄ¿ perform cimu ±ÙÐ°½£·¨>80   maxneili>400    ÃüÖÐme busy 1 target busy 1-4  ²»ÃüÖÐ me busy 2
+ÈýÁ¬´Ì perform sanlianci ±ÙÐ°½£·¨>100 kuihua-xinfa>80 ÏûºÄÄÚÁ¦50 busy 2
+
+Ì«×æ³¤È­ (changquan)
+
+
+
+****¶ðÃ¼
+
+
+
+ÁÙ¼ÃÊ®¶þ×¯ (linji-zhuang)  Å®ÐÔ£¬no marry  ²»ÊÇbonze only 29lv
+exert heal   ÁÆÉË     ÏûºÄÄÚÁ¦50
+exert lifeheal ÖúÈËÁÆÉË   ÏûºÄÄÚÁ¦100
+exert powerup ÌáÉý¹¥»÷Á¦  ÏûºÄÄÚÁ¦100   Õ½¶·ÖÐbusy 3
+exert daxiao ´óÐ¡×¯   noly Å®ÐÔ  ¾«>skill+100  ÏûºÄÄÚÁ¦500 ¾«(skill)
+exert fengyun ·çÔÆ×¯  skill>120  ÏûºÄÄÚÁ¦400 ¾«20  Å®ÐÔ
+exert longhe Áúº××¯  skill>90 Å®ÐÔ ÏûºÄÄÚÁ¦300 ¾«20  Å®ÐÔ
+exert tiandi ÌìµØ×¯   ÏûºÄÄÚÁ¦100 ¾«20  Å®ÐÔ
+exert zhixin Ö®ÐÄ×¯   skill>20 ÏûºÄÄÚÁ¦200 ¾«20 Å®ÐÔ
+ÖîÌì»¯Éí²½ (zhutian-bu)
+
+ÑãÐÐµ¶ (yanxing-dao)  maxneill>50 ÁÙ¼ÃÊ®¶þ×¯>20  blade>skill
+
+ÎÞÐÎ»ÃÓ° perform huanying ÑãÐÐµ¶>160 ÁÙ¼ÃÊ®¶þ×¯>90  maxneili>300 ÏûºÄÄÚÁ¦200 busy 4
+
+»Ø·ç·÷Áø½£ (huifeng-jian)  maxneili>50   ÁÙ¼ÃÊ®¶þ×¯>20  
+Ãð½£ perform mie »Ø·ç·÷Áø½£>200 ÁÙ¼ÃÊ®¶þ×¯ >100  maxneili>800 ÏûºÄÄÚÁ¦400 busy 3
+Ò»½£»¯ÈýÇå perform sanqing »Ø·ç·÷Áø½£>100 skill>100  ÏûºÄÄÚÁ¦300 me busy 3 ÃüÖÐtarget busy 2
+
+½ð¶¥ÃàÕÆ (jinding-zhang) ÁÙ¼ÃÊ®¶þ×¯ >10  maxneili>30 
+°ËÊ½ºÏÒ» perform bashi ½ð¶¥ÃàÕÆ>100 ÁÙ¼ÃÊ®¶þ×¯>40  ÃüÖÐÏûºÄÄÚÁ¦100 me busy 2 ²»ÃüÖÐ busy 1
+·ð¹âÆÕÕÕ perform puzhao  skill>150 ÃüÖÐ¼õÄÚÁ¦ºÍ¾« target busy 2-4 me busy 2-4 ²»ÃüÖÐbusy 5-8
+
+Ììî¸Ö¸Ñ¨·¨ (tiangang-zhi)  maxneili>100 linji-zhuang>20
+Áè¿ÕÖ¸Ñ¨ perform lingkong    ÁÙ¼ÃÊ®¶þ×¯>100  str>25 finger>100   ÃüÖÐÏûºÄÄÚÁ¦100 target busy skill/50+2  ²»ÃüÖÐme busy 2
+
+
+
+****ÌìµØ»á
+
+ÔÆÁúÉñ¹¦ (yunlong-shengong)  ÎÞÐÔonly49 yunlong-xinfa>100  skill>yunlong-xinfa  force>20
+exert heal ÁÆÉË   ÏûºÄÄÚÁ¦50
+exert powerup ÌáÉý¹¥»÷Á¦  ÏûºÄÄÚÁ¦100
+exert qudu ½â¶¾  skill>40 >60 ÏûºÄÄÚÁ¦50 busy 4
+exert qingshen ÇáÉí  skill>100  ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 2
+
+ÔÆÁúÉí·¨ (yunlong-shenfa) 
+
+Îå»¢¶ÏÃÅµ¶ (wuhu-duanmendao)  maxnieli>100  blade>20 
+¶Ï×Ö¾ö perform duan  blade>60 ÏûºÄÄÚÁ¦150 busy 5
+
+ÔÆÁú±Þ·¨ (yunlong-bian)  yunlong-shengong>40
+Ç£ÖÆ¹¥»÷ perform chan    ÔÆÁú±Þ·¨>50  yunlong-shengong>50  ÃüÖÐme busy 2-3   target busy skill/50+2  ²»ÃüÖÐ busy 2
+
+ÔÆÁú½£ (yunlong-jian)  maxneili>20 yunlong- shengong >20 yunlong-xinfa >20  force>40
+ÔÆÁúÈýÏÖ perform xian ÔÆÁú½£>50 yunlong-shengong>50  ÏûºÄÄÚÁ¦300 busy 3  ÃüÖÐtarget busy 2
+Ñ¸À×    perform xunlei  skill>200  yunlong-shenong>150 
+
+ºïÈ­ (houquan)  force>200 maxneili>200  
+Õð×Ö¾ö perform zhen ºïÈ­>40  ²»ÃüÖÐ busy 3 
+ÆÆ¸ª³ÁÖÛ perform pofuchenzhou ºïÈ­>200 yunlong-shengong>100 ÏûºÄÄÚÁ¦300 busy 5
+
+ÔÆÁú×¦ (yunlong-zhua)  yunlong-shengong>50  force>50  claw>40  yunlong-xinfa>skill
+ÄýÑªÉñ×¥ perform ningxue ÔÆÁú×¦>119  yunlong-shengong>70    ÏûºÄÄÚÁ¦600 busy 3 ²»ÃüÖÐbusy 1
+
+
+
+****À¥ÂØ
+
+ÐþÌìÎÞ¼«¹¦ (xuantian-wuji)  force>10 ÕýÉñ 
+exert lifeheal ÖúÈËÁÆÉË   ÏûºÄÄÚÁ¦100
+exert heal   ÁÆÉË  ÏûºÄÄÚÁ¦50
+exert powerup  ÌáÉý¹¥»÷Á¦  ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+
+Ì¤Ñ©ÎÞºÛ (taxue-wuhen) 
+
+À¥ÂØÉí·¨ (kunlun-shenfa) art>120  art>skill
+
+Ñ¸À×½£·¨ (xunlei-jian) xuantianwuji>30  maxneili>100 swork>20 
+
+Á½ÒÇ½£·¨ (liangyi-jian)  maxneili>700 taji-shengong xuantianwuji>20
+ºÏ±Ú perform hebi  skill>100   xuantianwuji>100 maxneili>1000 
+ÇÙ½£Ë«¾ø perform jianqin ÇÙÆåÊé»­>200 Á½ÒÇ½£·¨>200   ÏûºÄÄÚÁ¦200 busy 2
+ÌìµØÍ¬ÈÊ perform ren Á½ÒÇ½£·¨>50 xuantianwuji>50 maxneili>400  ÏûºÄÄÚÁ¦100 busy 2
+ÂþÌì·ÉÑ© perform feixue  skill>60 xuantianwuji>70  throwing>60 ÏûºÄÄÚÁ¦200 ÃüÖÐtarget busy 4-7 me busy 4 ²»ÃüÖÐ busy 4
+¾øµØ·êÉú perform juedi  skill>180 xuantianwuji>80   ÃüÖÐme busy 4  target busy 1-4  ²»ÃüÖÐ busy 3
+
+
+ÇÙÆåÊé»­art   ÎòÐÔ  Éñ´óÓÚ£­10000   Ê¦¸µÊÇºÎ×ãµÀ
+pfm tianwaifeiyin ÌìÍâ·ÉÒô  ÄÚÁ¦´óÓÚ500   Skills>100  xuntian-wuji>100    ÏûºÄÄÚÁ¦500
+
+ÕðÌìÈ­ (zhentian-quan) xuantianwuji>25 maxneili>50  
+
+´©ÔÆÍÈ (chuanyun-tui)  xuantianwuji>20 maxneili>50
+È­ÍÈË«¾ø perform shuangjue zhentian-quan>100  chuanyun-tui>150  max_neili>2000  ÏûºÄÄÚÁ¦400 busy 6
+
+À¥ÂØÕÆ·¨ (kunlun-zhang)  only ÏòºÎ×ãµÀÑ§ xuntianwuji>120  zhentian-quan>80  chuanyun-tui>80   maxneili>800 
+À¥É½µþÕÆ perform diezhang À¥ÂØÕÆ·¨>100 ÐþÌìÎÞ¼«¹¦>140 str>26   maxneili>1500   ÃüÖÐ ÏûºÄÄÚÁ¦100*skill/60   busy skill/60   ²»ÃüÖÐÏûºÄÄÚÁ¦200  busy skill/30+1
+ÂþÌì»¨Óê (mantian-huayu)
+
+
+
+****´óÀí
+
+
+¿ÝÈÙìø¹¦ (kurong-changong)  no ÎÞÐÔ
+exert heal ÁÆÉË   ÏûºÄÄÚÁ¦50
+exert powerup ÌáÉý¹¥»÷Á¦   ÏûºÄÄÚÁ¦100
+exert ku ¿Ý×Ö´ó·¨   skill>180  maxneili>2000  ÏûºÄÄÚÁ¦600 busy 2
+exert rong ÈÙ×Ö´ó·¨  skill>180  str>25 maxneili>2000   ÏûºÄÄÚÁ¦600 busy 2
+
+ÌìÄÏ²½·¨ (tiannan-step)
+
+¶Î¼Ò½£ (duanjia-sword)
+·çÀ×ËÄ»÷ perform fenglei ¶Î¼Ò½£>150  ÏûºÄÄÚÁ¦300 ¾«200 busy 2
+¾ªÌìÒ»»÷ perform jingtian  ¶Î¼Ò½£>70 ¿ÝÈÙìø¹¦>  ÏûºÄÄÚÁ¦300 ÃüÖÐ busy 1 ²»ÃüÖÐÏûºÄÄÚÁ¦100 busy 2
+°§ÀÎÉ½½£Òâ perform ailao   kurong-shangong>70   ÏûºÄÄÚÁ¦200 ¾«20 busy 1
+
+½ðÓñÈ­ (jinyu-quan) kurong-changong>20 maxneili>100
+
+Ò»ÑôÖ¸ (sun-finger)   onlyÄÐÐÔ maxneili>700  kurong-chuangong xiantian-qigong>80 
+Ò»Ö¸Ç¬À¤ perform qiankun Ò»ÑôÖ¸>90 ¿ÝÈÙìø¹¦>90  str>28  maxneili>850   ÃüÖÐÏûºÄÄÚÁ¦200  target busy skill/5+1 ²»ÃüÖÐ me busy 2
+
+¶ÎÊÏÒ»ÑôÖ¸yiyang-zhi  ÄÐÐÔ kulong-changong>150
+Ñô¹ØÈýµþperform sandie  str>25 skill>100 finger>100 kulong-changong>120   ÃüÖÐme busy 1 target busy 1  ÏûºÄÄÚÁ¦100  ²»ÖÐ me busy 3 ÏûºÄÄÚÁ¦100
+
+ÁùÂöÉñ½£ (six-finger) kulong-changong>120   maxneili>1200
+ÁùÂö¾ªÉñ perform liumaijingshen  ÁùÂöÉñ½£>180  kurong-changong>70 force>150 ÏûºÄÄÚÁ¦500 busy 5
+
+
+
+****°×ÍÕÉ½
+
+
+¸òó¡¹¦ (hamagong)  ÎÞÐÔonly49 lv   force>40   ¸ºÉñ
+exert heal ÁÆÉË   ÏûºÄÄÚÁ¦50
+exert powerup ÌáÉý¹¥»÷Á¦  ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+exert qudu ½â¶¾   skill>20    ÏûºÄÄÚÁ¦50 busy 4
+exert reserve ¾­Âöµ¹×ª   skill>40   ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 2
+
+ó¸òÜ²½·¨ (chanchu-bufa) 
+
+ÁéÉßÕÈ·¨ (lingshe-zhangfa)  maxneili>70 
+¿ñ·çÉ¨ÂäÒ¶ perform saoluoye ÁéÉßÕÈ·¨>170  hamagong>40   ÏûºÄÄÚÁ¦700 busy 6
+Åç¶¾ perform shoot  ¸òó¡¹¦>40  ÁéÉßÕÈ·¨>40  wield she zhang ÃüÖÐ  busy 2-3   ²»ÃüÖÐ busy 3
+
+¸òó¡Éñ¹¦ (hamashengong)  force>200  
+¸òó¡¹¦ perform hama   ¸òó¡Éñ¹¦ >150 strike >100  ÃüÖÐÏûºÄÄÚÁ¦200 ¾«10 busy 1  ²»ÃüÖÐ  me busy 2 target busy 1 
+
+ÉßÐÎµóÊÖ (shexing-diaoshou)  ¸òó¡¹¦>20  maxneili>100 
+µóÊÖÉßÐÎ perform diaoshou ÉßÐÎµóÊÖ>200  maxneilli>500  ÏûºÄÄÚÁ¦100 busy 2
+
+
+
+******ÌÒ»¨µº
+
+
+±Ì²¨Éñ¹¦ (bibo-shengong) ÎÞÐÔonly 49
+exert heal ÁÆÉË  ÏûºÄÄÚÁ¦50
+exert powerup ÌáÉý¹¥»÷Á¦  ÏûºÄÄÚÁ¦100 
+exert play ±Ìº£Éú³±  busy 3 ÏûºÄÄÚÁ¦150
+exert roar ±Ìº£Éú³±  ÏûºÄÄÚÁ¦100 busy 3
+exert wuzhuan ÆæÃÅÎå×ª  ÏûºÄÄÚÁ¦80 
+
+°µÓ°¸¡Ïã (anying-fuxiang)
+ÌÒº£Ã£Ã£ perform taohaimangmang skill>90  ÃüÖÐme busy 1 target busy 4 ²»ÃüÖÐme busy 1
+
+Óñóï½£·¨ (yuxiao-jian)  maxneili>500  bibo-shengong>100 ÒÑ»é
+ÌÒ»¨·ÉÎè perform taohuajian Óñóï½£·¨>150 bibo-shengong>150  ÄÚÁ¦ÏûºÄ50 busy 2
+ÌìÍâÇåÒô perform tianwai Óñóï½£·¨>90 bibo-shengong>120  ÏûºÄÄÚÁ¦50 busy 1   
+±Ìº£³±Éú°´Óñóï perform yuxiao Óñóï½£·¨>80  ÏûºÄÄÚÁ¦90 busy 1
+     ÌìÎè    pfm tianwu skill>200   bibo-shengong>180  ÄÚÁ¦full  ¾«>100  ¾«full Ôö¼ÓÄÚÁ¦force*3   busy 3
+
+ÂäÓ¢Éñ½£ (luoying-shenjian) bibo-shengong>30  maxneili>100 
+
+À¼»¨·÷Ñ¨ÊÖ (lanhua-shou)bibo-shengong>20 maxneilil>200  
+·÷Ñ¨ perform fuxue     ±Ì²¨Éñ¹¦ >100 str>25  hand>120    ÃüÖÐÏûºÄÄÚÁ¦100  target busy skill/50+1  ²»ÃüÖÐme busy 3 
+
+µ¯Ö¸ÉñÍ¨ (tanzhi-shentong)  bibo-shengong>20 maxneilil>100  
+
+µ¯Ö¸¾ªÀ× perform jinglei µ¯Ö¸ÉñÍ¨>120   ÃüÖÐÏûºÄÄÚÁ¦120 me busy 2 target busy 5   ²»ÃüÖÐ me busy 3
+ÂþÌì»¨Óê perform huayu µ¯Ö¸ÉñÍ¨>120   busy 3 ÄÚÁ¦ÏûºÄ350
+ÁéÏ¬Ò»Ö¸ perform lingxi µ¯Ö¸ÉñÍ¨>100  ÏûºÄÄÚÁ¦300  me busy 3
+
+Ðý·çÉ¨Ò¶ÍÈ (xuanfeng-leg)  bibo-shengong>15   maxneili>100 
+¿ñ·çÉ¨ÂäÒ¶ perform kuangfeng   Ðý·çÉ¨Ò¶ÍÈ>100 ÂäÓ¢Éñ½£>100 bibo-shengong>50   ÏûºÄÄÚÁ¦500 busy 4
+
+
+
+
+******ÌúÕÆ
+
+¹éÔªÍÂÄÉ·¨ (guiyuan-tunafa)   force>10   no buddhism taoism
+exert heal ÁÆÉË  ÏûºÄÄÚÁ¦50  
+
+Ë®ÉÏÆ® (shuishangpiao)
+
+ÌúÑ©´¸·¨ (tiexue-hammer)  force>50 maxneili>150  
+·´×ªÁ÷ÐÇ perform fanzhuan ÌúÑ©´¸·¨>50  busy 5
+
+¶ÏÔÆ¸« (duanyun-fu)
+¶ÏÔÆÕ¶ perform duan ¶ÏÔÆ¸«>70  guiyuan-tunafa>50  ÄÚÁ¦ÏûºÄ50 busy 2 
+ºäÌìÔÒ perform hongtianza ¶ÏÔÆ¸«>50 guiyuan-tunafa>50  ÄÚÁ¦ÏûºÄ160 busy 1
+ÌôÑÛÊ½ perform tiaoyan  guiyuan-tunafa>50  me busy 3   skill/50+2 ²»ÃüÖÐ me busy 1-2 
+ 
+ÌúÕÆÕÆ·¨ (tiezhang-zhangfa)  guiyuan-tunafa>10   maxneili>1000  
+ÕÆµ¶ perform zhangdao ÌúÕÆÕÆ·¨>120 ¹éÔªÍÂÄÉ·¨>120  str>30   force>140  busy 1 ÏûºÄ¾«100 ÄÚÁ¦strike+100
+ÌúÕÆ½µÁú perform tiezhangxianglong ÌúÕÆÕÆ·¨>50 ¹éÔªÍÂÄÉ·¨>60 busy 3 ÄÚÁ¦ÏûºÄ80*hitÊýÁ¿
+ÌìÀ×Æø perform tianlei ÌúÕÆÕÆ·¨>120 ¹éÔªÍÂÄÉ·¨>120  ÏûºÄÄÚÁ¦600 busy 1  
+
+
+
+
+*******ÉÙÁÖ
+
+»ìÔªÒ»Æø¹¦ (hunyuan-yiqi)  Î´»é  ÄÐÐÔ  force>10 ìø×ÚÐÄ·¨
+exert heal ÁÆÉË   ÏûºÄÄÚÁ¦50
+exert jingheal ÁÆ¾«  maxneili>300  ÏûºÄÄÚÁ¦10
+exert roar Ê¨×Óºí    ÄÚÁ¦ÏûºÄ150 
+exert lifeheal ÖúÈËÁÆÉË  ÏûºÄÄÚÁ¦100
+
+Ò×½î¾­Éñ¹¦ (yijinjing)  hunyuan-yiqi>100 Î´»éÄÐÐÔ ìø×ÚÐÄ·¨
+exert heal ÁÆÉË  ÏûºÄÄÚÁ¦50
+exert jinggang ½ð¸Õ²»»µÉñ¹¦  con>25  neili>3800  busy 1 ÏûºÄÄÚÁ¦500
+exert roar Ê¨×Óºí   ÄÚÁ¦ÏûºÄ150 
+exert powerup ÌáÉý¹¥»÷Á¦  ÏûºÄÄÚÁ¦100
+
+ÉÙÁÖÉí·¨ (shaolin-shenfa)
+Ò»Î­¶É½­ perform yiweidujiang  skill>90  ÏûºÄÄÚÁ¦100 ÃüÖÐtarget busy 4 Î´ÃüÖÐme busy 3
+
+Î¤ÍÔ¹÷ (weituo-gun)
+À×¶¯¾ÅÌì (!!!is bug)   str>25 Ò×½î¾­>150  neili>2000  ÄÚÁ¦ÏûºÄ300 ¾«50
+
+
+´ïÄª½£(damo-jian)  hunyuan-yiqi>20
+´ïÄ¦Èý¾ø½£ perform sanjue   »ìÔªÒ»Æø¹¦ >60 sword>135 ÏûºÄÄÚÁ¦150 busy 2
+
+×í¹÷  (zui-gun) hunyuan-yiqi>20  maxneili>100
+°ËÏÉ×í´ò perform zuida »ìÔªÒ»Æø¹¦ >60 ×í¹÷>90 str>25  club>60  ÄÚÁ¦ÏûºÄ150 busy 4 
+°ËÏÉ×í¾Æ perform zuijiu   zuibaxian>100 busy 1 ÏûºÄÄÚÁ¦200 ¾«10 Î´ÃüÖÐbusy 2
+
+
+ÎÞ³£ÕÈ (wuchang-zhang)  hunyuan-yiqi>20 maxneilli>100 
+ÌìÏÂÎÞ³£ perform wuchang  ÎÞ³£ÕÈ>200   neili>2000 ÏûºÄÄÚÁ¦300 busy 2
+
+ÆÕ¶ÉÕÈ (pudu-zhang)   hunyuan-yiqi>20 maxneilli>100 
+ÆÕ¶ÉÌìÏÂ perform pudu »ù±¾ÕÈ·¨>150 ÏûºÄÄÚÁ¦100 busy 2
+
+ÉÙÁÖÎÞÓ°½£ (wuying-jian)  hunyuan-yiqi>150   maxneil>300  
+Á¢µØ³É·ð perform lidichenfo ÉÙÁÖÎÞÓ°½£>100  maxneili>1500  force>150 str>28 ÃüÖÐme busy 1 target busy 2 ÏûºÄÄÚÁ¦200 ¾«20 ²»ÃüÖÐ me busy 2 target busy 1ÏûºÄÄÚÁ¦100 
+·ÖÉíÎÞÓ° perform wuying ÉÙÁÖÎÞÓ°½£>150 ÄÚÁ¦ÏûºÄ100 busy 3
+
+ÈÕÔÂ±Þ·¨ (riyue-bian)  maxneili>500  hunyuan-yiqi>50 
+Ç£ÖÆ¹¥»÷ perform chan hunyuan-yiqi>50   ÏûºÄÄÚÁ¦200 ¾«40 me busy 2  ÃüÖÐtarget busy skill/50+2 ²»ÃüÖÐ me busy 3
+²øÈÆ perform chanrao ÈÕÔÂ±Þ·¨>120  Ò×½î¾­Éñ¹¦>100 hunyuan-yiqi>100  ÏûºÄÄÚÁ¦200 ¾«40 busy 2 ÃüÖÐ target busy skill/50+3 ²»ÃüÖÐme busy 3
+½ð¸Õ·üÄ§È¦ perform fumoquan ÈÕÔÂ±Þ·¨>150  Ò×½î¾­Éñ¹¦>150 hunyuan-yiqi>100   me busy 2 ÏûºÄÄÚÁ¦300 
+
+ÐÞÂÞµ¶ (xiuluo-dao)  hunyuan-yiqi>10  maxneili>50 
+ÐÞÂÞÈý¾øµ¶ perform sanjue  skill>80 Ò×½î¾­>50  dex>30  ÏûºÄÄÚÁ¦200 busy 2
+
+´È±¯µ¶ (cibei-dao)  hunyuan-yiqi>10  maxneili>50 
+
+
+´ó½ð¸ÕÈ­ (jingang-quan)  hunyuan-yiqi>10  maxneili>50 
+´ó½ð¸ÕÉñÍ¨ perform jingang »ìÔªÒ»Æø¹¦ >60  cuff>150 busy 1-4
+·üÄ§ perform fumo  skill>180  Ò×½î¾­>180  ÏûºÄÄÚÁ¦600 ¾«200
+´ó½ð¸ÕÉñÍ¨ perfom jing cuff>150 hunyuan-yiqi>60 ÏûºÄÄÚÁ¦150 
+
+Äé»¨Ö¸ (nianhua-zhi)  hunyuan-yiqi>20 maxneili>100 
+Äé»¨·÷Ñ¨ perform fuxue   »ìÔªÒ»Æø¹¦ >100  str>25  finger >100  ÃüÖÐÏûºÄÄÚÁ¦100 target busy skill/50+2 ²»ÃüÖÐ me busy 4
+
+Ò»Ö¸ìø (yizhi-chan)   hunyuan-yiqi>20 maxneili>100 
+¾ªÄ§Ò»Ö¸ perform jingmo  Ò»Ö¸ìø>150  »ìÔªÒ»Æø¹¦>100  str>30  ÏûºÄÄÚÁ¦150 ÃüÖÐtarget busy skill/100+2 ²»ÃüÖÐ me busy 2
+µã perform dian  skill>150  hunyuan-yiqi>100   ÏûºÄÄÚÁ¦100 
+
+Ó¥×¦¹¦ (yingzhua-gong)    hunyuan-yiqi>20 maxneili>100 
+Ó¥×¦ÉÁ»÷ perform jingzhua Ó¥×¦¹¦>150   busy 2
+
+Áú×¦¹¦ (longzhua-gong)    hunyuan-yiqi>20 maxneili>100 
+Èý×¦ perform sanzhua  skill>150  busy 2
+
+ÈçÀ´Ç§Ò¶ÊÖ (qianye-shou)    hunyuan-yiqi>20 maxneili>100 
+Ç§ÊÖÈçÀ´ perform qianshou   skill>150 Ò×½î¾­>150  ÏûºÄÄÚÁ¦500 busy 2 
+
+°ãÈôÕÆ (banruo-zhang)  hunyuan-yiqi>20 maxneili>100 
+Ò»ÅÄ¶þÉ¢ perform san  skill>180 hunyuan-yiqi>180    ÄÚÁ¦ÏûºÄ8/9  busy 2-6
+
+É¢»¨ÕÆ (sanhua-zhang) hunyuan-yiqil>100 Ò×½î¾­>100 str>30 
+ËÄ¼¾É¢»¨ perform sanhua  É¢»¨ÕÆ>100  Ò×½î¾­>100 str>30 neili>800 ²»ÃüÖÐbusy 3
+
+ÂÞººÈ­ (luohan-quan)  hunyuan-yiqi>20 maxneili>100 
+ÂÞºº perform luohan ÂÞººÈ­>150  busy 2
+
+¹«ÖÚskills
+Ì«Ðþ¹¦ taixuan-gong
+exert taixuan  skill>100   ÏûºÄÄÚÁ¦100 Õ½¶·ÖÐbusy 3
+
+Á¬³Ç½£·¨ liancheng-jian
+pfm ci ´Ì¼çÊ½ skill>50   force>50  ÃüÖÐtarget busy skill/50+1 ÏûºÄÄÚÁ¦100 me busy 2 ²»ÃüÖÐ me busy 4 ÏûºÄÄÚÁ¦100
+pfm erguang ¶ú¹âÊ½ skill>70  force>70 neili>400 ÃüÖÐ target busy skill/50+1 ÏûºÄÄÚÁ¦100 me busy 2 ²»ÃüÖÐme busy 4 ÏûºÄÄÚÁ¦100
+pfm qu È¥½£Ê½ skill>30 ÃüÖÐme busy 1 target busy 2-3 ²»ÃüÖÐme busy 2
+
+ºú¼Òµ¶·¨ hujia-daofa
+pfm hebi ºÏ±Ú skill>100 neili>500
+pfm lian Á¬×Ö¾ö  skill>50 ÏûºÄÄÚÁ¦65*hitÊýÁ¿ busy 3
+pfm huanying »ÃÓ°  skill>100  blade>100  neili>1000  ÏûºÄÄÚÁ¦skill*3/2 ÃüÖÐme busy 2 target busy 4 ²»ÃüÖÐme bsuy 1-3
+
+½ðÉß½£·¨ jinshe-jian
+pfm suo Ëø  ×°±¸½ðÉß½£ dex str>20  skill>150  ÏûºÄÄÚÁ¦50 me busy 2  ²»ÃüÖÐme busy 2 ÏûºÄÄÚÁ¦30 
+½ðÉß×¶  jinshe-zhui
+pfm tuwu ÍÂÎí  wield ½ðÉß×¶  skill>100  ÏûºÄÄÚÁ¦200  ÃüÖÐtarget skill/40+2 me busy 3  ²»ÃüÖÐme busy 3
+½ðÉßÓÎÉíÕÆ jinshe-zhang
+pfm fugu ¸½¹Ç  skill>100  busy 4
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m

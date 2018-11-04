@@ -1,0 +1,156 @@
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+[44;33m¡¼º£ÑóII×ªÉú»úÖÆ¡½                                        [2;37;0m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m
+Ò»×ªËµÃ÷:
+Ìõ¼þ£ºÍæ¼Ò¾­Ñé´ïµ½8M£¬¿ÉÏòÎÞÃû¾ÓÊ¿Ìá³öÉêÇë¡£
+     Íê³ÉÃÔ¹¬Ç°3²ã
+     (ask noname about Ò»×ª)
+     (ask noname about zhuanshen)
+¹ý³Ì£ºÍæ¼ÒÏÈÌìÊôÐÔ¿ÉÒÔ¼Ó10 (×î¸ß¼Óµ½50)
+     µ«Íæ¼ÒËùÑ§ËùÓÐÎä¹¦ÇåÁã£¬»Øµ½18Ëê¡£
+     ²¢»ñ300K exp 100K pot
+¿ÉÒÔÑ¡Ôñ2ÃÅÄÚ¹¦À´Ñ§Ï°£¬Ò²¾ÍÊÇ¿ÉÒÔÑ§¶þ¸öÃÅÅÉµÄÎä¹¦
+·½·¨£º¿ÉÏòÎÞÃû¾ÓÊ¿Ìá³öÉêÇë¡£
+(ask noname about Ë«ÄÚ¹¦)
+(ask noname about force)
+È»ºóÓÃyaoforce ÄãËùÒªÎä¹¦µÄÃÅÅÉÀ´ÒªË«ÄÚ¹¦
+×¢:
+×¢:×ªÉí¶þÄÚ¹¦ÏµÍ³£¬ÏµÍ³Ö»¸ø1´ÎÇëÍæ¼Ò×¢Òâ!!!
+
+¶þ×ªËµÃ÷:
+Ìõ¼þ£ºÍæ¼ÒÒ»×ªºó¾­Ñé´ïµ½18M£¬¿ÉÏòÎÞÃû¾ÓÊ¿Ìá³öÉêÇë¡£
+     Íê³ÉÃÔ¹¬Ç°8²ã
+     (ask noname about ¶þ×ª)
+     (ask noname about zhuanshenup)
+¹ý³Ì: Íæ¼ÒËùÓÐÏÈÌìÊôÐÔ¼Ó10 ×î¸ß60¡£
+     µ«Íæ¼ÒËùÑ§ËùÓÐÎä¹¦ÇåÁã£¬»Øµ½18Ëê¡£
+     µ«ÎÞexp ÎÞpot¡£
+     ¿ÉÒÔÑ¡Ôñ2ÖÖforceÀ´Ñ§Ï°
+     ÔÙ´Î»ñµÃ½â¿ª¾ÅÒõ£¬ÉñÕÕ¾­,Ë«ÊÖ»¥²«µÄÃØÃÜµÄ»ú»á
+     ¶þ×ªºóµÄÍæ¼Ò¿ÉÒÔÓÐÈ¨ÓÐÒ»ÃûÊÌÅ®(ÊÌÍ¯)
+     (ÏòÎÞÃû¾ÓÊ¿Òª)
+     Íæ¼Ò¿ÉÒÔÑ¡Ôñ2ÃÅÄÚ¹¦À´Ñ§Ï°£¬Ò²¾ÍÊÇ¿ÉÒÔÑ§¶þ¸öÃÅÅÉµÄÎä¹¦
+Íæ¼Ò¿ÉÑ¡ÔñÊÌÅ®(ÊÌÍ¯)µÄÎä¹¦ÃÅÅÉ:
+     ¿ÉÒÔÊÇÄãÐÄÖÐµÄËû»òËý¡£
+     Ëû»òËý½«±¶°é×ÅÄãµÄ³É³¤¶ø³É³¤¡£
+     ¿ÉÒÔºÍÄã¹²½âÌìÏÂÃØÃÜ£¬¹²´³½­ºþ,²¢°ïÖúÄãµÄ³É³¤¡£
+
+ÊÌÅ®(ÊÌÍ¯)Ê¹ÓÃ·½·¨
+¿ÉÓÃÃüÁî
+set_name <Ãû×Ö>      ÎªÄãµÄÊÌÅ®(ÊÌÍ¯)»»Ãû×Ö
+set_long <ÃèÊö>      ÐÞ¸ÄÊÌÅ®(ÊÌÍ¯)µÄÃèÊö
+set_title <³ÆºÅ>     ÐÞ¸ÄÊÌÅ®(ÊÌÍ¯)µÄ³ÆºÅ
+ticks                ²é¿´Õ½¶·Ö¸ÁîÕóÁÐ
+      [1-5 <Ö¸Áî>]   ÉèÖÃÕ½¶·Ö¸Áî
+      [-d 1-5|all]   É¾³ýÕ½¶·Ö¸Áî
+×¢£ºÒ»µ©Éè¶¨ÁËÖ¸ÁîÕóÁÐ£¬Ô¤ÉèµÄÕ½¶·Ä£Ê½½«²»Æð×÷ÓÃ
+att <Ä³ÈË>           ¹¥»÷Ä³ÈË
+sha <Ä³ÈË>           É±ËÀÄ³ÈË
+ting                 Í£Ö¹Õ½¶·
+heji <Ä³ÈË>          ºÏ»÷Ä³ÈË
+order [un]accept object Éè¶¨[²»]½ÓÊÜÎïÆ·
+      [un]accept fight  Éè¶¨[²»]½ÓÊÜ±ÈÎä
+      <Ö¸Áî>            ÏÂ´ïÕ½¶·Ö¸Áî
+¿ÉÊ¹ÓÃÖ¸ÁîÈçÏÂ£º
+"wield", "unwield", "wear", "remove", "enable", "jifa", 
+"prepare", "bei", "exert","yun", "perform", "yong", 
+"enforce", "jiali"
+control <ÃüÁî>       ÒÔÌìÐÄÍ¨Ò£¿ØÊÌÅ®(ÊÌÍ¯)Ö´ÐÐÄ³Ö¸Áî
+¿ÉÒ£¿ØÖ¸ÁîÈçÏÂ£º
+"give", "wield", "unwield", "wear", "remove", "enable", 
+"jifa", "prepare", "bei", "exert","yun", "perform", 
+"yong", "enforce", "jiali", "ask", "get", "drop", 
+"l", "look", "go","say"
+set save_me <°Ù·Ö±È> ÉèÖÃÆøÑªÐ¡ÓÚ¶àÉÙÆô¶¯×Ô¶¯±£»¤
+hulian <¼¼ÄÜ>        »¥Á·Ä³Îä¹¦
+taolun <¼¼ÄÜ>        ÌÖÂÛÄ³Îä¹¦
+lianxi <¼¼ÄÜ>        Ö¸µ¼ÊÌÅ®(ÊÌÍ¯)Îä¹¦
+mache <µØµã>         ½ÐÂí³µÈ¥Ä³µØ
+shape <ID>          ¿´ÊÌÅ®(ÊÌÍ¯)×´Ì¬\n"NOR);
+
+¿É×öµÄ¶Ô»°ask <ID> about sth
+"×ß" :   ¸úÄã×ß
+"Ç×ÈÈ":  ×Ô¼ºÊÔ
+"µÈ´ý":  ÔÚÔ­µØµÈ´ý
+"»Ø¼Ò":  ÔÝÊ±»ØÄï¼Ò
+"×ö·¹":  ÎªÄã×öµã¾Æ²Ë
+"ÆÕÍ¨¹¥»÷": Õ½¶·ÖÐÊ¹ÓÃÒ»°ãµÄ¾ø¼¼£¬Ò²¾ÍÊÇÄÚ¶¨µÄ·½Ê½
+"Ò»°ã¹¥»÷": Õ½¶·ÖÐ²»Ê¹ÓÃ¾ø¼¼£¬¾ÍÓÃÆÕÍ¨ÕÐÊ½
+"È«Á¦¹¥»÷": Õ½¶·ÖÐÊ¹ÓÃ¾¡Á¿Ç¿µÄ¾ø¼¼
+"Ç£ÖÆ¹¥»÷": Õ½¶·ÖÐÊ¹ÓÃÊ¹¶Ô·½ÊÖÃ¦½ÅÂÒµÄ¾ø¼¼
+×¢£ºÊÌÅ®(ÊÌÍ¯)µÄ»ù±¾Æø£¬¾«£¬ÄÚÁ¦£¬¾­Ñé£¬ÓÉÍæ¼Ò¾ö¶¨£¬Íæ¼ÒÇ¿
+ÊÌÅ®(ÊÌÍ¯)Ò²Ç¿£¬ÊÌÅ®(ÊÌÍ¯)µÄ»ù±¾Îä¹¦£¬Ò²ÓÉÍæ¼ÒµÄ¾­ÑéÇ¿Èõ
+¾ö¶¨£¬ÌØÊâÎä¹¦ÓÉÍæ¼ÒÍ¨¹ýlianxi <¼¼ÄÜ>Ö¸µ¼ÊÌÅ®(ÊÌÍ¯)Îä¹¦
+À´³É³¤¡£
+×¢:×ªÉí¶þÄÚ¹¦ÏµÍ³£¬ÏµÍ³Ö»¸ø1´ÎÇëÍæ¼Ò×¢Òâ!!!
+
+Èý×ªËµÃ÷
+Ìõ¼þ£ºÍæ¼Ò¶þ×ªºó¾­Ñé´ïµ½38M£¬¿ÉÏòÎÞÃû¾ÓÊ¿Ìá³öÉêÇë¡£
+      Íê³ÉÃÔ¹¬Ç°12²ã
+     (ask noname about Èý×ª)
+     (ask noname about zhuanshenup)
+¹ý³Ì£ºÍæ¼ÒÏÈÌìÊôÐÔ¿ÉÒÔ¼Ó10 (×î¸ß¼Óµ½60)
+      Íæ¼Ò»ñµÃÉñÕÕ¾­£¬¾ÅÒõÉÏ£¬¾ÅÒõÏÂµÄÌØÊâÎä¹¦¡£
+      Íæ¼Ò±£Áô¶þ×ª£¬Èý×ª»ñµÃµÄÊôÐÔºÍË«ÄÚ¹¦ºÍÊÌÅ®
+3×ªºó,Ö»±£ÁôÊôÐÔ£¬ºÍµÀ¾ß¡£µ«¿ÉÒÔ½øÈëÃÔ¹¬16²ãÒÔºóµÄ6¸öÊÀ½ç£¬
+²¢¿ÉÒÔÑ§Ï°ÆäÖÐµÄÐÂ¼¼ÄÜ£¡£¬ÐÂÊÀ½çÓÐÉÏ°ÙÖÖµÐÈË£¬ÉÏ°ÙÖÖµÀ¾ß£¬µÈ×Å
+ÄãÀ´·¢ÏÖ!!                        
+
+ËÄ×ªËµÃ÷
+¹ý³Ì£ºÍæ¼ÒÏÈÌìÊôÐÔ¿ÉÒÔ¼Ó10 (×î¸ß¼Óµ½70)
+      Íæ¼Ò»ñµÃ×óÓÒ»¥²©µÄÊôÐÔ
+      Íæ¼Ò»ñµÃÌìÉú¼¼ÄÜËæ»úÒ»ÖÖ
+      Íæ¼ÒËæ»ú»ñµÃÌìÉúÎä¹¦Ò»ÖÖ
+
+Îå×ªËµÃ÷
+¹ý³Ì£ºÍæ¼ÒÏÈÌìÊôÐÔ¿ÉÒÔ¼Ó10 (×î¸ß¼Óµ½80)
+      Íæ¼Ò»ñµÃÌìÉú¼¼ÄÜËæ»úÈýÖÖ
+      Íæ¼ÒËæ»ú»ñµÃÌìÉúÎä¹¦¶þÖÖ
+
+4×ª¾­Ñé´ïµ½Ò»¶¨Ë®Æ½ºó
+¿ÉÒÔÏòÎÞÃû¾ÓÊ¿ÒªÇó»ñµÃ×ªÉí¼¼ÄÜºÍ×ªÉíÎä¹¦
+×ªºóºó¾­Ñé´ïµ½Æ¿¾±Ê±
+¿ÉÒÔÓÃÁ¬Ðø×ö20¸öÃÅÅÉÈÎÎñ ÏòÎÞÃû¾ÓÊ¿ÒªÇó»ñµÃÎä¹¦ÉÏÏÞ
+
+Éú³¤ÏµÍ³£¬4×ªºó£¬¾­Ñé> 8Mºó£¬±ØÐëÁ¬Ðø×ö20¸öÃÅÅÉÈÎÎñ£¬²ÅÄÜ»»µÃ500k¾­Ñé³É³¤È¨¡£
+
+ÌìÉú¼¼ÄÜËµÃ÷
+1.¸´ÔªÊõ¡¾ÔªÆøÎÞÇî¡¿
+¿ÉÒÔ»Ö¸´×Ô¼ºµÄÈ«²¿ÄÚÁ¦
+
+2.Ó°¶ÝÊõ¡¾¶ÝÓ°ÇÜ×Ù¡¿
+¿ÉÒÔÔÚÓëÍæ¼ÒµÄÕ½¶·ÖÐ100%ÌÓ×ß
+
+3.»Ö¸´Êõ¡¾ÉñÄ§½ðÉí¡¿
+¿ÉÒÔ»Ö¸´×Ô¼ºµÄÈ«²¿¾«£¬ÆøÁ¦
+
+4.¶¨ÉíÊõ¡¾¸¿¹Ç²øÉí¡¿
+100%Ê¹µÐÈËÃ¦ÂÒ Ò»¶ÎÊ±¼ä
+
+5.ÆÆÔªÊõ¡¾ÆÆÔª´ó·¨¡¿
+Ê¹µÐÈËµÄÄÚÁ¦±äÎª0
+
+6.ÉñÄîÊõ¡¾¹úÊ¿ÎÞË«¡¿
+°Ñ×Ô¼ºµÄÖÇ»ÛÌáÉý3±¶.
+
+ÌìÉúÎä¹¦ËµÃ÷
+1.¿ÕÊÖÏµ: ¡¾ÒõÑôÊ®¶þÖØÌì¡¿
+1.ÎäÆ÷Ïµ: ¡¾²»°ÜÉñ¹¦¡¿
+¾ø¼¼:
+1.¡¾Õ¶ÏÉ¾ö¡¿
+2.¡¾ÆÆÏÉ¾ö¡¿
+3.¡¾ÂÒÏÉ¾ö¡¿
+4.¡¾ÃîÏÉ¾ö¡¿
+5.¡¾¶¯ÏÉ¾ö¡¿
+6.¡¾ÒøÏÉ¾ö¡¿
+
+ÊôÐÔÏÞÖÆ: 3×ª×î´óÊôÐÔ 60µã
+          4×ª×î´óÊôÐÔ 70µã
+          5×ª×î´óÊôÐÔ 80µã
+
+×Ô¶¯×ªÉú: Íæ¼ÒÎ´×ªÉú ¾­Ñé´ïµ½50M ×Ô¶¯¶þ×ª.
+          Íæ¼ÒÒÑ¶þ×ª ¾­Ñé´ïµ½60M ×Ô¶¯Èý×ª.
+          Íæ¼ÒÒÑÈý×ª ¾­Ñé´ïµ½100M ×Ô¶¯ËÄ×ª
+          Íæ¼ÒÒÑËÄ×ª ¾­Ñé´ïµ½200M ×Ô¶¯Îå×ª
+
+

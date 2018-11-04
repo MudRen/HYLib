@@ -1,0 +1,125 @@
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+                        ¡¾ÈÎÎñËµÃ÷¡¿
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+[44;33m¡¼¹«ÖÚÈÎÎñ¡½                                               [2;37;0m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m
+ÇëÓÃhelp <Ö÷Ìâ>²é¿´ÏêÏ¸Çé¿ö
+[1;32m   ³õ¼¶Æª
+[1;32m¡¼daniao ¡½ ´òÄñÈÎÎñ  £¨0--1000£©    ¡¼xipanzi¡½ Ï´ÅÌ×ÓÈÎÎñ£¨0-5000£©
+[1;32m¡¼tangbu ¡½ ÌÌ²¼ÈÎÎñ  £¨0--10000£©   ¡¼changxi¡½ ³ªÏ·ÈÎÎñ  £¨80000ÒÔÏÂ£© 
+[1;32m¡¼diaoyu ¡½ µöÓãÈÎÎñ  £¨0--10000£©   ¡¼xisha  ¡½ Ï´É³ÈÎÎñ  £¨0-15000£©        
+[1;32m¡¼songxin¡½ ËÍÐÅÈÎÎñ  £¨500-100000£© ¡¼nwuguan¡½ Îä¹ÝÈÎÎñ£¨50000ÒÔÏÂ£©
+[1;32m¡¼caishi ¡½ ²ÉÊ¯ÈÎÎñ  £¨0--50000 £©  ¡¼duisi  ¡½ ¶ÔÊ«ÈÎÎñ  £¨ÎÞÏÞÖÆ £©
+[1;32m¡¼kanshu ¡½ ·¥Ä¾ÈÎÎñ  £¨0--500000£©  ¡¼datie  ¡½ ´òÌúÈÎÎñ  £¨0-1000 £©
+[1;37m   ÖÐ¼¶Æª
+[1;35m¡¼moyao   ¡½ Ä¥Ò©ÈÎÎñ  £¨100000-180000£©
+[1;35m¡¼wei     ¡½ Î¤Ð¡±¦ÈÎÎñ £¨10000ÒÔÉÏ 1000000ÒÔÏÂ£©
+[1;35m¡¼shan    ¡½ µ¥ÕýÈÎÎñ   £¨10000ÒÔÉÏ 2000000ÒÔÏÂ£©
+[1;35m¡¼helian  ¡½ ºÕÁ¬ÌúÊ÷ÈÎÎñ£¨10000ÒÔÉÏ 2000000ÒÔÏÂ£©
+[1;35m¡¼xunchen ¡½ Ñ²³ÇÈÎÎñ    £¨30000ÒÔÉÏ 300000ÒÔÏÂ£©  
+[1;35m¡¼weiguo  ¡½ ±£¼ÒÎÀ¹úÈÎÎñ£¨100000ÒÔÉÏ1.5MÒÔÏÂ£©
+[1;35m¡¼biao    ¡½ ½ÙïÚºÍ±£ïÚ (ÎÞÉÏÏÂÏÞ£©
+[1;35m¡¼xunbao  ¡½ Ñ°±¦ÈÎÎñ     (exp>100000£©
+[1;35m¡¼qiangdao¡½ É±Ç¿µÁÈÎÎñ   (ÎÞÏÞÖÆ£©
+[1;35m¡¼songhuo ¡½ ËÍ»õÈÎÎñ     (exp>30000£©
+[1;35m¡¼jianghu ¡½ ½­ºþÈÎÎñ     (ÎÞÏÞÖÆ£©
+[1;35m¡¼tianjob ¡½ Ìï²®¹âÈÎÎñ    (ÎÞÏÞÖÆ£©
+[1;35m¡¼lyjob   ¡½ ÁéÒþËÂ½²¾­ÈÎÎñ (·ðÃÅ¸ßÉ®£©
+[1;35m¡¼dalie   ¡½ ´òÁÔÌ½ÏÕÈÎÎñ  (exp<800000£©
+[1;31m   ¸ß¼¶Æª
+[1;36m¡¼zhaowuqi¡½ ÔìÎäÆ÷ÈÎÎñ£¨exp>100k£©   ¡¼zhaoeat ¡½ ÎñÅ©ÈÎÎñ£¨exp>100k£©
+[1;36m¡¼penlen  ¡½ ×ö²ËÈÎÎñ  £¨exp>100k)   ¡¼liandan ¡½ Á·µ¤ÈÎÎñ£¨ÎÞÉÏÏÂÏÞ£©
+[1;36m¡¼feizei  ¡½ É±·ÉÔôÈÎÎñ£¨ÎÞÉÏÏÂÏÞ£©    ¡¼guanfu  ¡½ ¹Ù¸®ÈÎÎñ£¨50000ÒÔÉÏ£©
+[1;36m¡¼xingyi  ¡½ ÐÐÒ½ÈÎÎñ  £¨ÎÞÉÏÏÂÏÞ£©    ¡¼guojob  ¡½ ÏåÑôÈÎÎñ£¨100kÒÔÉÏ£©
+[1;36m¡¼hubiao  ¡½ ÁÖ¼Ò»¤ïÚÈÎÎñ (50000ÒÔÉÏ£© ¡¼huangjob¡½ »ÆÈØÈÎÎñ£¨100kÒÔÉÏ£©
+[1;36m¡¼wangjob ¡½ Íõ¼áÈÎÎñ£¨50kÒÔÉÏ£©       ¡¼nonamejob¡½ ÎÞÃû¾ÓÊ¿ÈÎÎñ£¨ÎÞÏÞÖÆ£© [0;36m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+[44;33m¡¼ÃÅÅÉÈÎÎñ¡½                                               [2;37;0m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m
+[1;35m¡¼¹«ÖÚÃÅÅÉÈÎÎñ¡½
+[1;32m¡¼geren   ¡½ ¸öÈËÃÅÅÉÈÎÎñ£¨10kÒÔÉÏ£©      ¡¼teamjob ¡½ ¼¯ÌåÃÅÅÉÈÎÎñ£¨2MÒÔÉÏ£©
+[1;32m¡¼haojie  ¡½ ½­ºþºÆ½ÙÈÎÎñ£¨1mÒÔÉÏ£©
+[1;35m¡¼ÌØÊâÃÅÅÉÈÎÎñ¡½
+[1;33m ´óÀí
+[1;37m¡¼dalijob    ¡½ ´óÀíËÍ¾ü»úÈÎÎñ(exp>100k£©
+[1;37m¡¼dalijob2   ¡½ ´óÀíÒå¹¤ÈÎÎñ (ÎÞÏÞÖÆ£©
+[1;33m È«Õæ
+[1;37m¡¼quanzhenjob¡½ È«Õæ¿¹Ôª±øÈÎÎñ£¨exp>100k£©
+[1;37m¡¼qzcaiyao   ¡½ È«ÕæÍÚÒ©ÈÎÎñ£¨ÎÞÏÞÖÆ£©
+[1;33m Îäµ±
+[1;37m¡¼wudangjob  ¡½ Îäµ±ÊØ»¤ÈÎÎñ£¨exp>100k£©  
+[1;37m¡¼wdzhixiang ¡½ Îäµ±ÖÆÏãÈÎÎñ£¨ÎÞÏÞÖÆ£©  
+[1;33m Ñ©É½
+[1;37m¡¼mizongjob  ¡½ ÃÜ×Ú³¬¶ÈÈÎÎñ£¨exp>100k£©  
+[1;37m¡¼xuedaojob  ¡½ Ñªµ¶ÇÀÃÀÅ®ÈÎÎñ£¨exp>100k£©
+[1;37m¡¼xueshanjob ¡½ Ñ©É½½²¾­ÈÎÎñ£¨ÎÞÏÞÖÆ£©
+[1;33m ¹ÅÄ¹
+[1;37m¡¼gumujob    ¡½ ¹ÅÄ¹´ÌÉ±µÐÔªË§ÈÎÎñ(exp>100k)
+[1;37m¡¼longnvjob  ¡½ ¹ÅÄ¹×½Óñ·äÖÆ×÷Óñ·ä½¬ÈÎÎñ(ÎÞÏÞÖÆ)
+[1;33m ÉÙÁÖ
+[1;37m¡¼shaolinjob ¡½ ÉÙÁÖ¾ÈÔ®ÈÎÎñ£¨exp>100k£©
+[1;37m¡¼slwsdjob   ¡½ ÉÙÁÖÎäÉ®ÌÃÈÎÎñ£¨ÎÞÏÞÖÆ£©
+[1;33m ÁèÏö
+[1;37m¡¼lingxiaojob¡½ ÁèÏö³ÇÉ¨Ñ©ÈÎÎñ(exp>10000)
+[1;37m¡¼lxhuweijob ¡½ ÁèÏö³Ç»¤³ÇÈÎÎñ(exp>100000)
+[1;33m Îå¶¾
+[1;37m¡¼wdjiaojob  ¡½ Îå¶¾½Ì×½¶¾ÎïÈÎÎñ(exp>10000)
+[1;37m¡¼wdyingjijob¡½ Îå¶¾½ÌÓ­»÷ÈÎÎñ£¨exp>100000£©
+[1;33m À¥ÂØ
+[1;37m¡¼kunlunjob  ¡½ À¥ÂØÅÉ×¥ÎäÁÖ¸ßÊÖÈÎÎñ(exp>10k)
+[1;37m¡¼klsmjob    ¡½ À¥ÂØÊ¦ÃÅÈÎÎñ(ÎÞÏÞÖÆ)
+[1;33m »ªÉ½
+[1;37m¡¼huashanjob ¡½ »ªÉ½Ñ²É½ÈÎÎñ£¨exp>100k£©
+[1;37m¡¼zhuamonkey ¡½ »ªÉ½×¥Ð¡ºïÈÎÎñ£¨ÎÞÏÞÖÆ£©
+[1;33m Ø¤°ï
+[1;37m¡¼gaibangjob ¡½ Ø¤°ï¿¹µÐÈÎÎñ£¨exp>100k£©
+[1;37m¡¼gbbegjob   ¡½ Ø¤°ïÐÐÆòÈÎÎñ£¨ÎÞÏÞÖÆ£©
+[1;33m ¶ëáÒ
+[1;37m¡¼emeijob    ¡½ ¶ëáÒ³ýÄ§ÈÎÎñ£¨exp>100k£©
+[1;37m¡¼xiuxingjob ¡½ ¶ëáÒÐÞÐÐÈÎÎñ£¨ÎÞÏÞÖÆ£©
+[1;33m ÌÒ»¨
+[1;37m¡¼taohuajob  ¡½ ÌÒ»¨ÇÀ¹Ù´¬ÈÎÎñ(exp>100k)
+[1;37m¡¼thlocation ¡½ ÌÒ»¨Õ¼ÆËÈÎÎñ(ÎÞÏÞÖÆ)
+[1;33m ÐÇËÞ
+[1;37m¡¼xingxiujob ¡½ ÐÇËÞÅÉÇÀ¸»ÉÌÈÎÎñ(exp>100k)
+[1;37m¡¼xxpaimajob ¡½ ÐÇËÞÅÄÂíÆ¨ÈÎÎñ(ÎÞÏÞÖÆ)
+[1;33m åÐÒ£
+[1;37m¡¼xiaoyaojob ¡½ åÐÒ£Ñ°Æß±¦Ö¸»·ÈÎÎñ(exp>100k£©
+[1;37m¡¼xysingjob  ¡½ åÐÒ£Á·ÇÙÈÎÎñ(ÎÞÏÞÖÆ£©
+[1;33m ÔÆÁú
+[1;37m¡¼yunlongjob ¡½ ÔÆÁú¾È·´ÇåÒåÊ¿ÈÎÎñ.(exp>100k)
+[1;37m¡¼yljob2     ¡½ ÔÆÁúÐû´«·´ÇåÈÎÎñ.(ÎÞÏÞÖÆ)
+[1;33m ÈÕÔÂ
+[1;37m¡¼riyuejob   ¡½ ÈÕÔÂ»¤·¨ÈÎÎñ(ÎÞÏÞÖÆ)
+[1;37m¡¼ryjob2     ¡½ ÈÕÔÂÓÎËµÈÎÎñ.(ÎÞÏÞÖÆ)
+[1;33m Ã÷½Ì
+[1;37m¡¼mjjob      ¡½ Ã÷½Ì±£ÎÀ¹âÃ÷¶¥ÈÎÎñ£¨exp>100k£©
+[1;37m¡¼mjjob2     ¡½ Ã÷½ÌÁ·±ø·´ÔªÈÎÎñ.(ÎÞÏÞÖÆ)
+[1;33m °×ÍÕ
+[1;37m¡¼baituojob  ¡½ °×ÍÕÌÖÕ®ÈÎÎñ£¨exp>100k£©
+[1;37m¡¼btjob2     ¡½ °×ÍÕÄÁÉßÈÎÎñ£¨ÎÞÏÞÖÆ£©
+[1;33m ÌúÕÆ
+[1;37m¡¼tiezhangjob¡½ ÌúÕÆËÍÈ°½µÊéÈÎÎñ(exp>100k£©
+[1;37m¡¼tzjob2     ¡½ ÌúÕÆÊØÉ½ÈÎÎñ(ÎÞÏÞÖÆ£©
+[1;33m ÁéðÕ
+[1;37m¡¼lingjiujob ¡½ ÁéðÕ¾ÈÔ®ÈÎÎñ£¨exp>100k£©
+[1;37m¡¼ljjob2     ¡½ ÁéðÕÊ¦ÃÅÈÎÎñ£¨ÎÞÏÞÖÆ£©
+[1;33m ÉñÁú
+[1;37m¡¼shenlongjob¡½ ÉñÁúÑ°42ÕÂ¾­ÈÎÎñ(exp>100k)
+[1;37m¡¼sldjob2    ¡½ ÉñÁúµöÓãÈÎÎñ£¨ÎÞÏÞÖÆ£©
+[1;33m Ä½ÈÝ
+[1;37m¡¼mrjob      ¡½ Ä½ÈÝÑ°´óÑà¹úÓñçôÈÎÎñ(exp>100k)[0;36;0m
+[1;37m¡¼mrjob2     ¡½ Ä½ÈÝ½½»¨ÈÎÎñ£¨ÎÞÏÞÖÆ£©
+[1;33m ÌÆÃÅ
+[1;37m¡¼tmhuchenjob¡½ ÌÆÃÅ»¤³ÇÈÎÎñ(exp>100k)[0;36;0m
+[1;37m¡¼tangmenjob ¡½ ÌÆÃÅ×ö°µÆ÷ÈÎÎñ£¨ÎÞÏÞÖÆ£©
+[1;33m ·ÉÌìÓù½£Á÷
+[1;37m¡¼ftyaojob   ¡½ ·ÉÌìÓù½£Á÷Ò©µêÈÎÎñ(ÎÞÏÞÖÆ£©
+[1;37m¡¼ftshouwei  ¡½ ·ÉÌìÓù½£Á÷ÊØÎÀÈÎÎñ(exp>500k)[0;36;0m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+[44;33m¡¼Íæ¼ÒÃÅÅÉÈÎÎñ¡½                                            [2;37;0m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m
+[1;33m¡¼geren     ¡½ ¸öÈËÃÅÅÉÈÎÎñ£¨10kÒÔÉÏ£©      ¡¼teamjob ¡½ ¼¯ÌåÃÅÅÉÈÎÎñ£¨2MÒÔÉÏ£©
+[1;33m¡¼playerjob ¡½ Íæ¼ÒÃÅÅÉÌØÊâÈÎÎñ[0;36;0m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m

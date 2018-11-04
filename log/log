@@ -1,0 +1,210 @@
+死亡人物0某人
+死亡人物9897某人
+死亡人物97某人
+死亡人物00某人
+kungfu/condition/psgc.c line 745: Type of returned value doesn't match function return type ( int vs void )
+死亡人物00某人
+死亡人物00某人
+死亡人物00某人
+死亡人物00某人
+死亡人物00某人
+死亡人物98某人
+死亡人物798某人
+clone/topten/topten.c line 267: Undefined variable 'pks_topten'
+死亡人物764某人
+clone/family/menshen.c line 33: Undefined variable 'CHAT_ROOM'
+clone/family/menshen1.c line 33: Undefined variable 'CHAT_ROOM'
+quest/menpai/teamjob.c line 465: Reserved type name unexpected.
+quest/menpai/teamjob.c line 465: parse error
+quest/menpai/teamjob.c line 471: Illegal LHS
+quest/menpai/teamjob.c line 472: Reserved type name unexpected.
+quest/menpai/teamjob.c line 472: parse error
+quest/menpai/teamjob.c line 479: Undefined variable 'arg'
+quest/menpai/teamjob.c line 474: Undefined variable 'who'
+quest/menpai/teamjob.c line 474: Undefined variable 'me'
+quest/menpai/teamjob.c line 476: Undefined variable 'arg'
+quest/menpai/teamjob.c line 474: Undefined variable 'me'
+quest/menpai/teamjob.c line 476: Undefined variable 'arg'
+quest/menpai/teamjob.c line 476: Undefined variable 'arg'
+quest/menpai/teamjob.c line 789: Reserved type name unexpected.
+quest/menpai/teamjob.c line 789: parse error
+quest/menpai/teamjob.c line 792: Illegal LHS
+quest/menpai/teamjob.c line 792: Undefined variable 'count'
+quest/menpai/teamjob.c line 792: Undefined variable 'minexp'
+quest/menpai/teamjob.c line 792: Undefined variable 'maxexp'
+quest/menpai/teamjob.c line 664: parse error
+quest/menpai/teamjob.c line 622: Undefined variable 'questl'
+quest/menpai/teamjob.c line 1055: Illegal character constant
+quest/menpai/teamjob.c line 1055: parse error
+quest/menpai/teamjob.c line 1055: Illegal character constant
+quest/menpai/teamjob.c line 1055: parse error
+quest/menpai/teamjob.c line 1055: Type of returned value doesn't match function return type ( string vs void )
+quest/menpai/teamjob.c line 544: Undefined function zuji
+quest/menpai/teamjob.c line 1056: Redeclaration of function zuji.
+quest/menpai/teamjob.c line 545: Wrong number of arguments to zuji
+    Expected: 1  Got: 0
+quest/menpai/teamjob.c line 545: Wrong number of arguments to zuji
+    Expected: 1  Got: 0
+quest/menpai/teamjob.c line 545: Wrong number of arguments to zuji
+    Expected: 1  Got: 0
+quest/menpai/teamjob.c line 545: Wrong number of arguments to zuji
+    Expected: 1  Got: 0
+quest/menpai/teamjob.c line 545: Wrong number of arguments to zuji
+    Expected: 1  Got: 0
+quest/menpai/teamjob.c line 545: Wrong number of arguments to zuji
+    Expected: 1  Got: 0
+quest/menpai/teamjob.c line 545: Wrong number of arguments to zuji
+    Expected: 1  Got: 0
+quest/menpai/teamjob.c line 555: Bad type for argument 1 of zuji ( string vs string * )
+quest/menpai/teamjob.c line 1071: Undefined variable 'output'
+quest/menpai/teamjob.c line 1071: Undefined variable 'local'
+quest/menpai/teamjob.c line 1398: Undefined variable 'ck'
+quest/menpai/teamjob.c line 1072: Undefined variable 'local'
+quest/menpai/teamjob.c line 1399: Undefined variable 'ck'
+quest/menpai/teamjob.c line 1401: Undefined variable 'ck'
+quest/menpai/teamjob.c line 565: parse error
+quest/menpai/teamjob.c line 586: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 586: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 590: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 590: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 596: $var illegal outside of function pointer.
+adm/daemons/familyd.c line 235: Undefined function playerp
+cmds/usr/ftop.c line 29: Undefined variable 'FAMILY_D'
+cmds/usr/ftop.c line 52: Undefined variable 'LEAGUE_D'
+cmds/usr/ftop.c line 52: Undefined variable 'LEAGUE_D'
+cmds/usr/topp.c line 27: Undefined variable 'arg'
+cmds/usr/ftop.c line 29: parse error
+cmds/usr/ftop.c line 30: parse error
+cmds/usr/ftop.c line 32: Illegal LHS
+cmds/usr/ftop.c line 32: parse error
+cmds/usr/ftop.c line 33: Illegal LHS
+cmds/usr/ftop.c line 33: parse error
+cmds/usr/ftop.c line 29: parse error
+cmds/usr/ftop.c line 30: parse error
+cmds/usr/ftop.c line 32: Illegal LHS
+cmds/usr/ftop.c line 32: parse error
+cmds/usr/ftop.c line 33: Illegal LHS
+cmds/usr/ftop.c line 33: parse error
+cmds/usr/ftop.c line 29: Undefined variable 'hxsd'
+inherit/char/master.c line 3: parse error
+adm/daemons/familyd.c line 182: parse error
+adm/daemons/familyd.c line 182: Type of returned value doesn't match function return type ( int vs void )
+adm/daemons/familyd.c line 178: Warning: Non-void functions must return a value.
+adm/daemons/familyd.c line 178: Warning: Non-void functions must return a value.
+cmds/usr/ftop.c line 23: Illegal to redeclare local name 't'
+adm/daemons/familyd.c line 182: Type of returned value doesn't match function return type ( string vs void )
+adm/daemons/familyd.c line 181: Bad assignment ( string vs int ).
+adm/daemons/familyd.c line 182: Type of returned value doesn't match function return type ( string vs void )
+adm/daemons/familyd.c line 181: Reserved type name unexpected.
+adm/daemons/familyd.c line 181: Missing type for argument
+adm/daemons/familyd.c line 181: parse error
+adm/daemons/familyd.c line 204: Undefined variable 'ob'
+adm/daemons/familyd.c line 204: Illegal LHS
+adm/daemons/familyd.c line 205: parse error
+adm/daemons/familyd.c line 181: Reserved type name unexpected.
+adm/daemons/familyd.c line 181: Missing type for argument
+adm/daemons/familyd.c line 181: parse error
+adm/daemons/familyd.c line 204: Undefined variable 'ob'
+adm/daemons/familyd.c line 204: Illegal LHS
+adm/daemons/familyd.c line 205: parse error
+adm/daemons/familyd.c line 181: Reserved type name unexpected.
+adm/daemons/familyd.c line 181: Missing type for argument
+adm/daemons/familyd.c line 181: parse error
+adm/daemons/familyd.c line 204: Undefined variable 'ob'
+adm/daemons/familyd.c line 204: Illegal LHS
+adm/daemons/familyd.c line 205: parse error
+adm/daemons/familyd.c line 182: Type of returned value doesn't match function return type ( string vs void )
+cmds/usr/ftop.c line 51: Left argument of -> is not a class
+cmds/usr/ftop.c line 51: Bad assignment ( mapping vs int ).
+cmds/usr/ftop.c line 52: parse error
+cmds/usr/ftop.c line 52: Bad argument 1 to efun keys()
+cmds/usr/ftop.c line 52: Bad argument 1 to efun keys()
+cmds/usr/ftop.c line 52: Bad argument 1 to efun keys()
+cmds/usr/ftop.c line 52: Bad argument 1 to efun keys()
+cmds/usr/ftop.c line 52: Bad assignment ( string vs int ).
+cmds/usr/ftop.c line 41: Undefined variable 'write'
+cmds/usr/ftop.c line 41: parse error
+cmds/usr/ftop.c line 42: Illegal LHS
+cmds/usr/ftop.c line 41: Undefined variable 'write'
+cmds/usr/ftop.c line 41: parse error
+cmds/usr/ftop.c line 43: Illegal LHS
+cmds/usr/ftop.c line 44: Reserved type name unexpected.
+cmds/usr/ftop.c line 44: parse error
+cmds/usr/ftop.c line 47: Undefined variable 'i'
+cmds/usr/ftop.c line 47: Undefined variable 'fam'
+cmds/usr/ftop.c line 47: Undefined variable 'fame'
+cmds/usr/ftop.c line 48: Undefined variable 'delta'
+cmds/usr/ftop.c line 80: Type of returned value doesn't match function return type ( int vs string )
+cmds/usr/ftop.c line 80: Type of returned value doesn't match function return type ( int vs string )
+cmds/usr/ftop.c line 44: Undefined function Cstring
+cmds/usr/ftop.c line 44: Undefined function Cstring
+cmds/usr/ftop.c line 44: Undefined function query_family_fame
+cmds/usr/ftop.c line 44: Invalid argument types to '+' ( string vs unknown )
+quest/menpai/teamjob.c line 1015: parse error
+quest/menpai/teamjob.c line 1024: Illegal LHS
+quest/menpai/teamjob.c line 1024: parse error
+quest/menpai/teamjob.c line 1029: Illegal LHS
+quest/menpai/teamjob.c line 1029: parse error
+quest/menpai/teamjob.c line 1039: Illegal LHS
+cmds/std/citan.c line 44: Undefined variable 'who'
+cmds/std/citan.c line 44: Undefined variable 'who'
+quest/menpai/teamjob.c line 756: Undefined variable 'localHIC'
+quest/menpai/teamjob.c line 756: parse error
+quest/menpai/teamjob.c line 775: Illegal LHS
+quest/menpai/teamjob.c line 775: parse error
+quest/menpai/teamjob.c line 776: Illegal LHS
+quest/menpai/teamjob.c line 776: parse error
+quest/menpai/teamjob.c line 756: Undefined variable 'localHIC'
+quest/menpai/teamjob.c line 756: parse error
+quest/menpai/teamjob.c line 775: Illegal LHS
+quest/menpai/teamjob.c line 775: parse error
+quest/menpai/teamjob.c line 776: Illegal LHS
+quest/menpai/teamjob.c line 776: parse error
+quest/menpai/teamjob.c line 756: Undefined variable 'localHIC'
+quest/menpai/teamjob.c line 756: parse error
+quest/menpai/teamjob.c line 775: Illegal LHS
+quest/menpai/teamjob.c line 775: parse error
+quest/menpai/teamjob.c line 776: Illegal LHS
+quest/menpai/teamjob.c line 776: parse error
+quest/menpai/teamjob.c line 769: Left argument of -> is not a class
+quest/menpai/teamjob.c line 769: Illegal lvalue
+quest/menpai/teamjob.c line 770: Left argument of -> is not a class
+quest/menpai/teamjob.c line 770: Illegal lvalue
+quest/menpai/teamjob.c line 771: Left argument of -> is not a class
+quest/menpai/teamjob.c line 771: Illegal lvalue
+quest/menpai/teamjob.c line 769: Left argument of -> is not a class
+quest/menpai/teamjob.c line 769: Illegal lvalue
+quest/menpai/teamjob.c line 770: Left argument of -> is not a class
+quest/menpai/teamjob.c line 770: Illegal lvalue
+quest/menpai/teamjob.c line 771: Left argument of -> is not a class
+quest/menpai/teamjob.c line 771: Illegal lvalue
+quest/menpai/teamjob.c line 769: Left argument of -> is not a class
+quest/menpai/teamjob.c line 769: Illegal lvalue
+quest/menpai/teamjob.c line 770: Left argument of -> is not a class
+quest/menpai/teamjob.c line 770: Illegal lvalue
+quest/menpai/teamjob.c line 771: Left argument of -> is not a class
+quest/menpai/teamjob.c line 771: Illegal lvalue
+quest/menpai/teamjob.c line 732: parse error
+quest/menpai/teamjob.c line 881: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1056: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1056: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1063: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1063: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 732: parse error
+quest/menpai/teamjob.c line 881: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1056: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1056: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1063: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1063: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 732: parse error
+quest/menpai/teamjob.c line 881: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1056: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1056: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1063: $var illegal outside of function pointer.
+quest/menpai/teamjob.c line 1063: $var illegal outside of function pointer.
+cmds/std/citan.c line 34: Undefined variable 'maxpot'
+quest/menpaijob/taohua/xiake.c line 79: Reserved type name unexpected.
+quest/menpaijob/taohua/xiake.c line 79: parse error
+quest/menpaijob/taohua/xiake.c line 79: Illegal LHS
+quest/menpaijob/taohua/xiake.c line 80: Undefined variable 'i'
+quest/menpaijob/taohua/xiake.c line 122: Undefined variable 'temp'

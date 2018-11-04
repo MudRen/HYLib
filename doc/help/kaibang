@@ -1,0 +1,39 @@
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+[44;33m ¡¾¿ª°ïÁ¢ÅÉÆª¡¿                                             [2;37;0m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m
+ÔÚº£ÑóÖÐ£¬µ±ÄãµÄ¾­ÑéºÍ½­ºþÔÄÀúÒÔ¼°½ðÇ®ÊýÁ¿µ½´ïÒ»¶¨µÄÊýÁ¿ºó£¬¾Í¿ÉÒÔ×Ô¼º
+Ñ¡Ôñ¿ª°ïÁ¢ÅÉ¡£ÕâÊ±ÄãÓÃ¿ª°ï(bang)ÃüÁî¾Í¿ÉÒÔÓÐÊôÓÚ×Ô¼ºµÄ°ïÅÉ¡£Ö»ÓÐ°ïÖ÷
+²Å¿ÉÒÔÊÕµÜ×Ó£¬µ±ÄãÑá¾ëÁË×öÒ»°ïÖ®Ö÷µÄÈÕ×Ó£¬Äã¿ÉÒÔÑ¡Ôñ×Ô¼º÷âÏÂµÄÒ»ÃûµÃÁ¦
+µÜ×Ó£¬°Ñ°ïÖ÷Ö®Î»´«¸ø(assign)Ëû¡£Èç¹ûÄã¶ÔÄÄÃûµÜ×Ó²»ÂúÒâ£¬Äã¿ÉÒÔÓÃ¿ª³ý
+£¨expell)ÃüÁî¿ª³ýËû¡£
+¿ª°ïÌõ¼þ£º »Æ½ð    2000Á½
+          ¾­Ñé    5000000
+          ½­ºþÔÄÀú 5000
+´«Î»Ìõ¼þ£º ¶Ô·½½­ºþÔÄÀú 5000
+
+ÔÚµ±Äã³ÉÎªÁËÒ»¸ö°ïÅÉµÄÊ×Áìºó£¬Äã¿ÉÒÔ¿ªÊ¼½¨ÔìÊôÓÚ×Ô¼ºµÄµØÅÌÁË¡£Äã¿ÉÒÔ
+Îª×Ô¼º°ïÅÉÔì¸ö×ÜÌ³(buildroom£©¡£Äã¿ÉÒÔ¸ø×Ô¼ºµÄ×ÜÌ³¼ÓÉÏÊÊµ±µÄÃèÊö£¬
+µ±×ÜÌ³½¨Á¢ºÃºó£¬Äã¿ÉÒÔÑ¡ÔñÔì
+
+°ïÅÉµÄÐÝÏ¢ÊÒ(buildrest)
+ÐÝÏ¢ÊÒÀïÓÐÒ»Ãû ´úÀí½ÌÍ·,±¾°ï¸ßÊÖ¿ÉÒÔÓÃrecover°Ñ×Ô¼ºÎä¹¦´«¸øËû
+¶ø±¾°ïËùÓÐµÜ×Ó¿ÉÒÔÏò ´úÀí½ÌÍ· Ñ§Îä¹¦
+
+±øÆ÷·¿(buildweapon)
+±øÆ÷·¿ÄÚÓÐ±øÆ÷
+
+ÈÎÎñÊÒ(buildjob)
+ÈÎÎñÊÒÓÐÒ»ÃûÈÎÎñÀô,¿ÉÌá¹©ÈÎÎñ(quest,ask shi about teamjob);
+
+ÑµÁ·ÊÒ(buildfight)
+Ìá¹©Ä¾ÈË
+
+Ê³ÌÃ(buildeat)
+ÀïÃæÓÐ³ÔµÄ
+
+¶÷Ô¹ÌÃ(buildjob2)
+Ìá¹©ÌØÊâÍæ¼ÒÃÅÅÉÈÎÎñ
+
+×¢Òâ£¬Ã¿¼ä·¿¼äÃ¿¸öÈËÒ»ÉúÖ»ÄÜÔìÒ»´Î£¬Ò»¶¨ÒªÏëºÃÁË²Å
+×ö¾ö¶¨£¬·ñÔòºó»ÚÄª¼±¡£ÁíÍâÖ»ÓÐ·¿×ÓµÄÖ÷ÈËºÍÆäÃÅÅÉµÜ×Ó²ÅÄÜ³öÈë¸Ã´¦£¬
+³ý·ÇÖ÷ÈËÑûÇë(invite)¿ÍÈË½øÎÝ¡£

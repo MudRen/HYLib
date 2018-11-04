@@ -1,0 +1,497 @@
+ 
+°´×ÖÄ¸Ë³Ðò¼ìË÷£º¡¾ r - s ¡¿
+rabbit
+myself_self":"$P¾õµÃ×Ô¼º»îÏóÒ»Ö»ÍÃ×Ó£¬Òª¶à¿É°®¾ÍÓÐ¶à¿É°®£¡
+others_self":"$N¾õµÃ×Ô¼º»îÏóÒ»Ö»ÍÃ×Ó£¬Òª¶à¿É°®¾ÍÓÐ¶à¿É°®£¡
+updated":"connie","myself":"$PÐ¡Éù³ªµÀ£ºÐ¡°×ÍÃ£¬°×ÓÖ°×£¬Á½Ö»¶ú¶äÊúÆðÀ´£¡
+others":"$NÐ¡Éù³ªµÀ£ºÐ¡°×ÍÃ£¬°×ÓÖ°×£¬Á½Ö»¶ú¶äÊúÆðÀ´£¡ 
+others_target":"$N¶Ô$nÐ¡Éù³ªµÀ£º$n¶ù¹Ô£¬Øíºì×ì´½¶ù£¬Ò»¶Ô¶ú¶ä°×ÓÖ°×£¡
+target":"$N¶Ô$pÐ¡Éù³ªµÀ£º$n¶ù¹Ô£¬Øíºì×ì´½¶ù£¬Ò»¶Ô¶ú¶ä°×ÓÖ°×£¡
+myself_target":"$P¶Ô$nÐ¡Éù³ªµÀ£º$n¶ù¹Ô£¬Øíºì×ì´½¶ù£¬Ò»¶Ô¶ú¶ä°×ÓÖ°×£¡ 
+
+rabbit2
+myself_self":"$PµÍÏÂÍ·È¥Ïë£ºÎÒµ½µ×Òª²»Òª¸ø¼ÙÍâÆÅ¿ªÃÅÄØ¡£¡£¡£Ïë×ÅÏë×Å²»ÓÉµÄÁ³¾ÍºìÁË¡£
+others_self":"$NµÍÏÂÍ·È¥Ïë£ºÎÒµ½µ×Òª²»Òª¸ø¼ÙÍâÆÅ¿ªÃÅÄØ¡£¡£¡£Ïë×ÅÏë×Å²»ÓÉµÄÁ³¾ÍºìÁË¡£ 
+updated":"connie","myself":"$PÄÌÉùÄÌÆøµÄ³ªµÀ£ºÐ¡ÃÃÃÃ¹Ô¹Ô£¬°ÑÃÅ¶ù¿ª¿ª£¬ÍâÆÅÒª½øÀ´¡£¡£¡£ 
+others":"$NÄÌÉùÄÌÆøµÄ³ªµÀ£ºÐ¡ÃÃÃÃ¹Ô¹Ô£¬°ÑÃÅ¶ù¿ª¿ª£¬ÍâÆÅÒª½øÀ´¡£¡£¡£
+others_target":"$N¶Ô×Å$nÒõÏÕµÄ³ªµÀ£ºÐ¡$n¹Ô¹Ô£¬°ÑÃÅ¶ù¿ª¿ª£¬ÍâÆÅÒª½øÀ´¡£¡£¡£ 
+target":"$N¶Ô×Å$pÒõÏÕµÄ³ªµÀ£ºÐ¡$n¹Ô¹Ô£¬°ÑÃÅ¶ù¿ª¿ª£¬ÍâÆÅÒª½øÀ´¡£¡£¡£ 
+myself_target":"$P¶Ô×Å$nÒõÏÕµÄ³ªµÀ£ºÐ¡$n¹Ô¹Ô£¬°ÑÃÅ¶ù¿ª¿ª£¬ÍâÆÅÒª½øÀ´¡£¡£¡£
+
+raise 
+myself_self":"$P¾ÙÆðÁËÊÖ£¬¸ßÉù½ÐµÀ£º¡°ÎÒ£¡ÎÒ£¡¡± 
+others_self":"$N¾ÙÆðÁËÊÖ£¬¸ßÉù½ÐµÀ£º¡°ÎÒ£¡ÎÒ£¡¡± 
+updated":"connie","myself":"$P´óÉùËµµÀ£º¡°ÔÞ³ÉµÄÈË£¬Çë¾ÙÊÖ£¡¡±
+others":"$N´óÉùËµµÀ£º¡°ÔÞ³ÉµÄÈË£¬Çë¾ÙÊÖ£¡¡±
+others_target":"$N¸ß¾ÙË«ÊÖÔÞÍ¬$nµÄÒâ¼û¡£
+target":"$N¸ß¾ÙË«ÊÖÔÞÍ¬$pµÄÒâ¼û¡£
+myself_target":"$P¸ß¾ÙË«ÊÖÔÞÍ¬$nµÄÒâ¼û¡£ 
+
+rascal
+myself_self":"$P×ì½ÇÒ»Æ²£¬ÄüÐ¦µÀ£º¡°ÎÒÊÇÁ÷Ã¥£¬ÎÒÅÂË­£¿£¡¡±
+others_self":"$N×ì½ÇÒ»Æ²£¬ÄüÐ¦µÀ£º¡°ÎÒÊÇÁ÷Ã¥£¬ÎÒÅÂË­£¿£¡¡± 
+updated":"myself":"$P×ì½ÇÒ»Æ²£¬ÄüÐ¦µÀ£º¡°ÎÒÊÇÁ÷Ã¥£¬ÎÒÅÂË­£¿£¡¡± 
+others":"$N×ì½ÇÒ»Æ²£¬ÄüÐ¦µÀ£º¡°ÎÒÊÇÁ÷Ã¥£¬ÎÒÅÂË­£¿£¡¡± 
+others_target":"$N¶Ô×Å$n´ó½Ð£º¡°$n£¬ÄãÕâ¸ö³ôÁ÷Ã¥£¡¡± 
+target":"$N¶Ô×Å$p´ó½Ð£º¡°$n£¬ÄãÕâ¸ö³ôÁ÷Ã¥£¡¡± 
+myself_target":"$P¶Ô×Å$n´ó½Ð£º¡°$n£¬ÄãÕâ¸ö³ôÁ÷Ã¥£¡¡±
+
+redlamp1
+myself_self":"¡°Ð»Ð»Âè£¡¡±$P¸ßÉù³ªµÀ£º¡°ÁÙÐÐºÈÂèÒ»Íë¾Æ£¬»ëÉíÊÇµ¨ÐÛôñôñ£¡¡± 
+others_self":"¡°Ð»Ð»Âè£¡¡±$N¸ßÉù³ªµÀ£º¡°ÁÙÐÐºÈÂèÒ»Íë¾Æ£¬»ëÉíÊÇµ¨ÐÛôñôñ£¡¡±
+updated":"pig","myself":"¡°Ð»Ð»Âè£¡¡±$P¸ßÉù³ªµÀ£º¡°ÁÙÐÐºÈÂèÒ»Íë¾Æ£¬»ëÉíÊÇµ¨ÐÛôñôñ£¡¡±
+others":"¡°Ð»Ð»Âè£¡¡±$N¸ßÉù³ªµÀ£º¡°ÁÙÐÐºÈÂèÒ»Íë¾Æ£¬»ëÉíÊÇµ¨ÐÛôñôñ£¡¡±
+others_target":"¡°Ð»Ð»$n£¡¡±$N¸ßÉù³ªµÀ£º¡°ÁÙÐÐºÈ$nÒ»Íë¾Æ£¬»ëÉíÊÇµ¨ÐÛôñôñ£¡¡±
+target":"¡°Ð»Ð»$n£¡¡±$N¸ßÉù³ªµÀ£º¡°ÁÙÐÐºÈ$nÒ»Íë¾Æ£¬»ëÉíÊÇµ¨ÐÛôñôñ£¡¡±
+myself_target":"¡°Ð»Ð»$n£¡¡±$P¸ßÉù³ªµÀ£º¡°ÁÙÐÐºÈ$nÒ»Íë¾Æ£¬»ëÉíÊÇµ¨ÐÛôñôñ£¡¡±
+
+redlamp2 
+myself_self":"$P³ªµÀ£º¡°ð¯É½ÉèÑçºÍÎÒ½»ÅóÓÑ£¬Ç§±­ÍòÕµ»áÓ¦³ê¡£¡± 
+others_self":"$N³ªµÀ£º¡°ð¯É½ÉèÑçºÍÎÒ½»ÅóÓÑ£¬Ç§±­ÍòÕµ»áÓ¦³ê¡£¡±
+updated":"pig","myself":"$P³ªµÀ£º¡°ð¯É½ÉèÑçºÍÎÒ½»ÅóÓÑ£¬Ç§±­ÍòÕµ»áÓ¦³ê¡£¡±
+others":"$N³ªµÀ£º¡°ð¯É½ÉèÑçºÍÎÒ½»ÅóÓÑ£¬Ç§±­ÍòÕµ»áÓ¦³ê¡£¡± 
+others_target":"$N³ªµÀ£º¡°$nÉèÑçºÍÎÒ½»ÅóÓÑ£¬Ç§±­ÍòÕµ»áÓ¦³ê¡£¡± 
+target":"$N³ªµÀ£º¡°$nÉèÑçºÍÎÒ½»ÅóÓÑ£¬Ç§±­ÍòÕµ»áÓ¦³ê¡£¡± 
+myself_target":"$P³ªµÀ£º¡°$nÉèÑçºÍÎÒ½»ÅóÓÑ£¬Ç§±­ÍòÕµ»áÓ¦³ê¡£¡± 
+
+redlamp3 
+myself_self":"$PÒ»ÓïË«¹ØµØ³ªµÀ£º¡°Ð¡ÌúÃ·³öÃÅÂô»õ¿´Æøºò£¬¹ýÍùÕÊÄ¿Òª¼ÇÊì¡£¡± 
+others_self":"$NÒ»ÓïË«¹ØµØ³ªµÀ£º¡°Ð¡ÌúÃ·³öÃÅÂô»õ¿´Æøºò£¬¹ýÍùÕÊÄ¿Òª¼ÇÊì¡£¡±
+updated":"pig","myself":"$PÒ»ÓïË«¹ØµØ³ªµÀ£º¡°Ð¡ÌúÃ·³öÃÅÂô»õ¿´Æøºò£¬¹ýÍùÕÊÄ¿Òª¼ÇÊì¡£¡± 
+others":"$NÒ»ÓïË«¹ØµØ³ªµÀ£º¡°Ð¡ÌúÃ·³öÃÅÂô»õ¿´Æøºò£¬¹ýÍùÕÊÄ¿Òª¼ÇÊì¡£¡±
+others_target":"$NÅÄÁËÅÄ$nµÄÍ·£¬Ò»ÓïË«¹ØµØ³ªµÀ£º¡°Ð¡$n³öÃÅÂô»õ¿´Æøºò£¬¹ýÍùÕÊÄ¿Òª¼ÇÊì¡£¡± 
+target":"$NÅÄÁËÅÄ$pµÄÍ·£¬Ò»ÓïË«¹ØµØ³ªµÀ£º¡°Ð¡$n³öÃÅÂô»õ¿´Æøºò£¬¹ýÍùÕÊÄ¿Òª¼ÇÊì¡£¡±
+myself_target":"$PÅÄÁËÅÄ$nµÄÍ·£¬Ò»ÓïË«¹ØµØ³ªµÀ£º¡°Ð¡$n³öÃÅÂô»õ¿´Æøºò£¬¹ýÍùÕÊÄ¿Òª¼ÇÊì¡£¡± 
+
+redlamp4 
+myself_self":"$PÕö´óÁËÒ»Ë«ºÃÆæµÄÑÛ¾¦ÎÊµÀ£º¡°ÄÌÄÌ£¬ÎÒÊÇÎÒµùÉúµÄÂð£¿¡±
+others_self":"$NÕö´óÁËÒ»Ë«ºÃÆæµÄÑÛ¾¦ÎÊµÀ£º¡°ÄÌÄÌ£¬ÎÒÊÇÎÒµùÉúµÄÂð£¿¡±
+updated":"Myself":"$PÄýÊÓ×ÅÏ¥±ßµÄÌúÃ·£¬¸Ð¿®µØËµµÀ£º¡°º¢×Ó£¬ÄãµùËû²»ÊÇÄãµÄÇ×µù£¬ÄÌÄÌÒ²²»ÊÇÄãµÄÇ×ÄÌÄÌ¡£¡±
+others":"$NÄýÊÓ×ÅÏ¥±ßµÄÌúÃ·£¬¸Ð¿®µØËµµÀ£º¡°º¢×Ó£¬ÄãµùËû²»ÊÇÄãµÄÇ×µù£¬ÄÌÄÌÒ²²»ÊÇÄãµÄÇ×ÄÌÄÌ¡£¡± 
+others_target":"$NÄýÊÓ×ÅÏ¥±ßµÄ$n£¬¸Ð¿®µØËµµÀ£º¡°º¢×Ó£¬ÄãµùËû²»ÊÇÄãµÄÇ×µù£¬$NÒ²²»ÊÇÄãµÄÇ×ÄÌÄÌ¡£¡±
+target":"$NÄýÊÓ×ÅÏ¥±ßµÄ$p£¬¸Ð¿®µØËµµÀ£º¡°º¢×Ó£¬ÄãµùËû²»ÊÇÄãµÄÇ×µù£¬$NÒ²²»ÊÇÄãµÄÇ×ÄÌÄÌ¡£¡±
+myself_target":"$PÄýÊÓ×ÅÏ¥±ßµÄ$n£¬¸Ð¿®µØËµµÀ£º¡°º¢×Ó£¬ÄãµùËû²»ÊÇÄãµÄÇ×µù£¬$NÒ²²»ÊÇÄãµÄÇ×ÄÌÄÌ¡£¡± 
+
+regard
+myself_self":"$PÌ¾ÁË¿ÚÆøµÀ£º¡°Äãµ±ÎÒÊÇË­Ñ½£¬ÎÒÒ²ÊÇ¿à³öÉí£¡¡±
+others_self":"$NÌ¾ÁË¿ÚÆøµÀ£º¡°Äãµ±ÎÒÊÇË­Ñ½£¬ÎÒÒ²ÊÇ¿à³öÉí£¡¡±
+updated":"pig","myself":"$PÌ¾ÁË¿ÚÆøµÀ£º¡°Äãµ±ÎÒÊÇË­Ñ½£¬ÎÒÒ²ÊÇ¿à³öÉí£¡¡± 
+others":"$NÌ¾ÁË¿ÚÆøµÀ£º¡°Äãµ±ÎÒÊÇË­Ñ½£¬ÎÒÒ²ÊÇ¿à³öÉí£¡¡±
+others_target":"$N¶Ô×Å$nÈÂµÀ£º¡°Äãµ±ÄãÊÇË­Ñ½£¬ÄãÒÔÎªÄãÊÇÁÖÇàÏ¼Ñ½£¿¡±
+target":"$N¶Ô×Å$pÈÂµÀ£º¡°Äãµ±ÄãÊÇË­Ñ½£¬ÄãÒÔÎªÄãÊÇÁÖÇàÏ¼Ñ½£¿¡±
+myself_target":"$P¶Ô×Å$nÈÂµÀ£º¡°Äãµ±ÄãÊÇË­Ñ½£¬ÄãÒÔÎªÄãÊÇÁÖÇàÏ¼Ñ½£¿¡± 
+
+rhero
+myself_self":"$P¿´¿´ÐÎÊÆ²»¶Ô£¬×ªÉí¾ÍÅÜ£º¡°ÄãÃÇ¶¥×¡£¡ ÎÒÈ¥ÕÒ¾È±ø£¡¡±
+others_self":"$N¿´¿´ÐÎÊÆ²»¶Ô£¬×ªÉí¾ÍÅÜ£º¡°ÄãÃÇ¶¥×¡£¡ ÎÒÈ¥ÕÒ¾È±ø£¡¡± 
+updated":"connie","myself":"$P´óº°Ò»Éù£º¡°ÁôµÃÇàÉ½ÔÚ£¬²»ÅÂÃ»²ñÉÕ¡£ÄãÃÇÏÈ³·£¬$SÎÒÑÚ»¤¡£¡±
+others":"$N´óº°Ò»Éù£º¡°ÁôµÃÇàÉ½ÔÚ£¬²»ÅÂÃ»²ñÉÕ¡£ÄãÃÇÏÈ³·£¬$SÎÒÑÚ»¤¡£¡± 
+others_target":"$N¶Ô$nÐ¡ÉùàÖ¹¾µÀ£º¡°¾ý×Ó±¨³ð£¬Ê®Äê²»Íí£¡ ÎåÄêºóÄãÔÙÀ´ÕÒËû°É¡£¡±
+target":"$N¶Ô$pÐ¡ÉùàÖ¹¾µÀ£º¡°¾ý×Ó±¨³ð£¬Ê®Äê²»Íí£¡ ÎåÄêºóÄãÔÙÀ´ÕÒËû°É¡£¡±
+myself_target":"$P¶Ô$nÐ¡ÉùàÖ¹¾µÀ£º¡°¾ý×Ó±¨³ð£¬Ê®Äê²»Íí£¡ ÎåÄêºóÄãÔÙÀ´ÕÒËû°É¡£¡±
+
+rich
+myself_self":"$PÊý×ÅÇ®´üÀïµÄÒø×Ó£¬¡°Ò»¿é£¬Á½¿é£¬... £¬... ¡± ËÆºõÁ³ÉÏµÄÃ¿Ò»¿éÈâ¶¼ÔÚÐ¦¡£
+others_self":"$NÊý×ÅÇ®´üÀïµÄÒø×Ó£¬¡°Ò»¿é£¬Á½¿é£¬... £¬... ¡± ËÆºõÁ³ÉÏµÄÃ¿Ò»¿éÈâ¶¼ÔÚÐ¦¡£ updated":"connie","myself":"$PÅÄÅÄÑü±ßµÄÇ®´ü£¬´ÖÉù´óÆøµØËµµÀ£ºÅÂÊ²Ã´£¡$sÓÐµÄÊÇÇ®£¡
+others":"$NÅÄÅÄÑü±ßµÄÇ®´ü£¬´ÖÉù´óÆøµØËµµÀ£ºÅÂÊ²Ã´£¡$sÓÐµÄÊÇÇ®£¡
+others_target":"$NÅÄÅÄÇ®´ü£¬¶Ô×Å$nºÀÆø¸ÉÔÆµØËµµÀ£ºÄãÏëÒªÊ²Ã´£¿ ¾¡¹Ü¸úÎÒËµ£¡ 
+target":"$NÅÄÅÄÇ®´ü£¬¶Ô×Å$pºÀÆø¸ÉÔÆµØËµµÀ£ºÄãÏëÒªÊ²Ã´£¿ ¾¡¹Ü¸úÎÒËµ£¡ 
+myself_target":"$PÅÄÅÄÇ®´ü£¬¶Ô×Å$nºÀÆø¸ÉÔÆµØËµµÀ£ºÄãÏëÒªÊ²Ã´£¿ ¾¡¹Ü¸úÎÒËµ£¡
+
+rob 
+myself_self":"$PÄÃ×Å°Ñ·æÀûµÄ¸Öµ¶¼ÜÔÚ×Ô¼º²±×ÓÉÏ£¬º°µÀ£ºÄãÃÇ¸ø²»¸øÇ®£¿£¡ ²»¸øÎÒ¾Í×ÔÉ±ÁË£¡ 
+others_self":"$NÄÃ×Å°Ñ·æÀûµÄ¸Öµ¶¼ÜÔÚ×Ô¼º²±×ÓÉÏ£¬º°µÀ£ºÄãÃÇ¸ø²»¸øÇ®£¿£¡ ²»¸øÎÒ¾Í×ÔÉ±ÁË£¡ updated":"cleansword","myself":"$Pºáµ¶µ±µÀ£¬Ò»Éù´óº°£º´ËÉ½ÊÇÎÒ¿ª£¬´ËÊ÷ÊÇÎÒÔÔ£¬ÈôÒª´Ó´Ë¹ý£¬ÁôÏÂÂòÂ·²Æ !
+others":"$Nºáµ¶µ±µÀ£¬Ò»Éù´óº°£º´ËÉ½ÊÇÎÒ¿ª£¬´ËÊ÷ÊÇÎÒÔÔ£¬ÈôÒª´Ó´Ë¹ý£¬ÁôÏÂÂòÂ·²Æ !
+others_target":"$NÒ»µ¶¿³È¥£¬°Ñ$nµÄ...Ç®´ü»Ó×÷Á½°ë !
+target":"$NÒ»µ¶¿³È¥£¬°Ñ$pµÄ...Ç®´ü»Ó×÷Á½°ë !
+myself_target":"$PÒ»µ¶¿³È¥£¬°Ñ$nµÄ...Ç®´ü»Ó×÷Á½°ë ! ,
+
+rob1
+updated":"others_target":"$N´óºÈÒ»Éù£º´ò½Ù£¬´ò½Ù¡£ÄÐÐÔÕ¾×ó±ß£¬Å®ÐÔÕ¾ÓÒ±ß£¬Í¬ÐÔÁµÕ¾ÖÐ¼ä¡£$nÏëÁËÏë£¬ºì×ÅÁ³Õ¾µ½ÁËÖÐ¼ä¡£ 
+target":"$N´óºÈÒ»Éù£º´ò½Ù£¬´ò½Ù¡£ÄÐÐÔÕ¾×ó±ß£¬Å®ÐÔÕ¾ÓÒ±ß£¬Í¬ÐÔÁµÕ¾ÖÐ¼ä¡£$pÏëÁËÏë£¬ºì×ÅÁ³Õ¾µ½ÁËÖÐ¼ä¡£ 
+myself_target":"$P´óºÈÒ»Éù£º´ò½Ù£¬´ò½Ù¡£ÄÐÐÔÕ¾×ó±ß£¬Å®ÐÔÕ¾ÓÒ±ß£¬Í¬ÐÔÁµÕ¾ÖÐ¼ä¡£$nÏëÁËÏë£¬ºì×ÅÁ³Õ¾µ½ÁËÖÐ¼ä¡£
+
+rose 
+myself_self":"$P°ÎÁËÒ»Ö¦Ãµ¹å´÷ÔÚ÷Þ¼ä£¬²»ÓÉÏëÆðÒ»¾äÃûÑÔ£ºÒ»¶äÏÊ»¨²åÔÚ ...... 
+others_self":"$N°ÎÁËÒ»Ö¦Ãµ¹å´÷ÔÚ÷Þ¼ä£¬²»ÓÉÏëÆðÒ»¾äÃûÑÔ£ºÒ»¶äÏÊ»¨²åÔÚ ...... 
+updated":"pig","myself":"$PÉîÇéµØ³ªµÀ£º¡°ÎÒÔçÒÑÎªÄãÖÖÏÂ£¬¾Å°Ù¾ÅÊ®¾Å¶äÃµ¹å¡£¡± 
+others":"$NÉîÇéµØ³ªµÀ£º¡°ÎÒÔçÒÑÎªÄãÖÖÏÂ£¬¾Å°Ù¾ÅÊ®¾Å¶äÃµ¹å¡£¡± 
+others_target":"$nÍ»È»¼ä±»ÈËÃÉ×¡ÁËË«ÑÛ£¬ÕöÑÛÒ»¿´£¬$NÕ¾ÔÚ$pµÄÃæÇ°£¬ÊÖÀïÅõ×ÅºÃ´óÒ»´ØÃµ¹å£¡ 
+target":"$pÍ»È»¼ä±»ÈËÃÉ×¡ÁËË«ÑÛ£¬ÕöÑÛÒ»¿´£¬$NÕ¾ÔÚ$pµÄÃæÇ°£¬ÊÖÀïÅõ×ÅºÃ´óÒ»´ØÃµ¹å£¡
+myself_target":"$nÍ»È»¼ä±»ÈËÃÉ×¡ÁËË«ÑÛ£¬ÕöÑÛÒ»¿´£¬$PÕ¾ÔÚ$pµÄÃæÇ°£¬ÊÖÀïÅõ×ÅºÃ´óÒ»´ØÃµ¹å£¡ 
+
+rou
+myself_self":"$P´ÓÏÂË®µÀÀïÅÀ³öÀ´£¬ÔÙÒ²ÎÂÈá²»ÆðÀ´£¬ÆøµÄÆÆ¿Ú´óÂî£¡ 
+others_self":"$N´ÓÏÂË®µÀÀïÅÀ³öÀ´£¬ÔÙÒ²ÎÂÈá²»ÆðÀ´£¬ÆøµÄÆÆ¿Ú´óÂî£¡ 
+updated":"winder","myself":"$PÎÂÈáµÄ×ßÔÚ´ó½ÖÉÏ£¬ÎÂÈáµÄ¶Ô´ó¼Ò´òÕÐºô£¬ÎÂÈáµÃµô½øÒ»¸öÃ»¾®¸ÇµÄÏÂË®µÀ¡£ 
+others":"$NÎÂÈáµÄ×ßÔÚ´ó½ÖÉÏ£¬ÎÂÈáµÄ¶Ô´ó¼Ò´òÕÐºô£¬ÎÂÈáµÃµô½øÒ»¸öÃ»¾®¸ÇµÄÏÂË®µÀ¡£ 
+others_target":"$NÎÂÈáµÄ°Ñ$nÈû½øÏÂË®µÀÀï£¬¶£ÖöµÀ£ºÒ»Â·¶à±£ÖØ£¡ 
+target":"$NÎÂÈáµÄ°Ñ$pÈû½øÏÂË®µÀÀï£¬¶£ÖöµÀ£ºÒ»Â·¶à±£ÖØ£¡ 
+myself_target":"$PÎÂÈáµÄ°Ñ$nÈû½øÏÂË®µÀÀï£¬¶£ÖöµÀ£ºÒ»Â·¶à±£ÖØ£¡ 
+
+saosao
+myself_self":"$PÐßµÃÎÞµØ×ÔÈÝ£¬¡°ÎÒÔõÃ´ÜóµØ²»ÖªÐß³ÜÁËÄØ£¿¡± 
+others_self":"$NÐßµÃÎÞµØ×ÔÈÝ£¬¡°ÎÒÔõÃ´ÜóµØ²»ÖªÐß³ÜÁËÄØ£¿¡± 
+updated":"myself":"$PÁÝÈ»µÀ£º¡°É©É©ÐÝÒªÜóµØ²»ÖªÐß³Ü£¡$sµÄÑÛÀïÈÏµÃÊÇÉ©É©£¬$sµÄÈ­Í·²»ÈÏµÃÊÇÉ©É©£¡¡±
+others":"$NÁÝÈ»µÀ£º¡°É©É©ÐÝÒªÜóµØ²»ÖªÐß³Ü£¡$sµÄÑÛÀïÈÏµÃÊÇÉ©É©£¬$sµÄÈ­Í·²»ÈÏµÃÊÇÉ©É©£¡¡±
+others_target":"$N¶Ô$nÁÝÈ»µÀ£º¡°É©É©ÐÝÒªÜóµØ²»ÖªÐß³Ü£¡$sµÄÑÛÀïÈÏµÃÊÇÉ©É©£¬$sµÄÈ­Í·²»ÈÏµÃÊÇÉ©É©£¡¡±
+target":"$N¶Ô$pÁÝÈ»µÀ£º¡°É©É©ÐÝÒªÜóµØ²»ÖªÐß³Ü£¡$sµÄÑÛÀïÈÏµÃÊÇÉ©É©£¬$sµÄÈ­Í·²»ÈÏµÃÊÇÉ©É©£¡¡± 
+myself_target":"$P¶Ô$nÁÝÈ»µÀ£º¡°É©É©ÐÝÒªÜóµØ²»ÖªÐß³Ü£¡$sµÄÑÛÀïÈÏµÃÊÇÉ©É©£¬$sµÄÈ­Í·²»ÈÏµÃÊÇÉ©É©£¡¡±
+
+seal
+myself_self":"ÄãÒ»Éù²»ÏìµØ·ìÆð×Ô¼ºµÄ×ì,È»ºó´òÁË¸öËÀ½á.. 
+others_self":"$NÒ»Éù²»ÏìµØ·ìÆð×Ô¼ºµÄ×ì,È»ºó´òÁË¸öËÀ½á.. 
+updated":"venus","myself":"Ê²Ã´Äñ,ÄÇÃ´¹ÄÔë!!Shut up !!! 
+others":"$NºðµÀ:Ê²Ã´Äñ,ÄÇÃ´¹ÄÔë!!Shut up !!! 
+others_target":"$NÌÍ³öÕëºÍÏß,Ò»Éù²»ÏìµØ·ìÆð$nµÄ×ì,ÐÄµÀ:ÎÒ½ÐÄãÂÒ½Ð... 
+target":"$NÌÍ³öÕëºÍÏß,Ò»Éù²»ÏìµØ·ìÆðÄãµÄ×ì,ÐÄµÀ:ÎÒ½ÐÄãÂÒ½Ð...
+myself_target":"ÄãÌÍ³öÕëºÍÏß,Ò»Éù²»ÏìµØ·ìÆð$nµÄ×ì,ÐÄµÀ:ÎÒ½ÐÄãÂÒ½Ð... 
+
+seduce
+myself_self":"ÄãÓÐ²¡£¿ÏëÓÕ»ó×Ô¼º£¡ 
+others_self":"$NÓÐ²¡£¿ÏëÓÕ»ó×Ô¼º£¡ 
+updated":"fang","myself":"ÄãÂúÁ³µÄÃÄÌ¬£¬×÷³öÒ»¸±ÃÔÈËµÄ×ËÌ¬ÓÕ»óËùÓÐÔÚ³¡µÄÈË¡£ 
+others":"$NÂúÁ³µÄÃÄÌ¬£¬×÷³öÒ»¸±ÃÔÈËµÄ×ËÌ¬ÓÕ»óËùÓÐÔÚ³¡µÄÈË¡£
+others_target":"$NÂúÁ³µÄÃÄÌ¬£¬×÷³öÒ»¸±ÃÔÈËµÄ×ËÌ¬ÓÕ»ó$n¡£ 
+target":"$NÂúÁ³µÄÃÄÌ¬£¬×÷³öÒ»¸±ÃÔÈËµÄ×ËÌ¬ÓÕ»óÄã¡£ 
+myself_target":"ÄãÂúÁ³µÄÃÄÌ¬£¬×÷³öÒ»¸±ÃÔÈËµÄ×ËÌ¬ÓÕ»ó$n¡£
+
+secret
+myself_self":"$PÒ»Á³ÉñÃØÙâÙâµÄÑù×Ó£¬ÀäÐ¦µÀ£ºÕâ¿ÉÊÇ¸öÌì´óµÄÃØÃÜ£¬ÌìÖª£¬µØÖª£¬ÎÒÖªÄã²»Öª£¬¹þ¹þ¹þ£¡ 
+others_self":"$NÒ»Á³ÉñÃØÙâÙâµÄÑù×Ó£¬ÀäÐ¦µÀ£ºÕâ¿ÉÊÇ¸öÌì´óµÄÃØÃÜ£¬ÌìÖª£¬µØÖª£¬ÎÒÖªÄã²»Öª£¬¹þ¹þ¹þ£¡ 
+updated": myself":"$PÒ»Á³ºüÒÉµØ»·ÊÓÖÚÈË£¬ËµµÀ£ºÄãÃÇÊÇ²»ÊÇÓÐÊ²Ã´ÃØÃÜ²»¿Ï¸æËßÎÒ£¿£¡ 
+others":"$NÒ»Á³ºüÒÉµØ»·ÊÓÖÚÈË£¬ËµµÀ£ºÄãÃÇÊÇ²»ÊÇÓÐÊ²Ã´ÃØÃÜ²»¿Ï¸æËßÎÒ£¿£¡ 
+others_target":"$N×óÓÒ¿´ÁË¿´£¬°Ñ$nÀ­µ½Ò»ÅÔÇÄÉùËµµÀ£ºÀ´À´À´£¬ÎÒÀ´¸æËßÄãÒ»¼þÊÂ£¬Äã¿ÉÇ§Íò²»ÄÜ¶ÔÅÔÈËËµÑ½£¡ 
+ÿ ÿ ÿ ÿ ÿ ÿ ÿ ÿ ÕâÊÂ¿ÉÎ¯Êµ ...£¬Î¯Êµ·ÇÍ¬Ð¡¿É£¡£¡
+target":"$N×óÓÒ¿´ÁË¿´£¬°Ñ$pÀ­µ½Ò»ÅÔÇÄÉùËµµÀ£ºÀ´À´À´£¬ÎÒÀ´¸æËßÄãÒ»¼þÊÂ£¬Äã¿ÉÇ§Íò²»ÄÜ¶ÔÅÔÈËËµÑ½£¡
+ÿ ÿ ÿ ÿ ÿÕâÊÂ¿ÉÎ¯Êµ ...£¬Î¯Êµ·ÇÍ¬Ð¡¿É£¡£¡
+myself_target":"$P×óÓÒ¿´ÁË¿´£¬°Ñ$nÀ­µ½Ò»ÅÔÇÄÉùËµµÀ£ºÀ´À´À´£¬ÎÒÀ´¸æËßÄãÒ»¼þÊÂ£¬Äã¿ÉÇ§Íò²»ÄÜ¶ÔÅÔÈËËµÑ½£¡
+ÿ ÿ ÿ ÿ ÿ ÿ ÿ ÿ ÕâÊÂ¿ÉÎ¯Êµ ...£¬Î¯Êµ·ÇÍ¬Ð¡¿É£¡£¡
+
+shajiabang1
+myself_self":"$PÐÄÏë£º¡°×÷ÎªÒ»¸öÅ®ÈË£¬ÎÒÓÐÊ²Ã´²»Ñ°³£µÄÄØ£¿¡± 
+others_self":"$NÐÄÏë£º¡°×÷ÎªÒ»¸öÅ®ÈË£¬ÎÒÓÐÊ²Ã´²»Ñ°³£µÄÄØ£¿¡±
+updated":"pig","myself":"$PÖåÁËÖåÃ¼£¬³ªµÀ£º¡°Õâ¸öÅ®ÈËÄÄ¡«°¡¡«°¡¡«£¬²»Ñ°¡«¡«³££¡¡± 
+others":"$NÖåÁËÖåÃ¼£¬³ªµÀ£º¡°Õâ¸öÅ®ÈËÄÄ¡«°¡¡«°¡¡«£¬²»Ñ°¡«¡«³££¡¡±
+others_target":"$NÖåÁËÖåÃ¼£¬¿´×Å$n³ªµÀ£º¡°Õâ¸öÅ®ÈËÄÄ¡«°¡¡«°¡¡«£¬²»Ñ°¡«¡«³££¡¡±
+target":"$NÖåÁËÖåÃ¼£¬¿´×Å$p³ªµÀ£º¡°Õâ¸öÅ®ÈËÄÄ¡«°¡¡«°¡¡«£¬²»Ñ°¡«¡«³££¡¡±
+myself_target":"$PÖåÁËÖåÃ¼£¬¿´×Å$n³ªµÀ£º¡°Õâ¸öÅ®ÈËÄÄ¡«°¡¡«°¡¡«£¬²»Ñ°¡«¡«³££¡¡±
+
+shake
+updated":"xiang","myself":"$PÒ¡ÁËÒ¡Í·¡£ 
+others":"$N°ÑÍ·Ò¡µÃ¸ú²¦ÀË¹ÄËÆµÄ¡£ 
+others_target":"$N¶Ô×Å$nÒ¡ÁËÒ¡Í·¡£
+target":"$N¶Ô×Å$pÒ¡ÁËÒ¡Í·¡£ 
+myself_target":"$P¶Ô×Å$nÒ¡ÁËÒ¡Í·¡£
+
+shameless
+myself_self":"$P×ÔºÀµØÐû²¼£º¡°ÎäÁÖÖÐÎÒ×îÎÞ³Ü£¬ÄãÃÇÄÜ°ÑÎÒÔõÃ´Ñù£¡¡± 
+others_self":"$N×ÔºÀµØÐû²¼£º¡°ÎäÁÖÖÐÎÒ×îÎÞ³Ü£¬ÄãÃÇÄÜ°ÑÎÒÔõÃ´Ñù£¡¡± 
+updated":"pig","myself":"$P¶Ô´ó¼ÒÒ¡Ò¡Í·£¬Ì¾µÀ£º¡° ÄãÃÇ¶¼Ì«²»ÒªÁ³ÁË¡£¡± 
+others":"$N¶Ô´ó¼ÒÒ¡Ò¡Í·£¬Ì¾µÀ£º¡°ÄãÃÇ¶¼Ì«²»ÒªÁ³ÁË¡£¡±
+others_target":"$N¶Ô$nËµµÀ£º¡°ÄãÕâ¸öÈËÔõÃ´Á³Æ¤±È³ÇÇ½¹ÕÍä¶ù»¹ºñ£¡¡±
+target":"$N¶Ô$pËµµÀ£º¡°ÄãÕâ¸öÈËÔõÃ´Á³Æ¤±È³ÇÇ½¹ÕÍä¶ù»¹ºñ£¡¡± 
+myself_target":"$P¶Ô$nËµµÀ£º¡°ÄãÕâ¸öÈËÔõÃ´Á³Æ¤±È³ÇÇ½¹ÕÍä¶ù»¹ºñ£¡¡±
+
+shameless1
+updated":"venus","myself":"$PÏëÆð×Ô¼ºËù×ö¹ýµÄÖÖÖÖÉËÌìº¦ÀíÖ®ÊÂ£¬¶ÙÊ±¸Ðµ½ÎÞµØ×ÔÈÝ¡£ 
+others":"$NÏëÆð×Ô¼ºËù×ö¹ýµÄÖÖÖÖÉËÌìº¦ÀíÖ®ÊÂ£¬¶ÙÊ±¸Ðµ½ÎÞµØ×ÔÈÝ¡£ 
+others_target":"$NºáÃ¼êªÖ¸$n´óÂîµÀ£ºÄãÕâ$r£¬¸ÉÁËÄÇÃ´¶àÉËÌìº¦ÀíÖ®ÊÂ£¬»¹ÓÐÁ³ÔÚ´Ë´óÑÔ²»²Ñ£¿ 
+target":"$NºáÃ¼êªÖ¸$p´óÂîµÀ£ºÄãÕâ$r£¬¸ÉÁËÄÇÃ´¶àÉËÌìº¦ÀíÖ®ÊÂ£¬»¹ÓÐÁ³ÔÚ´Ë´óÑÔ²»²Ñ£¿ 
+myself_target":"$PºáÃ¼êªÖ¸$n´óÂîµÀ£ºÄãÕâ$r£¬¸ÉÁËÄÇÃ´¶àÉËÌìº¦ÀíÖ®ÊÂ£¬»¹ÓÐÁ³ÔÚ´Ë´óÑÔ²»²Ñ£¿
+
+shameless2
+updated":"myself":"$P×ÔºÀµØÐû²¼£º¡°ÎäÁÖÖÐÎÒ×îÎÞ³Ü£¬ÄãÃÇÄÜ°ÑÎÒÔõÃ´Ñù£¡¡±
+others":"$N×ÔºÀµØÐû²¼£º¡°ÎäÁÖÖÐÎÒ×îÎÞ³Ü£¬ÄãÃÇÄÜ°ÑÎÒÔõÃ´Ñù£¡¡±
+others_target":"$N×ÔºÀµØÐû²¼£º¡°ÎäÁÖÖÐÎÒ×îµÚ¶þÎÞ³Ü£¬½ö´ÎÓÚ$nÕâ¸ö$r£¡¡± 
+target":"$N×ÔºÀµØÐû²¼£º¡°ÎäÁÖÖÐÎÒ×îµÚ¶þÎÞ³Ü£¬½ö´ÎÓÚ$pÕâ¸ö$r£¡¡± 
+myself_target":"$P×ÔºÀµØÐû²¼£º¡°ÎäÁÖÖÐÎÒ×îµÚ¶þÎÞ³Ü£¬½ö´ÎÓÚ$nÕâ¸ö$r£¡¡±
+
+shout
+myself_self":"$PÒ§ÑÀÇÐ³ÝµØ¶Ô×ÅÌì¿Õ´ó½Ð£º¡°ÓÐ³¯Ò»ÈÕ£¬ÎÒ¡­ÎÒ¡­¡± 
+others_self":"$NÒ§ÑÀÇÐ³ÝµØ¶Ô×ÅÌì¿Õ´ó½Ð£º¡°ÓÐ³¯Ò»ÈÕ£¬ÎÒ¡­ÎÒ¡­¡± 
+updated":"dts","myself":"$PÒ§ÑÀÇÐ³ÝµØ¶Ô×ÅÌì¿Õ´ó½Ð£º¡°ÔôÀÏÌì£¡¡± 
+others":"$NÒ§ÑÀÇÐ³ÝµØ¶Ô×ÅÌì¿Õ´ó½Ð£º¡°ÔôÀÏÌì£¡¡± 
+others_target":"$NµÉ´óÑÛ£¬¶Ô×Å$n´óÉùº°µÀ£º¡°×óÓÒÊÇ¸öËÀ£¬$s¸úÄãÆ´ÁË£¡¡± 
+target":"$NµÉ´óÑÛ£¬¶Ô×Å$p´óÉùº°µÀ£º¡°×óÓÒÊÇ¸öËÀ£¬$s¸úÄãÆ´ÁË£¡¡±
+myself_target":"$PµÉ´óÑÛ£¬¶Ô×Å$n´óÉùº°µÀ£º¡°×óÓÒÊÇ¸öËÀ£¬$s¸úÄãÆ´ÁË£¡¡± " 
+
+shrug 
+updated":"myself":"$PËÊÁËËÊ¼ç¡£ 
+others":"$NÎÞÄÎµØËÊÁËËÊ¼ç¡£
+others_target":"$N¶Ô×Å$nÎÞÄÎµØËÊÁËËÊ¼ç¡£ 
+target":"$N¶Ô×Å$pÎÞÄÎµØËÊÁËËÊ¼ç¡£
+myself_target":"$P¶Ô×Å$nËÊÁËËÊ¼ç¡£ 
+
+shutup
+myself_self":"$P°ÑÒ»ÕÅ¹·Æ¤¸àÒ©·ÅÔÚÐ¡Í­Â¯ÉÏìÐÈÈÁË£¬ÕÕ×¼×Ô¼¸µÄ×ì°ÉÌùÁËÉÏÈ¥¡£ 
+others_self":"$N°ÑÒ»ÕÅ¹·Æ¤¸àÒ©·ÅÔÚÐ¡Í­Â¯ÉÏìÐÈÈÁË£¬ÕÕ×¼×Ô¼¸µÄ×ì°ÉÌùÁËÉÏÈ¥¡£ 
+updated":"cleansword","myself":"$PÂúÍ·´óº¹µØ¶×ÔÚÐ¡Í­Â¯±ßìÐËûµÄ¹·Æ¤¸àÒ©¡£ 
+others":"$NÂúÍ·´óº¹µØ¶×ÔÚÐ¡Í­Â¯±ßìÐËûµÄ¹·Æ¤¸àÒ©¡£ 
+others_target":"$N°ÑÒ»ÕÅ¹·Æ¤¸àÒ©·ÅÔÚÐ¡Í­Â¯ÉÏÏ¸Ï¸µØìÐÈÈÁË£¬ÇáÇáÍÐ×¡$nµÄÏÂ°Í£¬°ÈµØÌùÁËÉÏÈ¥¡£ 
+target":"$N°ÑÒ»ÕÅ¹·Æ¤¸àÒ©·ÅÔÚÐ¡Í­Â¯ÉÏÏ¸Ï¸µØìÐÈÈÁË£¬ÇáÇáÍÐ×¡$pµÄÏÂ°Í£¬°ÈµØÌùÁËÉÏÈ¥¡£
+myself_target":"$P°ÑÒ»ÕÅ¹·Æ¤¸àÒ©·ÅÔÚÐ¡Í­Â¯ÉÏÏ¸Ï¸µØìÐÈÈÁË£¬ÇáÇáÍÐ×¡$nµÄÏÂ°Í£¬°ÈµØÌùÁËÉÏÈ¥¡£
+
+shutup1 
+myself_self":"$PÒ»°ÑÎæ×¡×Ô¼ºµÄ×ì£¬Ò»±ßàÖ¹¾£º¡°ºÃºº²»³ÔÑÛÇ°¿÷£¬ÎÒ»¹ÊÇ±Õ×ìÎªÃî£¡¡± 
+others_self":"$NÒ»°ÑÎæ×¡×Ô¼ºµÄ×ì£¬Ò»±ßàÖ¹¾£º¡°ºÃºº²»³ÔÑÛÇ°¿÷£¬ÎÒ»¹ÊÇ±Õ×ìÎªÃî£¡¡±
+updated":"sherry","myself":"$PÄÃ³öÒ»°ÑÌØ´óµÄ²ÔÓ¬ÅÄ£¬ÎèÁËÎèËµ£º¡°ÄãÃÇÕâÐ©ÎÚÑ»×ì£¬¶¼¸øÎÒÍ¨Í¨±ÕÉÏ£¡¡±
+others":"$NÄÃ³öÒ»°ÑÌØ´óµÄ²ÔÓ¬ÅÄ£¬ÎèÁËÎèËµ£º¡°ÄãÃÇÕâÐ©ÎÚÑ»×ì£¬¶¼¸øÎÒÍ¨Í¨±ÕÉÏ£¡¡±
+others_target":"$NÄÃ³öÒ»°ÑÌØ´óµÄ²ÔÓ¬ÅÄ£¬Å¾µØÒ»Éù´òÔÚ$nµÄ×ìÉÏ£¬ºÈµÀ£º¡°¿ì±ÕÉÏÄãÕâÈý°Ë×ì£¡¡± 
+target":"$NÄÃ³öÒ»°ÑÌØ´óµÄ²ÔÓ¬ÅÄ£¬Å¾µØÒ»Éù´òÔÚ$pµÄ×ìÉÏ£¬ºÈµÀ£º¡°¿ì±ÕÉÏÄãÕâÈý°Ë×ì£¡¡± 
+myself_target":"$PÄÃ³öÒ»°ÑÌØ´óµÄ²ÔÓ¬ÅÄ£¬Å¾µØÒ»Éù´òÔÚ$nµÄ×ìÉÏ£¬ºÈµÀ£º¡°¿ì±ÕÉÏÄãÕâÈý°Ë×ì£¡¡± 
+
+shy
+myself_self":"$P¹Î×Å×Ô¼ºµÄÃæ¼Õ£¬ÐßÐßÐß¡£ 
+others_self":"$N¹Î×Å×Ô¼ºµÄÃæ¼ÕËµ£º¡°ÐßÐßÐß£¡£¡£¡¡± 
+updated":"venus","myself":"$PÐßµÃÂúÃæÍ¨ºì¡£ 
+others":"Ò»¶äºìÔÆ·ÉÉÏÁË$NµÄÃæ¼Õ¡£ 
+others_target":"$N¹Î×Å$nµÄ±Ç×ÓËµ£º¡°²»Ðß£¬²»Ðß¡£¡£¡£¡±
+target":"$N¹Î×ÅÄãµÄ±Ç×ÓËµ£º¡°²»Ðß£¬²»Ðß¡£¡£¡£¡±
+myself_target":"$PÉìÊÖ¹Î×Å$nµÄ±Ç×Ó£¬Ð¦µÀ£º¡°²»Ðß£¬²»Ðß¡£¡£¡£¡±
+
+sigh
+updated":"xiang","myself":"$PÌ¾ÁË¿ÚÆø¡£
+others":"$NÉîÉîµØÌ¾ÁË¿ÚÆø¡£
+others_target":"$N¿´×Å$n£¬ÉîÉîµØÌ¾ÁË¿ÚÆø¡£
+target":"$N¿´×Å$p£¬Ì¾ÁË¿ÚÆø¡£
+myself_target":"$P¿´×Å$n£¬Ì¾ÁË¿ÚÆø¡£ 
+
+sigh1
+myself_self":"$PÌ¾ÁË¿ÚÆø£¬ËµµÀ£º¡°ÄÑµÃÊÀÉÏ¾ÓÈ»»¹ÓÐÈËÖªµÀ$NµÄÃû×Ö¡£¡±
+others_self":"$NÌ¾ÁË¿ÚÆø£¬ËµµÀ£º¡°ÄÑµÃÊÀÉÏ¾ÓÈ»»¹ÓÐÈËÖªµÀ$NµÄÃû×Ö¡£¡± 
+updated":"connie","myself":"$PºÜÓÐ÷ÈÁ¦µØÌ¾ÁË¿ÚÆø¡£ 
+others":"$NºÜÓÐ÷ÈÁ¦µØÌ¾ÁË¿ÚÆø¡£ 
+others_target":"$NÌ¾ÁË¿ÚÆø£¬ËµµÀ£º¡°$nÔÙÒ²²»ÊÇÒÔÇ°µÄ$nÁË¡£¡± 
+target":"$NÌ¾ÁË¿ÚÆø£¬ËµµÀ£º¡°$nÔÙÒ²²»ÊÇÒÔÇ°µÄ$nÁË¡£¡± 
+myself_target":"$PÌ¾ÁË¿ÚÆø£¬ËµµÀ£º¡°$nÔÙÒ²²»ÊÇÒÔÇ°µÄ$nÁË¡£¡± " 
+
+sign1
+myself_self":"$PÓÖÎÊ£ºÎåÁ½»Æ½ð£¬ÎåÁ½°×ÒøÂô²»Âô£¿
+others_self":"$NÓÖÎÊ£ºÎåÁ½»Æ½ð£¬ÎåÁ½°×ÒøÂô²»Âô£¿
+updated":"connie","myself":"$P´ðµÀ£ºÓÐÊÇÓÐ£¬¼ÛÇ®Ì«¹ó£¬ÒªÈýÁ½»Æ½ð£¬ÈýÁ½°×Òø¡£
+others":"$N´ðµÀ£ºÓÐÊÇÓÐ£¬¼ÛÇ®Ì«¹ó£¬ÒªÈýÁ½»Æ½ð£¬ÈýÁ½°×Òø¡£
+others_target":"$NÏò$nÎÊµÀ£ºÓÐÃ»ÓÐ°üÖÎ°Ù²¡µÄ¹·Æ¤¸àÒ©£¿
+target":"$NÏò$pÎÊµÀ£ºÓÐÃ»ÓÐ°üÖÎ°Ù²¡µÄ¹·Æ¤¸àÒ©£¿ 
+myself_target":"$PÏò$nÎÊµÀ£ºÓÐÃ»ÓÐ°üÖÎ°Ù²¡µÄ¹·Æ¤¸àÒ©£¿ 
+
+sign2
+updated":"myself":"$P´óÉùËµ£ºÃÅ³¯´óº££¬Èý½­ºÏË®ÍòÄêÁ÷¡£ 
+others":"$N´óÉùËµ£ºÃÅ³¯´óº££¬Èý½­ºÏË®ÍòÄêÁ÷¡£ 
+others_target":"$NÒ»¹°ÊÖ£¬¶Ô$nËµ£ºµØÕñ¸ß¸Ô£¬Ò»ÅÉÏªÉ½Ç§¹ÅÐã¡£
+target":"$NÒ»¹°ÊÖ£¬¶Ô$pËµ£ºµØÕñ¸ß¸Ô£¬Ò»ÅÉÏªÉ½Ç§¹ÅÐã¡£ 
+myself_target":"$PÒ»¹°ÊÖ£¬¶Ô$nËµ£ºµØÕñ¸ß¸Ô£¬Ò»ÅÉÏªÉ½Ç§¹ÅÐã¡£
+
+sing 
+updated":"xiang","myself":"$P³ªÆð¸èÀ´¡£
+others":"$NÓä¿ìµØ³ªÆð¸èÀ´¡£
+others_target":"$N¶Ô×Å$nÓä¿ìµØ³ªÆð¸èÀ´¡£
+target":"$N¶Ô×Å$pÓä¿ìµØ³ªÆð¸èÀ´¡£ 
+myself_target":"$P¶Ô×Å$n³ªÆð¸èÀ´¡£
+
+sing2 
+myself_self":"Äã¶Ô×Å×Ô¼ºµÄÄÔ´ü»ÓÎè´óµ¶£¬Òý¿Ô¸ß¸è£º¡°´óµ¶£­£­Ïò¡¢ÎÒµÄÍ·ÉÏ¿³È¥£¡¡± 
+others_self":"$N¶Ô×Å×Ô¼ºµÄÄÔ´ü»ÓÎè´óµ¶£¬Òý¿Ô¸ß¸è£º¡°´óµ¶£­£­Ïò¡¢ÎÒµÄÍ·ÉÏ¿³È¥£¡¡± 
+updated":"fang","myself":"Äã»ÓÎè´óµ¶£¬Òý¿Ô¸ß¸è£º¡°´óµ¶£­£­Ïò¡¢¹í×ÓµÄÍ·ÉÏ¿³È¥£¡¡± 
+others":"$N»ÓÎè´óµ¶£¬Òý¿Ô¸ß¸è£º¡°´óµ¶£­£­Ïò¡¢¹í×ÓµÄÍ·ÉÏ¿³È¥£¡¡±
+others_target":"$N¶Ô×Å$n»ÓÎè´óµ¶£¬Òý¿Ô¸ß¸è£º¡°´óµ¶£­£­Ïò¡¢$nµÄÍ·ÉÏ¿³È¥£¡¡±
+target":"$N¶Ô×ÅÄã»ÓÎè´óµ¶£¬Òý¿Ô¸ß¸è£º¡°´óµ¶£­£­Ïò¡¢$nµÄÍ·ÉÏ¿³È¥£¡¡±
+myself_target":"Äã¶Ô×Å$n»ÓÎè´óµ¶£¬Òý¿Ô¸ß¸è£º¡°´óµ¶£­£­Ïò¡¢$nµÄÍ·ÉÏ¿³È¥£¡¡± 
+
+sing3 
+myself_self":"Äã¿ìÀÖµØ³ª×Å£º¡°ÎÒÃÇÊÇº¦³æ£¬ÎÒÃÇÊÇº¦³æ¡­¡­¡±
+others_self":"$N¿ìÀÖµØ³ª×Å£º¡°ÎÒÃÇÊÇº¦³æ£¬ÎÒÃÇÊÇº¦³æ¡­¡­¡± 
+updated":"fang","myself":"Äã¿ìÀÖµØ³ª×Å£º¡°ÎÒÃÇÊÇº¦³æ£¬ÎÒÃÇÊÇº¦³æ¡­¡­¡± 
+others":"$N¿ìÀÖµØ³ª×Å£º¡°ÎÒÃÇÊÇº¦³æ£¬ÎÒÃÇÊÇº¦³æ¡­¡­¡±
+others_target":"$N¶Ô$n¶ñºÝºÝµØ³ª£º¡°Ò»¶¨Òª°Ñº¦³æÉ±ËÀ£¬É±ËÀ£¡¡± 
+target":"$N¶ÔÄã¶ñºÝºÝµØ³ª£º¡°Ò»¶¨Òª°Ñº¦³æÉ±ËÀ£¬É±ËÀ£¡¡±
+myself_target":"Äã¶Ô$n¶ñºÝºÝµØ³ª£º¡°Ò»¶¨Òª°Ñº¦³æÉ±ËÀ£¬É±ËÀ£¡¡± 
+
+sister
+myself_self":"$PÐÄÏë£ºÎÒÒªÊÇÓÐ¸ö½ã½ã¾ÍºÃÁË¡£$PÓúÏëÓúÄÑ¹ý£¬ÑÛÀáÁ÷ÁË³öÀ´¡£ 
+others_self":"$NÐÄÏë£ºÎÒÒªÊÇÓÐ¸ö½ã½ã¾ÍºÃÁË¡£$PÓúÏëÓúÄÑ¹ý£¬ÑÛÀáÁ÷ÁË³öÀ´¡£
+updated":" myself":"$P×÷ÁËÒ»¸öÒ¾£¬ËµµÀ£º¡°¸÷Î»½ãÃÃÃÇ£¬´ó¼ÒºÃ£¡¡± 
+others":"$N×÷ÁËÒ»¸öÒ¾£¬ËµµÀ£º¡°¸÷Î»½ãÃÃÃÇ£¬´ó¼ÒºÃ£¡¡± 
+others_target":"$N¶Ô$nÐÐÁË¸öÀñ£¬ËµµÀ£º¡°$n½ã½ãºÃ£¡¡± 
+target":"$N¶Ô$pÐÐÁË¸öÀñ£¬ËµµÀ£º¡°$n½ã½ãºÃ£¡¡±
+myself_target":"$P¶Ô$nÐÐÁË¸öÀñ£¬ËµµÀ£º¡°$n½ã½ãºÃ£¡¡± 
+
+sister1
+updated":"java","myself":"$PËµ£º¡°¸÷Î»ÃÀÃ¼ºÃÑ½£¡¡± 
+others":"$NËµ£º¡°¸÷Î»ÃÀÃ¼ºÃÑ½£¡¡± 
+others_target":"$N¶Ô×Å$n°ç¸ö¹íÁ³Ëµ£º¡°$nÃÀÃ¼ºÃÑ½£¡¡±
+target":"$N¶Ô×Å$p°ç¸ö¹íÁ³Ëµ£º¡°$nÃÀÃ¼ºÃÑ½£¡¡± 
+myself_target":"$P¶Ô×Å$n°ç¸ö¹íÁ³Ëµ£º¡°$nÃÀÃ¼ºÃÑ½£¡¡±
+
+slap
+myself_self":"$PÃ®×ãÁË¾¢É¿×Ô¼º¶ú¹â£¬¸ú´ó»ïËµ£º¿ìÀ´É¿ÎÒ£¬²»É¿°×²»É¿¡£
+others_self":"$NÃ®×ãÁË¾¢É¿×Ô¼º¶ú¹â£¬¸ú´ó»ïËµ£º¿ìÀ´É¿ÎÒ£¬²»É¿°×²»É¿¡£
+updated": myself":"$PµÄÊÖºÜÑ÷¡£ others":"$NµÄÊÖºÃÏó´À´ÀÓû¶¯¡£ 
+others_target":"$N´òÁË$nÒ»¼ÇÏìÁÁµÄ¶ú¹â¡£$nÖ±ÄÉÃÆ£ºÔõÃ´°×Ìì³öÐÇÐÇ£¿
+target":"$N´òÁË$pÒ»¼ÇÏìÁÁµÄ¶ú¹â¡£
+myself_target":"$P´òÁË$nÒ»¼ÇÏìÁÁµÄ¶ú¹â¡£ 
+
+slapsb
+myself_self":"$PÇÄÇÄÈÆµ½²ÞËù±³ºó£¬¿´¼ûÄ³ÈËÕý¶×ÔÚ½ÇÂäÀïÔìÒ¥¡£$P´óºÈÒ»Éù£º¡¸Ô­À´ÊÇÄãÐ¡×Ó£¡¡¹Ä³ÈËÒ»ÀãÖ®¼ä£¬
+ÿ ÿ ÿ ÿ ÿ ÿ ÿ $PµÄ´ó°ÍÕÆÒÑ¾­É¿µ½ÁËËûÁ³ÉÏ£¡
+others_self":"$NÇÄÇÄÈÆµ½²ÞËù±³ºó£¬¿´¼ûÄ³ÈËÕý¶×ÔÚ½ÇÂäÀïÔìÒ¥¡£$P´óºÈÒ»Éù£º¡¸Ô­À´ÊÇÄãÐ¡×Ó£¡¡¹Ä³ÈËÒ»ÀãÖ®¼ä£¬
+ÿ ÿ ÿ ÿ ÿ ÿ ÿ $NµÄ´ó°ÍÕÆÒÑ¾­É¿µ½ÁËËûÁ³ÉÏ£¡ 
+updated":"myself":"$P¸ßÉù½ÐÂî£º¡¸ÓÖÊÇÄÄ¸öÍõ°Ëµ°ÔÚÔìÒ¥£¿ÒªÈÃ$sÕÒµ½ÁË·ÇÉ¿Ëû¼¸¸ö×ì°Í²»¿É£¡¡¹ 
+others":"$N¸ßÉù½ÐÂî£º¡¸ÓÖÊÇÄÄ¸öÍõ°Ëµ°ÔÚÔìÒ¥£¿ÒªÈÃ$sÕÒµ½ÁË·ÇÉ¿Ëû¼¸¸ö×ì°Í²»¿É£¡¡¹ 
+others_target":"$N¶Ô×Å$nÅ­Ä¿¶øÊÓ£º¡¸ÊÇ²»ÊÇÓÖÊÇÄãÕâ¸ö$rÔÚÔìÒ¥£¿¿´$sÕÆÄã×ì£¡¡¹
+target":"$N¶Ô×Å$pÅ­Ä¿¶øÊÓ£º¡¸ÊÇ²»ÊÇÓÖÊÇÄãÕâ¸ö$rÔÚÔìÒ¥£¿¿´$sÕÆÄã×ì£¡¡¹
+myself_target":"$P¶Ô×Å$nÅ­Ä¿¶øÊÓ£º¡¸ÊÇ²»ÊÇÓÖÊÇÄãÕâ¸ö$rÔÚÔìÒ¥£¿¿´$sÕÆÄã×ì£¡¡¹ 
+
+slash
+myself_self":"$P²»Ð¡ÐÄ£¬Ò»µ¶¿³ÔÚ×Ô¼ºÉíÉÏ¡£ 
+others_self":"$N²»Ð¡ÐÄ£¬Ò»µ¶¿³ÔÚ×Ô¼ºÉíÉÏ¡£ 
+updated":"ding","myself":"$PÎèÁË¸öµ¶»¨¡£ 
+others":"$NÎèÁË¸öµ¶»¨¡£ 
+others_target":"$NÅ­»ðÖÐÉÕ£¬Ò»µ¶°Ñ$nÅü³ÉÁ½°ë! 
+target":"$NÅ­»ðÖÐÉÕ£¬Ò»µ¶°Ñ$pÅü³ÉÁ½°ë!
+myself_target":"$PÅ­»ðÖÐÉÕ£¬Ò»µ¶°Ñ$nÅü³ÉÁ½°ë! 
+
+slogan
+myself_self":"Äã¸ß¾ÙÓÒÈ­£¬Ò§ÑÀÇÐ³ÝµØ¸ßºô£º¡°´òµ¹$N£¡¡± 
+others_self":"$N¸ß¾ÙÓÒÈ­£¬Ò§ÑÀÇÐ³ÝµØ¸ßºô£º¡°´òµ¹$N£¡¡± 
+updated":"fang","myself":"Äã¸ß¾ÙÓÒÈ­£¬Ò§ÑÀÇÐ³ÝµØ¸ßºô£º¡°´òµ¹ÏÀ¿ÍÐÐ£¡¡± 
+others":"$N¸ß¾ÙÓÒÈ­£¬Ò§ÑÀÇÐ³ÝµØ¸ßºô£º¡°´òµ¹ÏÀ¿ÍÐÐ£¡¡± 
+others_target":"$N¸ß¾ÙÓÒÈ­£¬Ò§ÑÀÇÐ³ÝµØ¸ßºô£º¡°´òµ¹$n£¡¡± 
+target":"$N¸ß¾ÙÓÒÈ­£¬¶Ô×ÅÄãÒ§ÑÀÇÐ³ÝµØ¸ßºô£º¡°´òµ¹$n£¡¡± 
+myself_target":"Äã¸ß¾ÙÓÒÈ­£¬Ò§ÑÀÇÐ³ÝµØ¸ßºô£º¡°´òµ¹$n£¡¡± ," 
+
+slogan2 
+myself_self":"ÄãÕñ±Û¸ßºô£º¡°ÎÒÃÇÈÈ°®$N£¬$NÍòËê£¡¡± 
+others_self":"$NÕñ±Û¸ßºô£º¡°ÎÒÃÇÈÈ°®$N£¬$NÍòËê£¡¡± 
+updated":"fang","myself":"ÄãÕñ±Û¸ßºô£º¡°ÎÒÃÇÈÈ°®ÏÀ¿ÍÐÐ£¬ÏÀ¿ÍÐÐÍòËê£¡¡±
+others":"$NÕñ±Û¸ßºô£º¡°ÎÒÃÇÈÈ°®ÏÀ¿ÍÐÐ£¬ÏÀ¿ÍÐÐÍòËê£¡¡±
+others_target":"$NÕñ±Û¸ßºô£º¡°ÎÒÃÇÈÈ°®$n£¬$nÍòËê£¡¡± 
+target":"$NÕñ±Û¸ßºô£º¡°ÎÒÃÇÈÈ°®$n£¬$nÍòËê£¡¡± 
+myself_target":"ÄãÕñ±Û¸ßºô£º¡°ÎÒÃÇÈÈ°®$n£¬$nÍòËê£¡¡± 
+
+slogan3 
+myself_self":"ÄãÍ¦ÆðÐØÌÅ£¬´óÉùº°µÀ£º¡°Îª×Ô¼º·þÎñ£¡¡± 
+others_self":"$NÍ¦ÆðÐØÌÅ£¬´óÉùº°µÀ£º¡°Îª×Ô¼º·þÎñ£¡¡±
+updated":"fang","myself":"ÄãÍ¦ÆðÐØÌÅ£¬´óÉùº°µÀ£º¡°ÎªÈËÃñ·þÎñ£¡¡± 
+others":"$NÍ¦ÆðÐØÌÅ£¬´óÉùº°µÀ£º¡°ÎªÈËÃñ·þÎñ£¡¡±
+others_target":"$N¶Ô×Å$nÍ¦ÆðÐØÌÅ£¬´óÉùº°µÀ£º¡°ÎªÈËÃñ·þÎñ£¡¡± 
+target":"$N¶Ô×ÅÄãÍ¦ÆðÐØÌÅ£¬´óÉùº°µÀ£º¡°ÎªÈËÃñ·þÎñ£¡¡±
+myself_target":"Äã¶Ô×Å$nÍ¦ÆðÐØÌÅ£¬´óÉùº°µÀ£º¡°ÎªÈËÃñ·þÎñ£¡¡± 
+
+smash
+myself_self":"$P¾ÙÆðË«ÊÖ£¬×ìÀïÄîÄîÓÐ´Ê£¬Ìì¿Õ¼äö®Ê±ÎÚÔÆÃÜ²¼£¬µçÉÁÀ×Ãù£¬±©ÓêÇãÅè¶øÏÂ£¡
+others_self":"$N¾ÙÆðË«ÊÖ£¬×ìÀïÄîÄîÓÐ´Ê£¬Ìì¿Õ¼äö®Ê±ÎÚÔÆÃÜ²¼£¬µçÉÁÀ×Ãù£¬±©ÓêÇãÅè¶øÏÂ£¡ 
+updated":myself":"$PÅû·¢ÕÌ½££¬ÄîÆðÌìÄ§´óÖä£¬ËÄÖÜ»ÄÒ°¼ä¶ÙÊ±¹í¿ÞÀÇº¿£¬Ìì¿ÕÉÏ´«À´ÕóÕóÄüÐ¦Éù£ºÄãÃÇ¶¼¸øÎÒËÀ°É£¡ 
+others":"$NÅû·¢ÕÌ½££¬ÄîÆðÌìÄ§´óÖä£¬ËÄÖÜ»ÄÒ°¼ä¶ÙÊ±¹í¿ÞÀÇº¿£¬Ìì¿ÕÉÏ´«À´ÕóÕóÄüÐ¦Éù£ºÄãÃÇ¶¼¸øÎÒËÀ°É£¡ 
+others_target":"$N¸ß¾ÙË«ÊÖ´óºÈ£ºÈ¥ËÀ°É£¡ ´ÓÌìÉÏ½µÏÂÒ»µÀÉÁµç½«$n»¯×÷Ò»¶Ñ»Ò½ý¡£
+target":"$N¸ß¾ÙË«ÊÖ´óºÈ£ºÈ¥ËÀ°É£¡ ´ÓÌìÉÏ½µÏÂÒ»µÀÉÁµç½«$p»¯×÷Ò»¶Ñ»Ò½ý¡£
+myself_target":"$P¸ß¾ÙË«ÊÖ´óºÈ£ºÈ¥ËÀ°É£¡ ´ÓÌìÉÏ½µÏÂÒ»µÀÉÁµç½«$n»¯×÷Ò»¶Ñ»Ò½ý¡£ 
+
+smell
+myself_self":"$P°ÑÊÖÖ¸²å½ø×Ô¸öµÄ½ÅÑ¾·ìÀï£¬ÔÙÂýÂýµØ°Î³öÀ´£¬Éìµ½±Ç¿×Àï£¬ºÜÌÕ×íµØÐá×Å¡£ 
+others_self":"$N°ÑÊÖÖ¸²å½ø×Ô¸öµÄ½ÅÑ¾·ìÀï£¬ÔÙÂýÂýµØ°Î³öÀ´£¬Éìµ½±Ç¿×Àï£¬ºÜÌÕ×íµØÐá×Å¡£ 
+updated":"connie","myself":"$PÖåÁËÖåÃ¼£¬ËÆºõÐáµ½Ê²÷á¶«Î÷ÉÕºýÁË¡£
+others":"$NÖåÁËÖåÃ¼£¬ËÆºõÐáµ½Ê²÷á¶«Î÷ÉÕºýÁË¡£
+others_target":"$NÑöÆðÁ³£¬Éì³¤±Ç×Ó¶Ô×Å¿ÕÆøÃÍÐáÁË¼¸ÏÂ£¬¶Ô×Å$n´óÉùÔÞµÀ£º\"ºÃÏã£¬ºÃÏã!\
+target":"$NÑöÆðÁ³£¬Éì³¤±Ç×Ó¶Ô×Å¿ÕÆøÃÍÐáÁË¼¸ÏÂ£¬¶Ô×Å$p´óÉùÔÞµÀ£º\"ºÃÏã£¬ºÃÏã!\" 
+myself_target":"$PÑöÆðÁ³£¬Éì³¤±Ç×Ó¶Ô×Å¿ÕÆøÃÍÐáÁË¼¸ÏÂ£¬¶Ô×Å$n´óÉùÔÞµÀ£º\"ºÃÏã£¬ºÃÏã!\" 
+
+smile
+myself_self":"$PÏëÆðÁË×Ô¼ºµÄ³õÁµÇéÈË¡£ 
+others_self":"$NÕýÔÚÒ»¸öÈËÍµÍµµØÐ¦£¬¶à°ë¸Õ¼ñ×Å¸öÇ®°ü¡£ 
+updated":"rover","myself":" $PßÖÁËßÖ×ì£¬±ðÈËÃ»¿´Çå£¬»¹ÒÔÎªÄãÔÚÎ¢Ð¦ÄØ¡£
+others":"$NÓä¿ìµØÎ¢Ð¦×Å¡£ ","others_target":"$N³¯$nÓä¿ìµØÎ¢Ð¦×Å¡£
+target":"$N¿´×ÅÄã»áÐÄµØÒ»Ð¦¡£ 
+myself_target":"$PßÖÁËßÖ×ì£¬$n»¹ÒÔÎªÄãÔÚ³å$pÀÖÄØ¡£ 
+
+smirk
+updated":"xiang","myself":"$PÉµÐ¦ÆðÀ´¡£
+others":"$N·¢³öÒ»ÕóÉµÐ¦¡£ 
+others_target":"$N¶Ô×Å$n·¢³öÒ»ÕóÉµÐ¦¡£ 
+target":"$N¶Ô×Å$pÒ»ÕóÉµÐ¦¡£
+myself_target":"$P¶Ô×Å$nÒ»ÕóÉµÐ¦¡£ 
+
+sneer
+updated":"xiang","myself":"$P¡¸ºß¡¹µØÀäÐ¦Ò»Éù¡£
+others":"$N¡¸ºß¡¹µØÀäÐ¦Ò»Éù¡£
+others_target":"$N¶Ô×Å$n¡¸ºß¡¹µØÀäÐ¦Ò»Éù¡£ 
+target":"$N¶Ô×Å$p¡¸ºß¡¹µØÀäÐ¦Ò»Éù¡£
+myself_target":"$P¶Ô×Å$n¡¸ºß¡¹µØÀäÐ¦Ò»Éù¡£ 
+
+sorry
+updated":"ding","myself":"$P¶ÔËùÓÐÔÚ³¡µÄÈË±íÊ¾Ç¸Òâ¡£
+others":"$N¶ÔËùÓÐÔÚ³¡µÄÈË±íÊ¾Ç¸Òâ¡£ 
+others_target":"$NÍ´¿ÞÁ÷ÌéµÄ°§Çó$nµÄÔ­ÁÂ¡£
+target":"$NÍ´¿ÞÁ÷ÌéµÄ°§Çó$pµÄÔ­ÁÂ¡£
+myself_target":"$PÍ´¿ÞÁ÷ÌéµÄ°§Çó$nµÄÔ­ÁÂ¡£ 
+
+soup 
+myself_self":"$P°ÑÉàÍ·Éìµ½¿Õ¿ÕµÄÌÀÍëÀïÌòÁËÒ»ÏÂ£¬ÔÙ±ÕÉÏÑÛ¾¦£¬ßÆÁËßÆ×ì£¬ËÆºõ»¹ÔÚ»ØÎ¶Ö®ÖÐ¡£ 
+others_self":"$N°ÑÉàÍ·Éìµ½¿Õ¿ÕµÄÌÀÍëÀïÌòÁËÒ»ÏÂ£¬ÔÙ±ÕÉÏÑÛ¾¦£¬ßÆÁËßÆ×ì£¬ËÆºõ»¹ÔÚ»ØÎ¶Ö®ÖÐ¡£ updated":"connie","myself":"$PµÍÖøÍ·ºÈÖøÒ»ÍëÈâÌÀ£¬±Ç×Ó½þµ½ÍëÖÐ£¬ºÍÌÀÀïµÄÈâ¿éÅöÀ´ÅöÈ¥¡£ 
+others":"$NµÍÖøÍ·ºÈÖøÒ»ÍëÈâÌÀ£¬±Ç×Ó½þµ½ÍëÖÐ£¬ºÍÌÀÀïµÄÈâ¿éÅöÀ´ÅöÈ¥¡£ 
+others_target":"$NÅåÉÏ$nµÄ½££¬ÊýÖø$nÇ®°üÀïµÄÒø×Ó£¬ºÈÖøÒ»ÍëÌÀ£¬ÌÀÉÏÆ¯Öø¼¸¿é·Ê·Ê°×°×µÄÈâÆ¬¡£
+target":"$NÅåÉÏ$pµÄ½££¬ÊýÖø$pÇ®°üÀïµÄÒø×Ó£¬ºÈÖøÒ»ÍëÌÀ£¬ÌÀÉÏÆ¯Öø¼¸¿é·Ê·Ê°×°×µÄÈâÆ¬¡£ 
+myself_target":"$PÅåÉÏ$nµÄ½££¬ÊýÖø$nÇ®°üÀïµÄÒø×Ó£¬ºÈÖøÒ»ÍëÌÀ£¬ÌÀÉÏÆ¯Öø¼¸¿é·Ê·Ê°×°×µÄÈâÆ¬¡£ 
+
+spank 
+myself_self":"$PÓÃÁ¦ÅÄ×Å×Ô¼ºµÄ±³£¬Ò»¸±¡°ºÃÐ¡×Ó£¡¸ÉµÃºÃ¡±µÄ±íÇé¡£ 
+others_self":"$NÓÃÁ¦ÅÄ×Å$P×Ô¼ºµÄ±³£¬Ò»¸±¡°ºÃÐ¡×Ó£¡¸ÉµÃºÃ¡±µÄ±íÇé¡£
+updated": others_target":"$NÓÃÁ¦ÅÄ×Å$nµÄ±³£¬Ò»¸±¡°ºÃÐ¡×Ó£¡¸ÉµÃºÃ¡±µÄ±íÇé¡£ 
+target":"$NÓÃÁ¦ÅÄ×Å$pµÄ±³£¬Ò»¸±¡°ºÃÐ¡×Ó£¡¸ÉµÃºÃ¡±µÄ±íÇé¡£
+myself_target":"$PÓÃÁ¦ÅÄ×Å$nµÄ±³£¬Ò»¸±¡°ºÃÐ¡×Ó£¡¸ÉµÃºÃ¡±µÄ±íÇé¡£ 
+
+spank1
+myself_self":"$PÒ»ÕÆÅÄÔÚ×Ô¼ºµÄ±³ÉÏ£¬½á¹û¡°ÍÛ¡±µÄÒ»ÉùÍÂ³öÒ»¿ÚÏÊÑª¡£
+others_self":"$NÒ»ÕÆÅÄÔÚ$P×Ô¼ºµÄ±³ÉÏ£¬½á¹û¡°ÍÛ¡±µÄÒ»ÉùÍÂ³öÒ»¿ÚÏÊÑª¡£
+updated":"myself":"ÅÄË­£¿ others":"$NÒ»ÕÆÅÄÔÚÄ³Ä³µÄÉíÉÏ¡£
+others_target":"$N²»»³ºÃÒâµØÅÄÖø$nµÄ±³£¬Á³ÉÏÈ´ÊÇÒ»¸±¡¸ºÃÐ¡×Ó£¡¸ÉµÄºÃ¡¹µÄ±íÇé£¬
+ÿ ÿ ÿ ÿ ÿ ÿ ÿ ÿ ¿É$n¹ýÁË°ëÏì¾¹È»¡°ÍÛ¡±µÄÒ»ÉùÍÂ³öÁËÂúµØµÄÏÊÑª£¡ 
+target":"$N²»»³ºÃÒâµØÅÄÖøÄãµÄ±³£¬Á³ÉÏÒ»¸±¡¸ºÃÐ¡×Ó£¡¸ÉµÄºÃ¡¹µÄ±íÇé£¬¿ÉÄãÖ»¾õµÃºíÍ·Ò»Ìð£¬
+ÿ ÿ ÿ ÿ ¡°ÍÛ¡±µÄÒ»ÉùÍÂ³öÁËÒ»¿ÚÏÊÑª£¡ 
+myself_target":"$P²»»³ºÃÒâµØÅÄÖø$nµÄ±³£¬Á³ÉÏÒ»¸±¡¸ºÃÐ¡×Ó£¡¸ÉµÄºÃ¡¹µÄ±íÇé¡£
+
+stare
+myself_self":"$PµÀ£º¡°µÉÊ²Ã´µÉ£¬ÕâÌìËúÏÂÀ´Ò²ÓÐ´ó¸ö×Ó¶¥×Å£¬°­ÄãÊ²Ã´ÊÂ¡£¡± 
+others_self":"$NµÀ£º¡°µÉÊ²Ã´µÉ£¬ÕâÌìËúÏÂÀ´Ò²ÓÐ´ó¸ö×Ó¶¥×Å£¬°­ÄãÊ²Ã´ÊÂ¡£¡± 
+updated":"dts","myself":"$PÆø´­ÓõÓõ£¬Á½Ö»´óÑÛµÉµÃÍ¨ºì¡£
+others":"$NÆø´­ÓõÓõ£¬Á½Ö»´óÑÛµÉµÃÍ¨ºì¡£
+others_target":"$N¶ñºÝºÝµØ¶¢×Å$n£º$r£¬ÎÒ¿´ÄãÕâ´ÎÍùÄÄ¶ùÅÜ¡£ 
+target":"$N¶ñºÝºÝµØ¶¢×Å$p£º$r£¬ÎÒ¿´ÄãÕâ´ÎÍùÄÄ¶ùÅÜ¡£
+myself_target":"$P¶ñºÝºÝµØ¶¢×Å$n£º$r£¬ÎÒ¿´ÄãÕâ´ÎÍùÄÄ¶ùÅÜ¡£ " 
+
+stingy
+myself_self":"$PÒ§ÑÀÇÐ³ÝµØËµ£º¡°ÒªÊÇÎÒ³¤ÔÚÇ®ÑÛÀï¾ÍºÃÁË£¡¡± 
+others_self":"$NÒ§ÑÀÇÐ³ÝµØËµ£º¡°ÒªÊÇÎÒ³¤ÔÚÇ®ÑÛÀï¾ÍºÃÁË£¡¡±
+updated":"myself":"$P°¦ÉùÌ¾µÀ£º¡°Äã²»ÖªµÀÎÒÃ¿Ò»·ÖÇ®¶¼ºÞ²»µÃêþ³ÉÁ½°ë»¯£¡¡±
+others":"$N°¦ÉùÌ¾µÀ£º¡°Äã²»ÖªµÀÎÒÃ¿Ò»·ÖÇ®¶¼ºÞ²»µÃêþ³ÉÁ½°ë»¯£¡¡± 
+others_target":"$NÖ¸×Å$nËµ£º¡°ÄãÕâ¸öÁßØÄ¹í£¬Ö»ÅÂÌú¹«¼¦Óöµ½Äã¶¼Òª±»Äã°ÇÁËÆ¤£¡¡±
+target":"$NÖ¸×Å$pËµ£º¡°ÄãÕâ¸öÁßØÄ¹í£¬Ö»ÅÂÌú¹«¼¦Óöµ½Äã¶¼Òª±»Äã°ÇÁËÆ¤£¡¡±
+myself_target":"$PÖ¸×Å$nËµ£º¡°ÄãÕâ¸öÁßØÄ¹í£¬Ö»ÅÂÌú¹«¼¦Óöµ½Äã¶¼Òª±»Äã°ÇÁËÆ¤£¡¡±
+
+story
+myself_self":"$PÇåÁËÇåÉ¤×Ó£º£¢²»Òª³³£¡²»Òª³³£¡´ó¼Ò¶¼À´ÌýÎÒ½²¹ÊÊÂ¡££¢ 
+others_self":"$NÇåÁËÇåÉ¤×Ó£º£¢²»Òª³³£¡²»Òª³³£¡´ó¼Ò¶¼À´ÌýÎÒ½²¹ÊÊÂ¡££¢
+updated":"marz","myself":"$PÎÊµÀ£º£¢Ë­ÄÜ½²¸ö¹ÊÊÂ£¿£¢
+others":"$N£º£¢Ë­ÄÜ½²¸ö¹ÊÊÂ£¿£¢ 
+others_target":"$N¶Ô×Å$nÊ¹¾¢ÅÄ×Å°ÍÕÆ£º£¢ÏÂÃæÇë$n½²¹ÊÊÂ£¬´ó¼Ò¹ÄÕÆ»¶Ó­£¡£¢
+target":"$NÕö×Å´óÑÛ¾¦¹Ô¹ÔµØ×øÔÚÄã½Å±ß£¬µÈ×ÅÌý$p½²¹ÊÊÂ¡£
+myself_target":"$PÒªÌý$n½²¹ÊÊÂ¡£
+
+stuff
+myself_self":"$PÅÄÅÄ¶Ç×Ó£¬\"ßÀ!\" µØÒ»Éù´òÁË¸ö±¥àÃ¡£
+others_self":"$NÅÄÅÄ¶Ç×Ó£¬\"ßÀ!\" µØÒ»Éù´òÁË¸ö±¥àÃ¡£ 
+updated":myself":"$PÅÄÅÄ¶Ç×Ó£¬\"ßÀ!\" µØÒ»Éù´òÁË¸ö±¥àÃ¡£
+others":"$NÅÄÅÄ¶Ç×Ó£¬\"ßÀ!\" µØÒ»Éù´òÁË¸ö±¥àÃ¡£
+others_target":"$N\"ßÀ!\" µØÒ»Éù´òÁË¸ö±¥àÃ£¬Ò»¿Ú¾ÆÆø³å×Å$nÅçÁË¹ýÈ¥¡£ 
+target":"$N\"ßÀ!\" µØÒ»Éù´òÁË¸ö±¥àÃ£¬Ò»¿Ú¾ÆÆø³å×Å$pÅçÁË¹ýÈ¥¡£
+myself_target":"$P\"ßÀ!\" µØÒ»Éù´òÁË¸ö±¥àÃ£¬Ò»¿Ú¾ÆÆø³å×Å$nÅçÁË¹ýÈ¥¡£ 
+
+sweat
+myself_self":"Äã²ÁÁË²Áº¹. 
+others_self":"$N²ÁÁË²Áº¹,ÕæÀÛÑ½! 
+updated":"myself":"Äã²ÁÁË²Áº¹. 
+others":"$N²ÁÁË²Áº¹,ÕæÀÛÑ½! 
+others_target":"$NÌæ$n²ÁÁË²Á¶îÍ·ÉÏµÄº¹. 
+target":"$NÌæÄã²ÁÁË²Áº¹. 
+myself_target":"ÄãÌæ$n²ÁÁË²Áº¹. 
+

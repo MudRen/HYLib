@@ -1,0 +1,63 @@
+// sanjue.c ¡¸´ïÄ¦Èý¾ø½£¡¹                                                      
+#include <ansi.h>                                                               
+                                                                                
+inherit F_SSERVER;                                                              
+int perform(object me, object target)                                           
+{                                                                               
+        int damage;                                                             
+        string msg;                                                             
+        if( !target                                                             
+        ||      !target->is_character()                                         
+        ||      !me->is_fighting(target) )                                      
+               return notify_fail("¡¸´ïÄ¦Èý¾ø½£¡¹Ö»ÄÜÔÚÕ½¶·ÖÐÊ¹ÓÃ¡£\n");        
+        if( (int)me->query_skill("hunyuan-yiqi", 1) < 60 )                      
+                return notify_fail("ÄãµÄ»ìÔªÒ»Æø¹¦»ðºò²»¹»£¬²»»áÊ¹ÓÃ¡¸´ïÄ¦Èý¾ø½£
+¡¹¡£\n");                                                                       
+                                                                                
+        if( (int)me->query_dex() < 30 )                                         
+                return notify_fail("ÄãµÄÉí·¨²»¹»Áé»î£¬ÎÞ·¨Ê¹³ö¡¸´ïÄ¦Èý¾ø½£¡¹¡£\n
+");                                                                             
+                                                                                
+        if( (int)me->query("neili") < 300 )                                     
+                return notify_fail("ÄãµÄÄÚÁ¦²»¹»¸ß£¬ÎÞ·¨Ê¹³ö¡¸´ïÄ¦Èý¾ø½£¡¹¡£\n")
+;                                                                               
+                                                                                
+        if( (int)me->query_skill("dodge") < 135 )                               
+                return notify_fail("ÄãµÄÇá¹¦ÓÐÐ§µÈ¼¶²»¹»¸ß£¬Ê¹²»³ö¡¸´ïÄ¦Èý¾ø½£¡¹
+¡£\n");                                                                         
+                                                                                
+        if( (int)me->query_skill("sword") < 135 )                               
+                return notify_fail("ÄãµÄ½£·¨ÓÐÐ§µÈ¼¶²»¹»¸ß£¬Ê¹²»³ö¡¸´ïÄ¦Èý¾ø½£¡¹
+¡£\n");                                                                         
+                                                                                
+        if( target->is_busy() )                                                 
+                return notify_fail(target->name() + "Ä¿Ç°Õý¾ª»ÅÊ§´ë£¬·Åµ¨¹¥»÷°É¡
+£\n");                                                                          
+        msg = HIY "                                                             
+$NÊ¹³ö¡¸´ïÄ¦Èý¾ø½£¡¹£¬¿ÚÐú·ðºÅ£¬Ë²¼äÀï¡°à§à§à§¡±Á¬´Ì³öÈý½££¬Í¬ÑùµÄËÙ¶È£¡Í¬ÑùµÄÑ¸
+ËÙ£¡                                                                            
+$nµÄÈ«ÉíÈ«Éí¸÷´óÒªº¦¶¼ÒÑÁýÕÖÔÚ½£¹âÏÂ£¡\n"NOR;                                   
+                                                                                
+        if( random(me->query("combat_exp")) > (int)target->query("combat_exp")/3
+ ) {                                                                            
+        me->start_busy(random(3));                                              
+                                                                                
+        damage = (int)me->query_skill("damo-jian", 1)*3;                        
+        damage = damage + random(damage);                                       
+                                                                                
+        target->receive_damage("qi", damage);                                   
+        target->receive_wound("qi", damage/2);                                  
+        me->add("neili", -300);                                                 
+        msg += HIC"½á¹û$PµÄÈý½££¬½£½£¶¼´ÌÖÐÁË$p£¬$pÏó¸öÅçÑªµÄ´Ìâ¬°ãÏòºó·É³ö¡£\n"
+ NOR;                                                                           
+        target->start_busy( (int)me->query_skill("damo-jian") / 20 + 2);        
+                                                                                
+        } else {                                                                
+        me->start_busy(random(3));                                              
+                msg += "¿ÉÊÇ$p¿´ÆÆÁË$PµÄÆóÍ¼£¬¼±Ã¦¶ã¿ª£¬$PÃ»ÓÐµÃ³Ñ¡£\n" NOR;    
+        }                                                                       
+        message_vision(msg, me, target);                                        
+                                                                                
+        return 1;                                                               
+}                                                                               
+

@@ -1,0 +1,69 @@
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+[44;33m¡¼º£ÑóII×ªÉú»úÖÆ¡½                                        [2;37;0m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m
+Ò»×ª:
+Ìõ¼þ£ºÍæ¼Ò¾­Ñé´ïµ½6M£¬¿ÉÏò´óÉñÒÔÉÏWIZÌá³öÉêÇë¡£
+     (WIZÊ¹ÓÃÃüÁî:zhuanshen)
+¹ý³Ì£ºÍæ¼ÒÏÈÌìÊôÐÔ¿ÉÒÔ¼ÓÒ»±¶(×î¸ß¼Óµ½50)
+     µ«Íæ¼ÒËùÑ§ËùÓÐÎä¹¦ÇåÁã£¬»Øµ½18Ëê¡£
+     ²¢»ñ300K exp 100K pot
+¶þ×ª:
+Ìõ²®£º¾­¹ýÒ»×ª£¬Íæ¼Ò¾­Ñé´ïµ½8M,¿ÉÏò´óÉñÒÔÉÏWIZÌá³öÉêÇë¡£
+     (WIZÊ¹ÓÃÃüÁî:zhuanshenup)
+¹ý³Ì: Íæ¼ÒËùÓÐÏÈÌìÊôÐÔ´ïµ½60¡£
+     µ«Íæ¼ÒËùÑ§ËùÓÐÎä¹¦ÇåÁã£¬»Øµ½18Ëê¡£
+     µ«ÎÞexp ÎÞpot¡£
+     ÔÙ´Î»ñµÃ½â¿ª¾ÅÒõ£¬ÉñÕÕ¾­,Ë«ÊÖ»¥²«µÄÃØÃÜµÄ»ú»á
+     (±äÁ¿:jiuyin,szj,zhou)
+     ¶þ×ªºóµÄÍæ¼Ò¿ÉÒÔÓÐÈ¨ÓÐÒ»ÃûÊÌÅ®(ÊÌÍ¯)
+     (ÏòÎÞÃû¾ÓÊ¿Òª)
+     ¿ÉÒÔÊÇÄãÐÄÖÐµÄËû»òËý¡£
+     Ëû»òËý½«±¶°é×ÅÄãµÄ³É³¤¶ø³É³¤¡£
+     ¿ÉÒÔºÍÄã¹²½âÌìÏÂÃØÃÜ£¬¹²´³½­ºþ,²¢°ïÖúÄãµÄ³É³¤¡£
+
+ÊÌÅ®(ÊÌÍ¯)Ê¹ÓÃ·½·¨
+¿ÉÓÃÃüÁî
+set_name <Ãû×Ö>      ÎªÄãµÄÊÌÅ®(ÊÌÍ¯)»»Ãû×Ö
+set_long <ÃèÊö>      ÐÞ¸ÄÊÌÅ®(ÊÌÍ¯)µÄÃèÊö
+set_title <³ÆºÅ>     ÐÞ¸ÄÊÌÅ®(ÊÌÍ¯)µÄ³ÆºÅ
+ticks                ²é¿´Õ½¶·Ö¸ÁîÕóÁÐ
+      [1-5 <Ö¸Áî>]   ÉèÖÃÕ½¶·Ö¸Áî
+      [-d 1-5|all]   É¾³ýÕ½¶·Ö¸Áî
+×¢£ºÒ»µ©Éè¶¨ÁËÖ¸ÁîÕóÁÐ£¬Ô¤ÉèµÄÕ½¶·Ä£Ê½½«²»Æð×÷ÓÃ
+att <Ä³ÈË>           ¹¥»÷Ä³ÈË
+sha <Ä³ÈË>           É±ËÀÄ³ÈË
+ting                 Í£Ö¹Õ½¶·
+heji <Ä³ÈË>          ºÏ»÷Ä³ÈË
+order [un]accept object Éè¶¨[²»]½ÓÊÜÎïÆ·
+      [un]accept fight  Éè¶¨[²»]½ÓÊÜ±ÈÎä
+      <Ö¸Áî>            ÏÂ´ïÕ½¶·Ö¸Áî
+¿ÉÊ¹ÓÃÖ¸ÁîÈçÏÂ£º
+"wield", "unwield", "wear", "remove", "enable", "jifa", 
+"prepare", "bei", "exert","yun", "perform", "yong", 
+"enforce", "jiali"
+
+control <ÃüÁî>       ÒÔÌìÐÄÍ¨Ò£¿ØÊÌÅ®(ÊÌÍ¯)Ö´ÐÐÄ³Ö¸Áî
+¿ÉÒ£¿ØÖ¸ÁîÈçÏÂ£º
+"give", "wield", "unwield", "wear", "remove", "enable", 
+"jifa", "prepare", "bei", "exert","yun", "perform", 
+"yong", "enforce", "jiali", "ask", "get", "drop", 
+"l", "look", "go","say"
+
+set save_me <°Ù·Ö±È> ÉèÖÃÆøÑªÐ¡ÓÚ¶àÉÙÆô¶¯×Ô¶¯±£»¤
+hulian <¼¼ÄÜ>        »¥Á·Ä³Îä¹¦
+taolun <¼¼ÄÜ>        ÌÖÂÛÄ³Îä¹¦
+lianxi <¼¼ÄÜ>        Ö¸µ¼ÊÌÅ®(ÊÌÍ¯)Îä¹¦
+mache <µØµã>         ½ÐÂí³µÈ¥Ä³µØ
+shape <ID>          ¿´ÊÌÅ®(ÊÌÍ¯)×´Ì¬\n"NOR);
+
+¿É×öµÄ¶Ô»°ask <ID> about sth
+"×ß" :   ¸úÄã×ß
+"Ç×ÈÈ":  ×Ô¼ºÊÔ
+"µÈ´ý":  ÔÚÔ­µØµÈ´ý
+"»Ø¼Ò":  ÔÝÊ±»ØÄï¼Ò
+"×ö·¹":  ÎªÄã×öµã¾Æ²Ë
+"ÆÕÍ¨¹¥»÷": Õ½¶·ÖÐÊ¹ÓÃÒ»°ãµÄ¾ø¼¼£¬Ò²¾ÍÊÇÄÚ¶¨µÄ·½Ê½
+"Ò»°ã¹¥»÷": Õ½¶·ÖÐ²»Ê¹ÓÃ¾ø¼¼£¬¾ÍÓÃÆÕÍ¨ÕÐÊ½
+"È«Á¦¹¥»÷": Õ½¶·ÖÐÊ¹ÓÃ¾¡Á¿Ç¿µÄ¾ø¼¼
+"Ç£ÖÆ¹¥»÷": Õ½¶·ÖÐÊ¹ÓÃÊ¹¶Ô·½ÊÖÃ¦½ÅÂÒµÄ¾ø¼¼
+

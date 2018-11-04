@@ -1,0 +1,49 @@
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+[44;33m¡¼ ×Ô½¨·¿ÎÝ ¡½                                            [2;37;0m
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m
+                       
+    º£ÑóIIÖÐ£¬Íæ¼Ò×Ô¼º¿ÉÒÔÔì×Ô¼ºµÄÐ¡ÎÑ¡£
+
+    ´ÓÑïÖÝÎ÷ÃÅÏò±±£¬¹ýÌÒ»¨ÁÖ¡¢ÌÒ»¨Ïª½øÌÒ»¨¹Èµ½ÌÒ»¨´å£¬¼ûµ½´å³¤£º
+
+    zao ÎÝÃû ÎÝ×ÓÃèÊöÄÚÈÝ            (ÔìÎÝ)
+    xiu ÐÂÎÝÃû ÐÂÎÝ×ÓÃèÊöÄÚÈÝ        (ÐÞÎÝ£º¼´ÐÞ¸ÄÎÝÃûºÍÃèÊö)
+    chai                             (²ðÎÝ£º²»ÏëÒªÁË»òÔ¿³×¶ªÁË)
+
+    ÎÝ×ÓÄÚÈÝµÄÃèÊöÈç¹ûºÜ³¤£¬ÐèÒª·ÖÐÐÐ´µÄ»°£¬Çë°Ñ $ ±êÔÚ¸Ã»»ÐÐ
+µÄµØ·½¡£
+
+    ÔìÎÝÄÃµ½Ô¿³×ºóµ½ÌÒ»¨Æº£¬ÓÃunlock¿ªÃÅ¡£lock¿ÉÒÔÔÚÎÝÄÚ»òÎÝÍâ
+¹ØÃÅ¡£Ô¿³××ª½è±ðÈËÊÇÃ»ÓÐÓÃµÄ¡£
+
+    ¶ÔÓÚÒÑ¾­½á»éµÄÍæ¼Ò£¬µ½ÌÒ»¨Í¡ÕÒµ½ÌÒ»¨Í¯£¬ÏÈ¸øËûÒ»°Ù»Æ½ð£¬ÔÙ
+ÉêÇë×¡·¿(apply house )ºó£¬¿Éµ½Ô§ÑìÏª´ò¿ª×Ô¼ºµÄ·¿ÃÅ (Ö»ÒªÊäÈë×Ô
+¼ºµÄid¼´¿É) ½øÎÝ¡£ÅäÅ¼²»ÄÜÔÙÉêÇë·¿×ÓÁË£¬Òª½øÎÝÖ»ÐèÊäÈëÉêÇëÈËµÄ
+id¾Í¿ÉÒÔÁË¡£ÎÝÀïÄÜÊ¹ÓÃµÄÃüÁîÈçÏÂ£º
+
+    homename: Éè¶¨·¿¼äÃû³Æ¡£
+    homedesc: Éè¶¨·¿¼äÃèÊö¡£
+    bedname : Éè¶¨´²ÆÌÃû³Æ¡£
+    beddesc : Éè¶¨´²ÆÌÃèÊö¡£
+    findbaby: ÕÒÄãÃÇµÄÐ¡º¢¡£
+    gosleep : ÉÏ´²Ë¯¾õ¡£ÕâÑù²Å»áÓÐbaby¡£
+    sleep <sb>: ´´Ôì°®µÄ½á¾§¡£
+    makelove <sb>: ´´Ôì°®µÄ½á¾§¡£
+    Íæ¼Ò¾­¹ýÊ®ÔÂ»³Ì¥£¬ÉíÏÂº¢×Ó¡£
+    µ±È»Éúº¢×ÓµÄÊýÄ¿ÊÇÓÐÏÞÖÆµÄ£¬²»ÄÜÃÍÉú¡£:)Ð¡¼Ò»ïÓÐºÜ¶àÓÐÈ¤µÄ
+¶«Î÷£¬ºÃºÃ°®Ï§Å¶¡£
+    º¢×Ó³öÉúºó£¬ÐèÒª¶ÔÆä½øÐÐ½ÌÓýÕß»á³É³¤¡£
+    ¿ÉÓÃÖ¸Áî:
+    nie             :Äó(ºÍº¢×ÓÍæË££©
+    shua            :Ë£(ºÍº¢×ÓÍæË££©
+    ck <id>         :²é¿´º¢×Ó×ÊÁÏ¡£
+    cundang <id>    :±£´æº¢×ÓµÄ×ÊÁÏ
+    ×¢£ºº¢×ÓµÄ×ÊÁÏ±£´æÔÚ¸¸Ä¸µÄÉíÉÏ£¬Çë¸¸Ä¸´æµµÊ±±£³ÖÍ³Ò»¡£
+    jiaoyang <id> about <skills>
+                    :½ÌÓýº¢×Ó,º¢×Ó»áÂýÂý³¤´ó£¬³¤´óºó»áÂýÂý±äÇ¿¡£5Ëêºóº¢×Ó¾ÍÄÜÑ§Îä¹¦ÁË¡£
+    minglin <cmds>  :ÃüÁîº¢×Ó×öÄ³ÊÂ¡£
+    ¿ÉÓÃÃüÁî: 
+    ( wield", "unwield", "wear", "remove", "enable", "jifa", "prepare", "bei", "exert" )
+    ("yun", "perform", "yong", "enforce", "jiali", "eat", "drink", "kill", "hit", "say")
+    
+[33m©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤[2;37;0m
